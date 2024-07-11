@@ -3,7 +3,7 @@
   alt="Civiliaciones del mundo actual"
   width="400"
   height="230" 
-/>
+/></br>
 Del 100 a 199: Canales internacionales en español ordenados por las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">9 civilizaciones actuales</a>:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 109: Latinoamericanos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;110 A 119: Africa Subsahariana</br>
