@@ -9,8 +9,8 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 106 Bolivia (BTV)
 https://60417ddeaf0d9.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TN)
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TVP)
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 110 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
