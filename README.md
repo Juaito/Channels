@@ -11,8 +11,8 @@ Del 100 a 199: Canales de TV internacionales en español ordenados por las <a hr
 
 
 <img
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Culturalia_Mundi.png/1280px-Culturalia_Mundi.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
   alt="Civiliaciones del mundo actual"
-  width="400"
-  height="230" 
+  width="450"
+  height="225" 
 />
