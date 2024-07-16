@@ -26,6 +26,9 @@ De 600 a 699: Cine y entretenimiento</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
 Mayor al 899: Contenido para adultos</br>
+
+
+
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
   alt="Civiliaciones del mundo actual"
