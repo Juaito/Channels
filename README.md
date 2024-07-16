@@ -1,3 +1,10 @@
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
+  alt="Civiliaciones del mundo actual"
+  width="250"
+  height="122" 
+/>
+
 Menor al 100: Canales de TV en México.</br>
 De 100 a 199: Canales de TV internacionales en español ordenados por las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">9 civilizaciones actuales</a>:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 109: Latinoamericanos</br>
@@ -26,12 +33,3 @@ De 600 a 699: Cine y entretenimiento</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
 Mayor al 899: Contenido para adultos</br>
-
-
-
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
-  alt="Civiliaciones del mundo actual"
-  width="250"
-  height="122" 
-/>
