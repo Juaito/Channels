@@ -32,4 +32,4 @@ De 500 a 599: Música</br>
 De 600 a 699: Cine y entretenimiento</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
-Mayor al 899: Contenido para adultos</br>
+Mayor al 899: Contenido para adultos (solo el archivo TV-R18)</br>
