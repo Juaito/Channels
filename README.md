@@ -12,7 +12,7 @@ Imagen de las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">9
 Menor al 100: Canales de TV en México.</br>
 De 100 a 199: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 109: Latinoamericanos</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;110 A 119: Africa Subsahariana</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;110 A 119: África Subsahariana</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120 a 139: Occidentales</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140 a 149: Europa oriental</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 a 159: Mundo islámico</br>
@@ -22,7 +22,7 @@ De 100 a 199: Canales de TV internacionales en español ordenados por las civili
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;190 a 199: Japón</br>
 De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;200 a 209: Latinoamericanos</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;210 A 219: Africa Subsahariana</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;210 A 219: África Subsahariana</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;220 a 239: Occidentales</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;240 a 249: Europa oriental</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;250 a 259: Mundo islámico</br>
