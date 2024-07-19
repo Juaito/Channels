@@ -1,0 +1,11 @@
+#EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 45.2 Senadores
+*****https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados
+*****https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
