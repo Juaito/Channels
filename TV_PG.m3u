@@ -258,8 +258,8 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Qatar (AlJazeera)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Turquía (TRT)
-*****https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Turquía (TRT)
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
 
 *****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 *****https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
