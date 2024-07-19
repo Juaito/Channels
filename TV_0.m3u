@@ -20,3 +20,6 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 628 Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
