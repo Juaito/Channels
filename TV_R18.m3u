@@ -156,6 +156,12 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 102 Venezuela (TeleSur)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 103 Colombia (RTVC)
+https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (Institucional)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 105 Perú (TVPE noticias)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
