@@ -678,8 +678,8 @@ https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
 *****#EXTINF:-1 group-title="CANALES DE FUTBOL", 878 Futbol MX y otros
 *****https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES DE FUTBOL", 879 Futbol MX y otros
-https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
+*****#EXTINF:-1 group-title="CANALES DE FUTBOL", 879 Futbol MX y otros
+*****https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
 
 *****#EXTINF:-1 group-title="CANALES DE FUTBOL", 880 Futbol MX y otros
 *****https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
