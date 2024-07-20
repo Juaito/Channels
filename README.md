@@ -36,4 +36,4 @@ De 500 a 599: Música</br>
 De 600 a 699: Cine y entretenimiento</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
-Mayor al 899: Clasificación TV-MA, solo en el archivo del nombre <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg/782px-Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg.png">TV-D</a></br>
+Mayor al 899: Clasificación TV-MA, en el archivo de nombre <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg/782px-Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg.png">TV-D</a></br>
