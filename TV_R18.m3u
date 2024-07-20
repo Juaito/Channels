@@ -33,7 +33,7 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 04.2 TV4 dos (GTO)
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 04.3 TV4 Deportes (GTO)
+#EXTINF:-1 group-title="TV LOCAL", 04.3 TV4 Deportes
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 04.4 N+ Monterrey
