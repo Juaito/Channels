@@ -8,7 +8,7 @@ Esta es una lista de canales favoritos en lengua española y algunos en idioma i
   width="125"
   height="125" 
 /></br>
-Imagen de la <a href="https://dgrtc.segob.gob.mx/es/DGRTC/CINEMATOGRAFIA">clasificación mexicana</a> de contenidos audiovisuales:</br>&nbsp;</br>
+<a href="https://dgrtc.segob.gob.mx/es/DGRTC/CINEMATOGRAFIA">Clasificación mexicana</a> de TV</br>
 
 Menor al 100: Canales de TV en México.</br>
 De 100 a 199: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
