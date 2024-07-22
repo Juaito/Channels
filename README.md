@@ -8,10 +8,7 @@ Esta es una lista de canales favoritos en lengua española y algunos en idioma i
   width="125"
   height="125" 
 /></br>
-Imagen de las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">Clasificación</a></br>&nbsp;</br>
-
-
-El archivo TV-E contiene canales con enlaces inestables o rotos.</br>&nbsp;</br>
+Imagen de la <a href="https://dgrtc.segob.gob.mx/es/DGRTC/CINEMATOGRAFIA">clasificación mexicana</a> de contenidos audiovisuales:</br>&nbsp;</br>
 
 Menor al 100: Canales de TV en México.</br>
 De 100 a 199: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
@@ -48,3 +45,5 @@ Mayor al 899: Clasificación TV-MA, en el archivo de nombre <a href="https://upl
   height="122" 
 /></br>
 Imagen de las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">9 civilizaciones actuales</a>
+
+El archivo TV-E contiene canales con enlaces inestables o rotos.</br>
