@@ -115,7 +115,7 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 20.1 TV UNAM
-https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
+https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX)
 https://video.cdmx.gob.mx/redes/stream.m3u8
