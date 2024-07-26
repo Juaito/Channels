@@ -243,8 +243,8 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 201 Brasil (RN)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 202 Brasil (JP News)
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 202 Brasil (JP News)
+*****https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
