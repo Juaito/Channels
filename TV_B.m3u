@@ -105,6 +105,9 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 14.2 @prende+
 https://stream.aprende.gob.mx/live/hls/index.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 14.3 TV Migrante
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 15.1 Telemax (Sonora)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
