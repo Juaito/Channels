@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV LOCAL", W
-https://upload.wikimedia.org/wikipedia/commons/e/ea/Warning_Symbol.png
-
 #EXTINF:-1 group-title="TV LOCAL", 9.1 El Nu9ve
 https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
