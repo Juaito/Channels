@@ -72,9 +72,6 @@ https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 09.1 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 09.2 N+ Coahuila
-https://ythls.armelin.one/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 10.1 Canal 10 (Chiapas)
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
