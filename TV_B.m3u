@@ -219,7 +219,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 #EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (EWTN)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 132 Vaticano
+#EXTINF:-1 group-title="TV INTERNACIONAL", 132 Vaticano (VM)
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 133 Francia (Euronews)
