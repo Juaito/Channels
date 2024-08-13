@@ -28,6 +28,9 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
+#EXTINF:-1 group-title="MUSICA", 599 Youtube DarkWave
+https://www.youtube.com/embed/S_MOd40zlYU?si=jW18DQw1JLSbEz5i
+
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 628 Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
