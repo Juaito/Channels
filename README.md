@@ -10,7 +10,7 @@ Esta es una lista de canales de radio y televisión favoritos en lengua español
 /></br>
 <a href="https://dgrtc.segob.gob.mx/es/DGRTC/CINEMATOGRAFIA">Clasificación mexicana</a></br>
 
-Menor al 200: Canales de TV y Radio en México.</br>
+Menor al 200: Canales de TV y Radio FM en México.</br>
 De 200 a 299: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;200 a 209: Latinoamericanos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;210 A 219: África Subsahariana</br>
