@@ -159,10 +159,13 @@ http://181.78.105.146:2000/play/a046/index.m3u8
 *****#EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados
 *****https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="RADIO FM", 88.9 Noticias
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC
+
 #EXTINF:-1 group-title="RADIO FM", 89.7 Radio Coahuila
 https://cryt-stream.mx:8443/cryt-xhsoc
 
-#EXTINF:-1 group-title="RADIO FM", 93.1 Radio Hits
+#EXTINF:-1 group-title="RADIO FM", 93.1 Radio Hits 
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFM_SC
 
 #EXTINF:-1 group-title="RADIO FM", 93.5 Stereo Saltillo
@@ -174,8 +177,23 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC
 #EXTINF:-1 group-title="RADIO FM", 94.7 Radio Imagen
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
 
+#EXTINF:-1 group-title="RADIO FM", 96.1 Radio UNAM 
+https://tv.radiohosting.online:9484/stream
+
+#EXTINF:-1 group-title="RADIO FM", 97.7 Radio Concierto
+http://162.241.190.126:8000/Radioconcierto.mp3
+
+#EXTINF:-1 group-title="RADIO FM", 98.5 Heraldo Radio
+https://n11.radiojar.com/g33sp4yqd6quv?rj-ttl=5&rj-tok=AAABkUqcdDkAgOWLGbg-G1m44Q
+
 #EXTINF:-1 group-title="RADIO FM", 98.9 D99 MTY
 https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
+
+#EXTINF:-1 group-title="RADIO FM", 102.5 Noticias MVS
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 106.5 Digital RCG
+https://radio.rcg.com.mx:7000/stream/1/
 
 *****#EXTINF:-1 group-title="TV INTERNACIONAL", 200 Cuba (CIV)
 *****https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
