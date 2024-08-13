@@ -1,25 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="REGIONAL", 89.7 Radio Coahuila
+#EXTINF:-1 group-title="RADIO FM REGIÓN NORESTE", 89.7 Radio Coahuila
 https://cryt-stream.mx:8443/cryt-xhsoc
 
-#EXTINF:-1 group-title="REGIONAL", 93.1 Radio Hits
+#EXTINF:-1 group-title="RADIO FM REGIÓN NORESTE", 93.1 Radio Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFM_SC
 
-#EXTINF:-1 group-title="REGIONAL", 93.5 Stereo SLW
+#EXTINF:-1 group-title="RADIO FM REGIÓN NORESTE", 93.5 Stereo SLW
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM_SC
 
-#EXTINF:-1 group-title="REGIONAL", 94.5 Radio Zócalo
+#EXTINF:-1 group-title="RADIO FM REGIÓN NORESTE", 94.5 Radio Zócalo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC
 
-#EXTINF:-1 group-title="REGIONAL", 94.7 Radio Imagen
+#EXTINF:-1 group-title="RADIO FM REGIÓN NORESTE", 94.7 Radio Imagen
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
 
-#EXTINF:-1 group-title="REGIONAL", 98.9 D99
+#EXTINF:-1 group-title="RADIO FM REGIÓN NORESTE", 98.9 D99
 https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
 
-#EXTINF:-1 group-title="FOLK", 201 ¡Que viva México!
+#EXTINF:-1 group-title="FOLK MEXICANO", 201 ¡Que viva México!
 https://panel.retrolandigital.com/listen/que_viva_mexico/listen
 
-#EXTINF:-1 group-title="FOLK", 202 ¡Viva el Mariachi!
+#EXTINF:-1 group-title="FOLK MEXICANO", 202 ¡Viva el Mariachi!
 https://stream-169.zeno.fm/gs4xg5s0csmtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnczR4ZzVzMGNzbXR2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlpLS24wbkxXU3lTbzZRZzZfWUhtOFEiLCJpYXQiOjE3MjM1MTgwMjAsImV4cCI6MTcyMzUxODA4MH0.GXCVwppcXC-v3wAz-MCFsxrWqbq-laflk5H9NLSII6M
+
