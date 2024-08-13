@@ -51,7 +51,10 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 06.4 TeleDiario
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 group-title="TV LOCAL", 06.5 MVS TV
+#EXTINF:-1 group-title="TV LOCAL", 06.5 C4 en Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
+
+#EXTINF:-1 group-title="TV LOCAL", 06.6 MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
@@ -153,256 +156,271 @@ http://181.78.105.146:2000/play/a046/index.m3u8
 *****#EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados
 *****https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
+#EXTINF:-1 group-title="RADIO FM", 89.7 Radio Coahuila
+https://cryt-stream.mx:8443/cryt-xhsoc
+
+#EXTINF:-1 group-title="RADIO FM", 93.1 Radio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 93.5 Stereo SLW
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 94.5 Radio Zócalo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC
+
+#EXTINF:-1 group-title="RADIO FM", 94.7 Radio Imagen
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 98.9 D99
+https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
+
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 200 Cuba (CIV)
 *****https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 101 Venezuela (TeleSur)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 201 Venezuela (TeleSur)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 102 Colombia (RTVC)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 202 Colombia (RTVC)
 https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 103 Colombia (Institucional)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 203 Colombia (Institucional)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 105 Perú (TVPE noticias)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 205 Perú (TVPE noticias)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 106 Perú (TVPE Internacional)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 206 Perú (TVPE Internacional)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 107 Bolivia (BTV)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 207 Bolivia (BTV)
 https://60417ddeaf0d9.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8
 
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TVP)
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 209 Argentina (TVP)
 *****https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 110 Guinea E. (TVGE)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 210 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Guinea E. (Asonga)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 211 Guinea E. (Asonga)
 https://live.homeafrika.es/live/idikpc.flv
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 220 España (24h)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 121 España (TVE)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 221 España (TVE)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 122 España (TVE Star)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 222 España (TVE Star)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 123 España (El Confidencial)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 223 España (El Confidencial)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 124 España (El País)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 224 España (El País)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 125 EEUU (T al día)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 225 EEUU (T al día)
 https://jmp2.uk/SamsungTVPlus/USBB3200016HO.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 126 EEUU (T Noticias)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 226 EEUU (T Noticias)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 127 EEUU (U 24|7)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 227 EEUU (U 24|7)
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 128 EEUU (CÑÑ -10min)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 228 EEUU (CÑÑ -10min)
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 129 EEUU (Estrella News)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 229 EEUU (Estrella News)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (The Weather)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 230 EEUU (The Weather)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (EWTN)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 231 EEUU (EWTN)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 132 Vaticano (VM)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 232 Vaticano (VM)
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 133 Francia (Euronews)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 233 Francia (Euronews)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 134 Francia (France 24)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 234 Francia (France 24)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 136 Alemania (DW -30min)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 236 Alemania (DW -30min)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 140 Rusia (RT)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 240 Rusia (RT)
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 141 Rusia (TV BRICS)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 241 Rusia (TV BRICS)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 250 Irán (HispanTV)
 https://live.presstv.ir/hls/hispantv.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 280 China (CGTN)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 290 Japón (NHK)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist-back.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 200 Brasil (CanalGov)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 300 Brasil (CanalGov)
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 201 Brasil (RN)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 301 Brasil (RN)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 202 Brasil (JP News)
-*****https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 302 Brasil (JP News)
+******https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 310 Nigeria (Channels)
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (Fox News)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 326 EEUU (Fox News)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (TED Talks)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 327 EEUU (TED Talks)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8?ads.dpname=distrotv&ads.rnd=00fs&ads.env_i=08b51f73-28f7-46a4-b96b-7ffc30a071d9&ads.env_u=3c5a6458-764a-46f1-8746-f56dea40471e&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=393&ads.height=221&ads.deviceId=3c5a6458-764a-46f1-8746-f56dea40471e&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=3c5a6458-764a-46f1-8746-f56dea40471e&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=200.68.140.50&ads.geo=MX&ads.lat=19.43420&ads.long=-99.05590&ads.dma=false&ads.geoType=2&ads.contentid=23072&ads.content_duration=18000&ads.episode_id=89260&ads.show_id=3305&ads.showCategories=IAB5&ads.episodeCategories=IAB5&ads.genre=Education%2CInfotainment%2CDocumentary&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=TED&ads.episodetitle=TED&ads.keywords=TED%2CTED%20Talks%2CCulture%2CScience%2CTechnology%2CEntertainment%2CEducation&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fted%2F&ads.paln=AQzzBGQEMR1CPmwWw4vQ8hJad2OzaxFfuJl9JZFd8-vNpFn7ZD7_A9ddjF8vwJC9JSOQkDXvFW4UCVroEEJGglIXdSd13tLCcA4leEnAS4F146AVqmpxi4XtGw5BBQWGBzVwaU7vBFvslfZeB8DFf8lmKJSPPWM73azP5m6F3ZZnPoeu91TfNVVTsnozvIfs4pNAiGCJxBKY42wlhjp1ic_hlExPOyZcrF19IHC47AUt8CqsyX4Wvd3WZunhm7yvCf2ATxDRdLyU27_3Xbs5ZhjUW4BjnDw-oLo6jqsRUFdNnSYGGJf6MPTGvE4zI6MnZ2OkyV5J-0Vgrr8--_6TU9AUsV7hgd7porrwxcm-KlVh2uJ9HUaY6dggyjpNmPLAWUMP_CdMGM_BtnTYAe_kNqpVduyr15d3QTiJxS8ZbVBIxdjeBoAZR8osmiKgx1ZtxkEsJiAqL0o8RQfb1XTjwjMYRQAH7QmoLH68whZlcZG4Ho2kkCqo36Y82652H_sVzGppZFYnj5cjDY4uTGAmPKA3ShEu9eOBjeKua3TMoh5-VNZy7dPz9m6uwos_zHJS5Q64HNfqOt_nwC4d4F5ciL9D5UIhqJHXdzldNVPmGZArmjIBYx0ExRrtyuTUUnvSuvxHcNhqkoM-0cVKWBeJs7JFJCCUoZzRFN-rgr8IHZxNrYe0j2BxwJlvwVliHakUsBJKp_U2hYmNpSTAF2GmaztY_DVm16fNI15kbYW4lDvnYhmPoVLiof43gkHgNHHHDuN4M2g2OGv1Ak-ECRH1bpJi59rd4FXLcr8n4j9KgSC7-LEucAf0PrPGoMXVRlkgF4trwJhn1yYuCeAo6Mb88iyt9rzYVf4VLpnOyyAk6UhXcUowzJdMGrYKGdNzA3AW5GOmkeDPlVNjDGX64xWjHgSSD2kVAhquCl3eK5LM77Ra2mZ4QuOTamho_e16HReJxCXWo69ZN5Fv2sEMb7Jg4g98XbbS2J2_GJheQm2LaMRkdZ4CLB_LFSBd-BxXBUyU6XvMA9OkDd3OTM9ShH8THNwKAN6xEToZlC4tONtihJHbKs2nhbUiZS8rtN84sEKCOIXrc2psyxXHqa7xhI9Mkmd-KavP6Bvfly5BWicze6oUnaRJAdywkhurq9s5ioXuSi6frgprWJ0BNYFfWa_Wijsi3vkpkO89tDYYd09P1xAx313lz3TVa2R4zo9ZuKQoKVCwYgSCE3PD7kNDjHB-hZ-pXTtzUcWwaS9zyh5e1EvfbSS5vkfgnc-VwoJEVBeCpNhMyZxsSwZd7nKunLdQlvcGVwUh971Bkc6F28YuiIHTRZB-oW7WGcPDtTNxzUssOQ_sqWK657xQlCv18EoxxUShzaRB2-cCVit20uyA0zUu-xICmeJVD5ohpCoxF-SGw76IoDKlpGeVJIOEskM.&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20240520
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (NASA TV Public)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 328 EEUU (NASA TV Public)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (NASA TV Media)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 329 EEUU (NASA TV Media)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 Inglaterra (BBC)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 330 Inglaterra (BBC)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 Inglaterra (BBC Home)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 331 Inglaterra (BBC Home)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC Earth)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 332 Inglaterra (BBC Earth)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 339 Israel (i24)
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 240 Rusia (RT Documentary)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 340 Rusia (RT Documentary)
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Qatar (AlJazeera)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 350 Qatar (AlJazeera)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Turquía (TRT)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 351 Turquía (TRT)
 https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
 
-*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
+*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 352 República Saharaui (RASD)
 *****https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 260 India (India Today)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 360 India (India Today)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 261 India (Bollywood Classic)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 361 India (Bollywood Classic)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=qcne&ads.env_i=eec5da19-62c5-4787-8974-ec68733ce893&ads.env_u=b633b26e-ec0f-4115-8067-fea162c380b1&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=202&ads.deviceId=b633b26e-ec0f-4115-8067-fea162c380b1&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=b633b26e-ec0f-4115-8067-fea162c380b1&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=187.156.160.84&ads.geo=MX&ads.lat=25.02910&ads.long=-101.12510&ads.dma=false&ads.geoType=2&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CClassic%20Movies%2CBollywood&ads.showRating=TV-14&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic%2Cdesi&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fbollywood-classic%2F&ads.paln=AQzzBGQECflA2AQ8j10vEFFsLParWPiRA5tPezRDcPHLqGVhFdnRUGKQ9wHnBoiSj06hzA6p5mgx5SEsHqdu21Twr8GsYu7aYuhT8GL5WIbgVxkEzol1hccWHkQxyipyVJTHvXq2FWYyugK3l83ZHcKn5V4IDZnBxZgCXUEdb8wgOhItjnKeasICqOq6yGhWhYk-0YMBFixv6LYq-RjGC7L5MAMRg45ojuOkJgRxdZq9qN8tH__58ga8fp2tEQYhr9tLGFqEqaW1Sah5o9bxIi0Dsj1qroRonZX8KgA0eVRQkZi1_gVuKiLIDkgYms2Mu8WqyiYETxTDpx5tQFk1rEQ8g59QdbLuItB-6NxcgQk_U8xjqBnp2MYN3hBwxKj5xmzrFv2IRB2ma0pL3Bxt5JN1QXuJxH3jb410JnKHsYqhntTL3OteyEN3nZ_k04fyYNsjAfgAG-bTIParuJjDRWg7VWwrlt5C27ZWyWqzawgpD3XA4ZuZkA5EndgDLrF-i4_OmGQWlqxGTkXfk2BzPC-PppDcX2Szt8BIMCpdoIHNrpjbPTvB2ushG2O-cyzBrSsJWnmp09RJus4p1E5A4G3YladZ9jUzUrCMW2ZBDsQuAhXUv6sVz5ElnVmp_u0p_3_SnOEayaKw_A0U8dEboV7f_1O0gQ1QV26ohLuQ14lKJSrbNF_qkEL0pXGXnm6ncHCa-ZukuZd0Dl0TXjggKo3mM3vaK1Ni_YV64rtntGw6u5ipPWP80dVvIa_BywSGml6pBSMWIlbw-sqwQcttarq3kA7FTyYRH_9CqKS6XlGhSHdzx7Lwx6Tt9fZUr2e7thSjMDBd2246Lck_m-GLjinC4bdNQVFQRWvolqV959ocUp02JlJy5edygk9cSE29XeQpb4W33-z0g2tEVrXPXXs0hfgEZd27lGp2N5Bnelmotgk6NN58WB4MY5LbqB7SFXsTL_oauMSXLpcs9G3lMeBGjQyKlgWvIRtmKANqNpKk1hNRDYu2K7Y2vHZBkvFur_EXW4Vqw38tky_-kFlarMmX2dTHj1tyvjLOhwlizXZpSr8YLsFP1VaL1PR5z83wxg8wEqjpQKWYjXghGgckBIcj_GegvBzlHWP6kLB9ry6DUqb7SXeXmskGNuPJOENaO1a_IpyqJhnxH4gGS8NgirtrXWeuN_lECr0FAeH8tdKnl9BetbGsaDoP8gQ-7NNqELvu8BtJkdLxvkiEUXtj_FuLZebFFMr_7skjztfDkiScdug6uh4ILEp3QpzS1ZtZh0_EbL7Vn0sJnRYarZyughFdhKxXO8qtee1a4B7bjFw4GNCfco60f4G0yPtTl31imobabU6fG0jNIbv5SUVJqKe5k8y-Pb3MWMkZuR2RYQgjqfK-s8yLTjh85-d8pU2431PoIWMvUHlG5P9nPx_i8h56COjOPyeZS0KQSJ0q&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 262 India (Bollywood HD)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 362 India (Bollywood HD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=4r1f&ads.env_i=f4c3af53-d998-49db-9c8f-8e3722fd3b63&ads.env_u=b633b26e-ec0f-4115-8067-fea162c380b1&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=202&ads.deviceId=b633b26e-ec0f-4115-8067-fea162c380b1&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=b633b26e-ec0f-4115-8067-fea162c380b1&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=187.156.160.84&ads.geo=MX&ads.lat=25.02910&ads.long=-101.12510&ads.dma=false&ads.geoType=2&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fbollywood-hd%2F&ads.paln=AQzzBGQExwAsWwlojvS5TgJN5v8sxSD1VUjx_aPqZn8JhtHClkX_IXCdNyyMPK8YMID49GDaQJOd1OS82oEoXvFxnF6h3qWtRaPZAhugg-Ip8C-RqvMa0QmC3Bhn9r8BmuaVk9VGVTbQcqI5gIsWu3txAUiXl1X013hLYnZ47v97wMsh4nEgr-5nFUuCV5qQDVTr__tE2mb9LfiFswD8-FZupkqhAZFdQTFyTAySTxt_c_pvXWZT7K8kbHChA1EvzjcQRomEJnhuCDFpre1azejVs0DuBiDXmJNdAtY6VtRi0TKPV1N01sUIGR8AuhRzkFQ0cjelYVVz0fwErXIFzKFyLdLlnr7vWd81wfolxPRWGqVv3MTX9kKB9uTEn594yp4alwxPZo4Y3-0pJPU7dQsje3a0SgbT0fRvhtjQP7hQXolHxfNoDIbgTL7vx4m3W2tyDvBjP5kdvBFJnBxiUTAZfWJySXyuiIpUa7SHFGLwzFJvH2UKFgA6gdFcCou1tnz1wbjjRWc7YvF1y5HjdGBCtTmniIa4hYNK45QdT_4Arx8H-mdeGv935jJ37pB5XfCn3BZlYpr19O55coh2Fil-Lkt3UbxijhdOrZm_rx6Q6gjrcVU6H4XOCf2g5_vnz8P0Dr0PvVhSNjHagnAX4zDQ3lnVWOxTmQsrcL-mmJAETl6gO26mxUmFJQ3N0GKDJ3-F36EV5SgABt8kltMiqbmQ6lLIzgCdur57NDLAig9IisqlovAPK8mXLNaszmuQSvTdPZB-02KW_7iVIeRtPEgc5c51BgxIfK5gN-yGTw2DDPYNWItu4QfAx1---ZNn1J83Jb1nBiy9zJAmMZdA6IAWeN01ehpCMZVHaOTbS_qhdTb1oYotG7EN4-H1iaMZA3IkjvuBr5u_wb5snbnOZdCgHSaOaPPE6FXY__rEp3cxS7O-zP_iI3Xjy_LHvhwqTiMpP4UV_jOJIhMsUbQnr_4u4GdLjaJ5YGovrdHrK-PDStR9gL9R_nJbYSOmX7UniIJ_oGs0PHzxkSHNy04l8RLYS1pWuZlumeO4FVHnj1bY6AWf8d93p0wqOcTCRFNhdcR_kGi6sTWDKzIJjKKPpPP47yCH2Y9v46XRz2ugqXPRltQx-D_UEy3Lk7fjZNmgO3upmVBuSUthzUojUVwlhxSgaa2RAmUCpEJ6T2tGlABckCpTwa1Urdi1mR6fcsQHKC7gJRazGMcs1deqCIy3lKijXixyYgggzLtFgHupvsIQ7FxE4QaKxYboflzjfvwXG-wLuq9aK471s9Ofm5-6GKnbesbM-LW05wfxgegHeyGtKm5BKMIpMH9GlutCJklSGma331OwBwDqeMPBtcWOrh8M2zkWk8fbt7x04Vt3Odbk63HO08K3pzqQ&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 270 Tailandia (GBN)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 370 Tailandia (GBN)
 https://us.gbnus.com/live/dhamma_low/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 280 Singapur (CNA)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 380 Singapur (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 281 China (CGTN Documentary)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 381 China (CGTN Documentary)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 282 Surcorea (KBS World)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 382 Surcorea (KBS World)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 Norcorea (KCTV)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 383 Norcorea (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 301 Saber más
+#EXTINF:-1 group-title="TV TEMÁTICA", 401 Saber más
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=sabermas&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853826&id=2606&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=2lJaFyiADSfR2zs4oCF3Zf2iZ%2Fa2qfPV6YjR5iw1jTI%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=sabermas&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 302 Pluto TV Ciencia
+#EXTINF:-1 group-title="TV TEMÁTICA", 402 Pluto TV Ciencia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 303 Smithsonian Channel
+#EXTINF:-1 group-title="TV TEMÁTICA", 403 Smithsonian Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 305 Mundo geek
+#EXTINF:-1 group-title="TV TEMÁTICA", 405 Mundo geek
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 310 Mundo viajero
+#EXTINF:-1 group-title="TV TEMÁTICA", 410 Mundo viajero
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 311 Pluto TV Historia
+#EXTINF:-1 group-title="TV TEMÁTICA", 411 Pluto TV Historia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 320 Misterios Médicos
+#EXTINF:-1 group-title="TV TEMÁTICA", 420 Misterios Médicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 330 Pluto TV Naturaleza
+#EXTINF:-1 group-title="TV TEMÁTICA", 430 Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 331 Pluto TV Animales
+#EXTINF:-1 group-title="TV TEMÁTICA", 431 Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 332 Vivir con Perros
+#EXTINF:-1 group-title="TV TEMÁTICA", 432 Vivir con Perros
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 333 Vivir con Gatos
+#EXTINF:-1 group-title="TV TEMÁTICA", 433 Vivir con Gatos
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 340 Pluto TV Diseño
+#EXTINF:-1 group-title="TV TEMÁTICA", 440 Pluto TV Diseño
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64db2e0835425100080f2f5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 350 Pluto TV Recetas
+#EXTINF:-1 group-title="TV TEMÁTICA", 450 Pluto TV Recetas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 351 Tastemade
+#EXTINF:-1 group-title="TV TEMÁTICA", 451 Tastemade
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 352 Cooking Panda
+#EXTINF:-1 group-title="TV TEMÁTICA", 452 Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YNN&did=38037cadeb346ad52e5ae1c3a71a9721&ifa_type=dpid&app_bundle=&app_store_url=https%3A%2F%2Fwww.cookingpanda.com%2Fdevices&app_domain=cookingpanda.com&app_name=cookingpanda&custom_targeting=html5&custom_4=distro&player_height=720&player_width=1280&content_channel=cookingpanda&content_dist_name=distro&device_make=&device_model=&device_os=html5&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&gender=not_specified&yob=0&ads.dpname=distrotv&version=12.5&id=901&partner=distro&ads.rnd=4jgf&ads.env_i=9731b360-3649-4467-a568-38b4ab596f56&ads.env_u=3c5a6458-764a-46f1-8746-f56dea40471e&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=393&ads.height=221&ads.deviceId=3c5a6458-764a-46f1-8746-f56dea40471e&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=3c5a6458-764a-46f1-8746-f56dea40471e&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=187.156.161.56&ads.geo=MX&ads.lat=25.02910&ads.long=-101.12510&ads.dma=false&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=40434&ads.show_id=1210&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CEntertainment%2CTravel%2CFood&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Cooking%20Panda&ads.episodetitle=Cooking%20Panda&ads.keywords=cooking%20panda&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fcooking-panda%2F&ads.islive=1&ads.streamtype=live&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=distro&custom_param_5=html5&custom_param_6=Central%20America
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
+#EXTINF:-1 group-title="TV TEMÁTICA", 460 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 361 Ideas en 5 Minutos
+#EXTINF:-1 group-title="TV TEMÁTICA", 461 Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 370 Power Nation
+#EXTINF:-1 group-title="TV TEMÁTICA", 470 Power Nation
 https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/c5ba246b-d7b0-4ce8-9460-49f0802db9b6/live.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 371 Mi Coche Clásico
+#EXTINF:-1 group-title="TV TEMÁTICA", 471 Mi Coche Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 380 Bob Ross
+#EXTINF:-1 group-title="TV TEMÁTICA", 480 Bob Ross
 https://amg01201-cinedigmenterta-bobrossspanish-lgus-nm4nz.amagi.tv/playlist/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
 
-#EXTINF:-1 group-title="CRIMEN", 401 C4 en Alerta
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
-
-#EXTINF:-1 group-title="CRIMEN", 402 True Crimen
+#EXTINF:-1 group-title="TV TEMÁTICA", 490 True Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
-#EXTINF:-1 group-title="CRIMEN", 403 Sangre fría
+#EXTINF:-1 group-title="TV TEMÁTICA", 491 Sangre fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
 
-#EXTINF:-1 group-title="CRIMEN", 412 Pluto TV Investiga
+#EXTINF:-1 group-title="TV TEMÁTICA", 492 Pluto TV Investiga
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 413 Cazador de Homicidas
+#EXTINF:-1 group-title="TV TEMÁTICA", 493 Cazador de Homicidas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="CRIMEN", 414 Los archivos del FBI
+#EXTINF:-1 group-title="TV TEMÁTICA", 494 Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 415 Archivos Forenses
+#EXTINF:-1 group-title="TV TEMÁTICA", 495 Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 416 The New Detectives
+#EXTINF:-1 group-title="TV TEMÁTICA", 496 The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 417 Misterios sin Resolver
+#EXTINF:-1 group-title="TV TEMÁTICA", 497 Misterios sin Resolver
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="MÚSICA", 501 Ritmos Inolvidables
@@ -471,8 +489,38 @@ http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="MÚSICA", 561 CCTV-15 HD
 http://61.138.128.226:19901/tsfile/live/0019_1.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 590 Stingray Naturescape
+#EXTINF:-1 group-title="MÚSICA", 570 Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 580 ¡Que viva México!
+https://panel.retrolandigital.com/listen/que_viva_mexico/listen
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 581 ¡Viva el Mariachi!
+https://stream-169.zeno.fm/gs4xg5s0csmtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnczR4ZzVzMGNzbXR2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlpLS24wbkxXU3lTbzZRZzZfWUhtOFEiLCJpYXQiOjE3MjM1MTgwMjAsImV4cCI6MTcyMzUxODA4MH0.GXCVwppcXC-v3wAz-MCFsxrWqbq-laflk5H9NLSII6M
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 582 Radio Folk Perú
+https://stream-159.zeno.fm/baxwy8zv3gruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiYXh3eTh6djNncnV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjJUcnVqZHZWVGRtWmRhTHU4NXB3MUEiLCJpYXQiOjE3MjM1MTk5NjMsImV4cCI6MTcyMzUyMDAyM30.zm186OiBuclCWDDtTMkfB4z9BhBBajF7tJGD3vZCDCM
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 583 Perú Folk Radio
+https://raymistream.net/listen/perufolkradio/live
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 584 Antena Sur Perú
+https://stream-156.zeno.fm/tu63bf6g31zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dTYzYmY2ZzMxenV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijk2dlI4TzN6UmZ5VElueFJwQUpHYlEiLCJpYXQiOjE3MjM1MjA1MTIsImV4cCI6MTcyMzUyMDU3Mn0.DvLZVZV1KcZJyaGFqNnZptoN3ejiNNnhKM1ZmUrhpAY
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 585 Nacional Folklórica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 586 Radio Folcklorica
+https://stream.radioinfo.ar/p/8050/
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 587 Folklore Córdoba
+https://player.xcast.com.br/proxy/7296/stream/1/
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 589 Rádio Plus Samba
+https://stm6.mestrestream.xyz:8390/stream/1/
+
+#EXTINF:-1 group-title="RADIO FOLCLÓRICO", 590 Brisa de Samba
+https://stream-158.zeno.fm/m7214h88azzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtNzIxNGg4OGF6enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJEQ0ozdkxNVE5hTmR4bEMyMjJScmciLCJpYXQiOjE3MjM1MjQzNjIsImV4cCI6MTcyMzUyNDQyMn0.pJzgftYVj2VcudA-1je_Wjf9OOApLls4-2cKdBx33pw
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 601 Runtime TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
