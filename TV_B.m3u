@@ -51,7 +51,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 06.4 TeleDiario
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 group-title="CRIMEN", 06.5 C4 en Alerta
+#EXTINF:-1 group-title="TV LOCAL", 06.5 C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 
 #EXTINF:-1 group-title="TV LOCAL", 06.6 MVS TV
@@ -399,28 +399,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2536fbc15b00084ae2
 #EXTINF:-1 group-title="TV TEMÁTICA", 480 Bob Ross
 https://amg01201-cinedigmenterta-bobrossspanish-lgus-nm4nz.amagi.tv/playlist/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
 
-#EXTINF:-1 group-title="CRIMEN", 490 True Crimen
+#EXTINF:-1 group-title="TV TEMÁTICA", 490 True Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
-#EXTINF:-1 group-title="CRIMEN", 491 Sangre fría
+#EXTINF:-1 group-title="TV TEMÁTICA", 491 Sangre fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
 
-#EXTINF:-1 group-title="CRIMEN", 492 Pluto TV Investiga
+#EXTINF:-1 group-title="TV TEMÁTICA", 492 Pluto TV Investiga
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 493 Cazador de Homicidas
+#EXTINF:-1 group-title="TV TEMÁTICA", 493 Cazador de Homicidas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="CRIMEN", 494 Los archivos del FBI
+#EXTINF:-1 group-title="TV TEMÁTICA", 494 Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 495 Archivos Forenses
+#EXTINF:-1 group-title="TV TEMÁTICA", 495 Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 496 The New Detectives
+#EXTINF:-1 group-title="TV TEMÁTICA", 496 The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="CRIMEN", 497 Misterios sin Resolver
+#EXTINF:-1 group-title="TV TEMÁTICA", 497 Misterios sin Resolver
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="MÚSICA", 501 Ritmos Inolvidables
