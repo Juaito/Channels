@@ -21,7 +21,7 @@ De 200 a 299: Canales de TV internacionales en español ordenados por las civili
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;270 a 279: Mundo budista</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;280 a 289: Mundo sínico</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;290 a 299: Japón</br>
-De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
+De 300 a 399: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300 a 309: Latinoamericanos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 A 319: África Subsahariana</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 339: Occidentales</br>
