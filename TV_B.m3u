@@ -181,7 +181,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
 https://tv.radiohosting.online:9484/stream
 
 #EXTINF:-1 group-title="RADIO FM", 97.7 Radio Concierto
-http://162.241.190.126:8000/Radioconcierto.mp3
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/Radioconcierto.stream/chunklist_w1973637573.m3u8
 
 #EXTINF:-1 group-title="RADIO FM", 98.5 Heraldo Radio
 https://n11.radiojar.com/g33sp4yqd6quv?rj-ttl=5&rj-tok=AAABkUqcdDkAgOWLGbg-G1m44Q
