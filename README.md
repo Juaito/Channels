@@ -33,14 +33,14 @@ De 300 a 399: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;390 a 399: Japón</br>
 De 400 a 499: TV temática</br>
 De 500 a 599: TV musical y Radio musical</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;500 a 509: Música en español
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;510 a 529: Música de occidente
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;520 a 539: Música africana
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;540 a 549: Música de medio oriente
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;550 a 559: Música de la India
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;560 a 569: Música de oriente
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;570 a 579: Naturescape
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;580 a 599: Estaciones de Radio
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;500 a 509: Música en español</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;510 a 529: Música de occidente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;520 a 539: Música africana</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;540 a 549: Música de medio oriente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;550 a 559: Música de la India</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;560 a 569: Música de oriente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;570 a 579: Naturescape</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;580 a 599: Estaciones de Radio</br>
 De 600 a 699: Cine y entretenimiento</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
