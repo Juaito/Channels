@@ -629,3 +629,6 @@ https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
 
 #EXTINF:-1 group-title="OLIMPIADAS 2024", 814 Claro Sports 4
 https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
+
+#EXTINF:-1 group-title="RADIO", 935 XHQC FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM_SC
