@@ -41,7 +41,7 @@ De 300 a 399: TV temática</br>
 De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;400 a 409: Música en español</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;410 a 429: Música de occidente</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;420 a 439: Música africana</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;430 a 439: Música africana</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;440 a 449: Música de medio oriente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;450 a 459: Música de la India</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;460 a 469: Música de oriente</br>
