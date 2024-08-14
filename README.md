@@ -54,3 +54,8 @@ Mayor al 899: Clasificación TV-MA, en el archivo de nombre <a href="https://git
 Imagen de las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">9 civilizaciones actuales</a>
 
 El archivo [TV-E](https://github.com/Juaito/Channels/blob/main/TV_E.m3u) contiene canales con enlaces inestables o rotos.  La letra E suele corresponder a [errores 404](https://es.wikipedia.org/wiki/HTTP_404), [410](https://es.wikipedia.org/wiki/HTTP_410) o [301](https://es.wikipedia.org/wiki/HTTP_301).</br>
+
+Contenido del archivo Radio.m3u:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 200: Radio FM en México.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 400 a 499: Radio musical</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 800 a 899: Radio deportiva</br>
