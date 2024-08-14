@@ -10,8 +10,18 @@ Esta es una lista de canales de radio y televisión favoritos en lengua español
 /></br>
 <a href="https://dgrtc.segob.gob.mx/es/DGRTC/CINEMATOGRAFIA">Clasificación mexicana</a></br>
 
-Menor al 200: Canales de TV y Radio FM en México.</br>
-De 200 a 299: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
+Menor al 100: Canales de TV en México.</br>
+De 100 a 199: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 109: Latinoamericanos</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;110 A 119: África Subsahariana</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120 a 139: Occidentales</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140 a 149: Europa oriental</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 a 159: Mundo islámico</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;160 a 169: India</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;170 a 179: Mundo budista</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;180 a 189: Mundo sínico</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;190 a 199: Japón</br>
+De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;200 a 209: Latinoamericanos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;210 A 219: África Subsahariana</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;220 a 239: Occidentales</br>
@@ -21,27 +31,17 @@ De 200 a 299: Canales de TV internacionales en español ordenados por las civili
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;270 a 279: Mundo budista</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;280 a 289: Mundo sínico</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;290 a 299: Japón</br>
-De 300 a 399: Canales de TV internacionales en otros idiomas:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300 a 309: Latinoamericanos</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 A 319: África Subsahariana</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 339: Occidentales</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 349: Europa oriental</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;350 a 359: Mundo islámico</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;360 a 369: India</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;370 a 379: Mundo budista</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;380 a 389: Mundo sínico</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;390 a 399: Japón</br>
-De 400 a 499: TV temática</br>
-De 500 a 599: TV musical y Radio musical</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;500 a 509: Música en español</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;510 a 529: Música de occidente</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;520 a 539: Música africana</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;540 a 549: Música de medio oriente</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;550 a 559: Música de la India</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;560 a 569: Música de oriente</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;570 a 579: Naturescape</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;580 a 599: Estaciones de Radio</br>
-De 600 a 699: Cine y entretenimiento</br>
+De 300 a 399: TV temática</br>
+De 400 a 499: TV musical</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;400 a 409: Música en español</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;410 a 429: Música de occidente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;420 a 439: Música africana</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;440 a 449: Música de medio oriente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;450 a 459: Música de la India</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;460 a 469: Música de oriente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;470 a 479: Naturescape</br>
+De 500 a 599: Cine y entretenimiento</br>
+De 600 a 699: Telenovelas</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
 Mayor al 899: Clasificación TV-MA, en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV-D</a></br>
