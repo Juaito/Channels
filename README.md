@@ -38,6 +38,16 @@ De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;280 a 289: Mundo sínico</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;290 a 299: Japón</br>
 De 300 a 399: TV temática</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300 a 309: Documental general</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 a 319: Historia, culturas y viajes</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 329: Medicina y cuerpo humano</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;330 a 339: Animales</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 349: Arquitectura y diseño</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;350 a 359: Cocina</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;360 a 369: Utilidades, recursos y DIY</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;370 a 379: Coches</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;380 a 389: Arte y pintura</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;390 a 399: Crimen e investigación</br>
 De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;400 a 409: Música en español</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;410 a 429: Música de occidente</br>
