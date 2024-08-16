@@ -144,6 +144,9 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 #EXTINF:-1 group-title="TV LOCAL", 28.1 RTV (Nuevo León)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 30.5 JusticiaTV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 34.1 Mexiquense (EdoMex)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
