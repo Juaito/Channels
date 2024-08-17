@@ -3,8 +3,8 @@ Esta es una lista de estaciones de radio y canales de televisión favoritos en l
 
 Contenido del archivo <a href="https://github.com/Juaito/Channels/blob/main/Radio.m3u">Radio.m3u</a>:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 200: Radio FM en México.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 400 a 499: Radio musical</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 800 a 899: Radio deportiva</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 200 a 499: Radio online</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 500 a 1799: Radio AM en México</br>
 
 Los nombres de los archivos de TV están basados en la clasificación mexicana de contenidos audiovisuales:</br>
 
