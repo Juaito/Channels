@@ -19,7 +19,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 group-title="TV LOCAL", 02.3 N+ 
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+https://channel07-onlymex.akamaized.net/hls/live/2036971/event01/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 03.2 Imagen TV -1hr
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
