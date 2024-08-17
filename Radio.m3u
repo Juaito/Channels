@@ -70,6 +70,9 @@ https://pub0202.101.ru:8000/stream/pro/aac/64/40
 #EXTINF:-1 group-title="ONLINE FOLK RADIO", 219 Tradicional japonesa
 https://pub0202.101.ru:8000/stream/pro/aac/64/393
 
+#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 220 Radio Nostalgia 78RPM
+https://cast1.torontocast.com:1635/stream
+
 #EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 225 Unión sovíetica 30s-50s
 https://pub0202.101.ru:8000/stream/pro/aac/64/46
 
