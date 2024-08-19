@@ -88,7 +88,7 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 group-title="TV LOCAL", 10.6 MegaNoticias
-https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925&ads.wurl_name=MegaNoticias&ads.coppa=0&ads.device_id=c3438c86c552df0ff37e988599d28b93&ads.dnt=0&ads.us_privacy=1ynn&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=sessionid&ads.custom=&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=234426&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1724110354&id=38657&ip=200.63.46.16&override_expiration=1500&deliveryProfileId=23762&sign=WZn17w%2FOTPgIH7xpAMSR4FS8uwk2WuPnhbWFhR0bDaA%3D
 
 #EXTINF:-1 group-title="TV LOCAL", 11.1 Once IPN
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
