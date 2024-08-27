@@ -5,7 +5,7 @@ Contenido del archivo <a href="https://github.com/Juaito/Channels/blob/main/Radi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 499: Radio online.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 500 a 1799 KHz: Radio AM en México</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 5.0 a 17.9 MHz: Onda corta</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mayor al 86.9 MHz: Radio FM en México</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mayor a 86.9 MHz: Radio FM en México</br>
 
 Los nombres de los archivos de TV están basados en la clasificación mexicana de contenidos audiovisuales:</br>
 
