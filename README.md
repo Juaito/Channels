@@ -1,7 +1,8 @@
 <h2>Guía de canales</h2>
-Los archivos son una lista de estaciones de radio y canales de televisión favoritos en lengua española y algunos en otros idiomas, principalmente inglés.</br>&nbsp;</br>
+Los archivos son una lista de estaciones de radio y canales de televisión favoritos en lengua española y algunos en otros idiomas, principalmente inglés.</br>
 
-Contenido del archivo <a href="https://github.com/Juaito/Channels/blob/main/Radio.m3u">Radio.m3u</a>:</br>
+<h3>Radio</h3>
+Contenido del archivo <a href="https://github.com/Juaito/Channels/blob/main/Radio.m3u">Radio.m3u</a>:</br>&nbsp;</br>
 
 Menor al 500: Radio online:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 199: Folk</br>
@@ -10,7 +11,8 @@ De 500 a 1799 KHz: Radio AM en México</br>
 De 5.0 a 17.9 MHz: Onda corta</br>
 Mayor a 86.9 MHz: Radio FM en México</br>
 
-La mayoría de direcciones de los canales de televisión fueron recopiladas de las listas del proyecto <a href="https://iptv-org.github.io">IPTV-ORG</a> y de las listas de otros usuarios en GitHub. Los <a href="https://www.ift.org.mx/sites/default/files/contenidogeneral/comunicacion-y-medios/listadocv6ta07102021versionaccesible.pdf">canales mexicanos</a> tienen una numeración basada en los números que tienen en la señal de televisión abierta local.  El resto de canales, del 100 en adelante, también están numerados para facilitar su localización y organización. Los canales del 1 al 899 tienen una clasificación TV-PG y se encuentran en el archivo con el nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a>.</br>
+<h3>Televisión</h3>
+La mayoría de direcciones de los canales de televisión fueron recopiladas de las listas del proyecto <a href="https://iptv-org.github.io">IPTV-ORG</a> y de las listas de otros usuarios en GitHub. Los <a href="https://www.ift.org.mx/sites/default/files/contenidogeneral/comunicacion-y-medios/listadocv6ta07102021versionaccesible.pdf">canales mexicanos</a> tienen una numeración basada en los números que tienen en la señal de televisión abierta local.  El resto de canales, del 100 en adelante, también están numerados para facilitar su localización y organización. Los canales del 1 al 899 tienen una clasificación TV-PG y se encuentran en el archivo con el nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a>.</br>&nbsp;</br>
 
 Los nombres de los archivos de TV están basados en la clasificación mexicana de contenidos audiovisuales:</br>
 
