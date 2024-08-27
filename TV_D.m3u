@@ -109,7 +109,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 https://stream.aprende.gob.mx/live/hls/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 14.3 TV Migrante
-https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 15.1 Telemax (Sonora)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
@@ -127,10 +127,10 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 20.1 TV UNAM
-https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX)
-https://video.cdmx.gob.mx/capitalcurso/stream.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 22.1 Canal 22 (Conaculta)
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -211,7 +211,7 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 125 EEUU (T al día)
-https://jmp2.uk/SamsungTVPlus/USBB3200016HO.m3u8
+https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036&declaredCC1Language=es&ads.caid=telemundoaldia_linear&ads.csid=samsungtvplus_us_telemundoaldia_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137391198&ads.sfid=16772609&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=&ads._fw_h_x_country=US&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=telemundoaldia&ads.xumo_providerId=2561&ads.xumo_providerName=telemundoaldia&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=telemundoaldia&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 126 EEUU (T Noticias)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
@@ -613,16 +613,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 group-title="DEPORTES", 801 Claro Sports 1
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/vsRdNgc4RL-rFJL_Vel1NQ/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 802 Claro Sports 2
-https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 803 Claro Sports 3
-https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 804 Claro Sports 4
-https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/8UwR2STaRKamEvzT9HfRAQ/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
@@ -631,7 +625,7 @@ https://lnc-bein-espanol.tubi.video/playlist.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 807 AYM Sports
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ntzyyyqks37FMU_pVjc6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 group-title="DEPORTES", 808 Azteca Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -639,8 +633,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e
 #EXTINF:-1 group-title="DEPORTES", 809 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 810 DAZN Ringside
-https://jmp2.uk/PlutoTV/649b6898f2ec0000081a9460-alt.m3u8
+*****#EXTINF:-1 group-title="DEPORTES", 810 DAZN Ringside
+*****https://jmp2.uk/PlutoTV/649b6898f2ec0000081a9460-alt.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 811 FIFA +
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
