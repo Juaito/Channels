@@ -613,7 +613,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 group-title="DEPORTES", 801 Claro Sports 1
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/vsRdNgc4RL-rFJL_Vel1NQ/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 802 Claro Sports 2
 https://pubads.g.doubleclick.net/ssai/event/8UwR2STaRKamEvzT9HfRAQ/master.m3u8
