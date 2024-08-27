@@ -2,9 +2,10 @@
 Esta es una lista de estaciones de radio y canales de televisión favoritos en lengua española y algunos en idioma inglés.  La mayoría de direcciones de los canales de televisión fueron recopiladas de las listas del proyecto <a href="https://iptv-org.github.io">IPTV-ORG</a> y de las listas de otros usuarios en GitHub. Los <a href="https://www.ift.org.mx/sites/default/files/contenidogeneral/comunicacion-y-medios/listadocv6ta07102021versionaccesible.pdf">canales mexicanos</a> tienen una numeración basada en los números que tienen en la señal de televisión abierta local.  El resto de canales, del 100 en adelante, también están numerados para facilitar su localización y organización. Los canales del 1 al 899 tienen una clasificación TV-PG y se encuentran en el archivo con el nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a>.</br>&nbsp;</br>
 
 Contenido del archivo <a href="https://github.com/Juaito/Channels/blob/main/Radio.m3u">Radio.m3u</a>:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 200: Radio FM en México.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 200 a 499: Radio online</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 500 a 1799: Radio AM en México</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 499: Radio online.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 500 a 1799 KHz: Radio AM en México</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De 5.0 a 17.9 MHz: Onda corta</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mayor al 86.9 MHz: Radio FM en México</br>
 
 Los nombres de los archivos de TV están basados en la clasificación mexicana de contenidos audiovisuales:</br>
 
