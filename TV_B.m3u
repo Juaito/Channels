@@ -130,7 +130,7 @@ https://tvenvivo.buap.mx/livestream/stream.m3u8
 https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX)
-https://video.cdmx.gob.mx/capitalcurso/stream.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 22.1 Canal 22 (Conaculta)
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
