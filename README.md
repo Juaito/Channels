@@ -3,7 +3,7 @@ Los archivos son una lista de estaciones de radio y canales de televisión favor
 
 Contenido del archivo <a href="https://github.com/Juaito/Channels/blob/main/Radio.m3u">Radio.m3u</a>:</br>
 
-Menor al 499: Radio online:</br>
+Menor al 500: Radio online:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 199: Folk</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;200 a 299: Vintage</br>
 De 500 a 1799 KHz: Radio AM en México</br>
