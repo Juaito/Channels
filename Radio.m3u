@@ -1,86 +1,92 @@
-#EXTINF:-1 group-title="RADIO FM", 88.9 Noticias
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC
-
-#EXTINF:-1 group-title="RADIO FM", 89.7 Radio Coahuila
-https://cryt-stream.mx:8443/cryt-xhsoc
-
-#EXTINF:-1 group-title="RADIO FM", 93.1 Radio Hits 
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFM_SC
-
-#EXTINF:-1 group-title="RADIO FM", 93.5 Stereo Saltillo
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM_SC
-
-#EXTINF:-1 group-title="RADIO FM", 94.5 Radio Zócalo Piedras
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC
-
-#EXTINF:-1 group-title="RADIO FM", 94.7 Radio Imagen
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
-
-#EXTINF:-1 group-title="RADIO FM", 96.1 Radio UNAM 
-https://tv.radiohosting.online:9484/stream
-
-#EXTINF:-1 group-title="RADIO FM", 97.7 Radio Concierto
-https://5c001c2729b09.streamlock.net:4443/live/_definst_/Radioconcierto.stream/chunklist_w1973637573.m3u8
-
-#EXTINF:-1 group-title="RADIO FM", 98.5 Heraldo Radio
-https://n11.radiojar.com/g33sp4yqd6quv?rj-ttl=5&rj-tok=AAABkUqcdDkAgOWLGbg-G1m44Q
-
-#EXTINF:-1 group-title="RADIO FM", 98.9 D99 MTY
-https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
-
-#EXTINF:-1 group-title="RADIO FM", 102.5 Noticias MVS
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
-
-#EXTINF:-1 group-title="RADIO FM", 106.5 Digital RCG
-https://radio.rcg.com.mx:7000/stream/1/
-
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 200 ¡Que viva México!
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 100 ¡Que viva México!
 https://panel.retrolandigital.com/listen/que_viva_mexico/listen
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 201 ¡Viva el Mariachi!
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 101 ¡Viva el Mariachi!
 https://stream-169.zeno.fm/gs4xg5s0csmtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnczR4ZzVzMGNzbXR2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlpLS24wbkxXU3lTbzZRZzZfWUhtOFEiLCJpYXQiOjE3MjM1MTgwMjAsImV4cCI6MTcyMzUxODA4MH0.GXCVwppcXC-v3wAz-MCFsxrWqbq-laflk5H9NLSII6M
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 202 Radio Folk Perú
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 102 Radio Folk Perú
 https://stream-159.zeno.fm/baxwy8zv3gruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiYXh3eTh6djNncnV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjJUcnVqZHZWVGRtWmRhTHU4NXB3MUEiLCJpYXQiOjE3MjM1MTk5NjMsImV4cCI6MTcyMzUyMDAyM30.zm186OiBuclCWDDtTMkfB4z9BhBBajF7tJGD3vZCDCM
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 203 Perú Folk Radio
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 103 Perú Folk Radio
 https://raymistream.net/listen/perufolkradio/live
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 204 Antena Sur Perú
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 104 Antena Sur Perú
 https://stream-156.zeno.fm/tu63bf6g31zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dTYzYmY2ZzMxenV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijk2dlI4TzN6UmZ5VElueFJwQUpHYlEiLCJpYXQiOjE3MjM1MjA1MTIsImV4cCI6MTcyMzUyMDU3Mn0.DvLZVZV1KcZJyaGFqNnZptoN3ejiNNnhKM1ZmUrhpAY
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 205 Nacional Folklórica
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 105 Nacional Folklórica
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 206 Radio Folcklorica
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 106 Radio Folcklorica
 https://stream.radioinfo.ar/p/8050/
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 207 Folklore Córdoba
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 107 Folklore Córdoba
 https://player.xcast.com.br/proxy/7296/stream/1/
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 209 Rádio Plus Samba
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 109 Rádio Plus Samba
 https://stm6.mestrestream.xyz:8390/stream/1/
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 210 Brisa de Samba
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 110 Brisa de Samba
 https://stream-158.zeno.fm/m7214h88azzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtNzIxNGg4OGF6enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJEQ0ozdkxNVE5hTmR4bEMyMjJScmciLCJpYXQiOjE3MjM1MjQzNjIsImV4cCI6MTcyMzUyNDQyMn0.pJzgftYVj2VcudA-1je_Wjf9OOApLls4-2cKdBx33pw
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 220 ON Volksmusik
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 120 ON Volksmusik
 https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 240 Rusian Folk
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 140 Rusian Folk
 https://pub0202.101.ru:8000/stream/pro/aac/64/40
 
-#EXTINF:-1 group-title="ONLINE FOLK RADIO", 290 Tradicional japonesa
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 190 Tradicional japonesa
 https://pub0202.101.ru:8000/stream/pro/aac/64/393
 
-#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 320 Radio Nostalgia 78RPM
+#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 220 Radio Nostalgia 78RPM
 https://cast1.torontocast.com:1635/stream
 
-#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 340 Unión sovíetica 30s-50s
+#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 240 Unión sovíetica 30s-50s
 https://pub0202.101.ru:8000/stream/pro/aac/64/46
 
-#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 341 Unión sovíetica 50s-70s
+#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 241 Unión sovíetica 50s-70s
 https://pub0202.101.ru:8000/stream/pro/aac/64/47
 
 #EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 342 Día de la victoria
 https://pub0202.101.ru:8000/stream/pro/aac/64/178
+
+#EXTINF:-1 group-title="RADIO AM",  730 KHz W Deportes
+https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AM_SC
+
+#EXTINF:-1 group-title="ONDA CORTA", 7.33 MHz Radio Martí
+https://ocb-ingest.akamaized.net/hls/live/2037033/152_137R/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO FM", 88.9 MHz Noticias
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC
+
+#EXTINF:-1 group-title="RADIO FM", 89.7 MHz Radio Coahuila
+https://cryt-stream.mx:8443/cryt-xhsoc
+
+#EXTINF:-1 group-title="RADIO FM", 93.1 MHz Radio Hits 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 93.5 MHz Stereo Saltillo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 94.5 MHz Radio Zócalo Piedras
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC
+
+#EXTINF:-1 group-title="RADIO FM", 94.7 MHz Radio Imagen
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 96.1 MHz Radio UNAM 
+https://tv.radiohosting.online:9484/stream
+
+#EXTINF:-1 group-title="RADIO FM", 97.7 MHz Radio Concierto
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/Radioconcierto.stream/chunklist_w1973637573.m3u8
+
+#EXTINF:-1 group-title="RADIO FM", 98.5 MHz Heraldo Radio
+https://n11.radiojar.com/g33sp4yqd6quv?rj-ttl=5&rj-tok=AAABkUqcdDkAgOWLGbg-G1m44Q
+
+#EXTINF:-1 group-title="RADIO FM", 98.9 MHz D99 MTY
+https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
+
+#EXTINF:-1 group-title="RADIO FM", 102.5 MHz Noticias MVS
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+
+#EXTINF:-1 group-title="RADIO FM", 106.5 MHz Digital RCG
+https://radio.rcg.com.mx:7000/stream/1/
