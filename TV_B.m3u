@@ -633,8 +633,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e
 #EXTINF:-1 group-title="DEPORTES", 809 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 810 DAZN Ringside
-https://jmp2.uk/PlutoTV/649b6898f2ec0000081a9460-alt.m3u8
+*****#EXTINF:-1 group-title="DEPORTES", 810 DAZN Ringside
+*****https://jmp2.uk/PlutoTV/649b6898f2ec0000081a9460-alt.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 811 FIFA +
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
