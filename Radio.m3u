@@ -49,6 +49,9 @@ https://pub0202.101.ru:8000/stream/pro/aac/64/47
 #EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 242 Día de la victoria
 https://pub0202.101.ru:8000/stream/pro/aac/64/178
 
+#EXTINF:-1 group-title="RADIO AM", 530 KHz Enciclopedia, Cuba
+https://icecast.teveo.cu/9Rnrbjzq
+
 #EXTINF:-1 group-title="RADIO AM",  730 KHz W Deportes
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AM_SC
 
