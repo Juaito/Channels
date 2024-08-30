@@ -55,7 +55,10 @@ https://icecast.teveo.cu/9Rnrbjzq
 #EXTINF:-1 group-title="RADIO AM",  730 KHz W Deportes
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AM_SC
 
-#EXTINF:-1 group-title="ONDA CORTA", 7.33 MHz Radio Martí
+#EXTINF:-1 group-title="RADIO AM",  1060 KHz CDMX
+https://s2.mexside.net/8172/stream
+
+#EXTINF:-1 group-title="ONDA CORTA", 7.335 MHz Radio Martí
 https://ocb-ingest.akamaized.net/hls/live/2037033/152_137R/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO FM", 88.9 MHz Noticias
