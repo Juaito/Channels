@@ -270,10 +270,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (Fox News)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (Voice of America)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (Fox News)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (CNN)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (CNN)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED Talks)
