@@ -68,10 +68,10 @@ De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;470 a 479: Naturescape</br>
 De 500 a 599: Cine y entretenimiento</br>
 De 600 a 699: Telenovelas y dramas</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;601 a 619 Novelas de Latinoamérica
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;620 a 639 Dramas en occidente
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;650 a 659 Novelas de medio oriente
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;690 a 699 Dramas de oriente
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;601 a 619 Novelas de Latinoamérica</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;620 a 639 Dramas en occidente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;650 a 659 Novelas de medio oriente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;690 a 699 Dramas de oriente</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
 Mayor al 899: Clasificación TV-MA, en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
