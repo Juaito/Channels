@@ -52,8 +52,7 @@ De 300 a 399: TV temática</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 a 319: Historia, culturas y viajes</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 329: Medicina y cuerpo humano</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;330 a 339: Animales y naturaleza</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 349: Hogar y diseño arquitectónico</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;350 a 359: Cocina</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 359: Hogar y cocina</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;360 a 369: Utilidades, recursos y DIY</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;370 a 379: Coches</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;380 a 389: Arte y pintura</br>
