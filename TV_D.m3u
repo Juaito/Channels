@@ -345,7 +345,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6051201a0
 #EXTINF:-1 group-title="TV TEMÁTICA", 310 Mundo viajero
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 311 Pluto TV Historia
+#EXTINF:-1 group-title="TV TEMÁTICA", 311 Plex TV Buen viaje
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=RcsX_5DdyzQxNXZLjk4g
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 315 Pluto TV Historia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 320 Misterios Médicos
@@ -368,6 +371,9 @@ https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 340 Pluto TV Diseño
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64db2e0835425100080f2f5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 349 Plex TV Mi casa
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=g1zCrgHS3qyGWjyshnc8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 350 Pluto TV Recetas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -416,6 +422,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 397 Misterios sin Resolver
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 398 Plex TV Todo Crimen
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=C1W6-dRqDxW7TZ6mskFL
 
 #EXTINF:-1 group-title="MÚSICA", 401 Ritmos Inolvidables
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
