@@ -252,6 +252,9 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV HD)
 https://live.presstv.ir/hls/hispantv.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 151 Irán (HispanTV SD)
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
