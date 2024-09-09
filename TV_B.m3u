@@ -249,11 +249,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 141 Rusia (TV BRICS)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV HD)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
 https://live.presstv.ir/hls/hispantv.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 151 Irán (HispanTV SD)
-https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 151 Irán (HispanTV SD)
+*****https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
@@ -297,8 +297,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC Earth)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mtBJzncnrnNxmDLeszwS
+*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
+*****https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mtBJzncnrnNxmDLeszwS
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
