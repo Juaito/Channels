@@ -669,11 +669,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875
 #EXTINF:-1 group-title="CARICATURAS", 714 Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 801 Claro Sports 1
-https://pubads.g.doubleclick.net/ssai/event/vsRdNgc4RL-rFJL_Vel1NQ/master.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 802 Claro Sports 2
-https://pubads.g.doubleclick.net/ssai/event/8UwR2STaRKamEvzT9HfRAQ/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", 801 Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
