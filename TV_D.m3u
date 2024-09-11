@@ -12,6 +12,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 group-title="TV LOCAL", 01.4 Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
+#EXTINF:-1 group-title="TV LOCAL", 01.5 La Academia
+https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 02.1 Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -249,11 +252,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 141 Rusia (TV BRICS)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV HD)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
 https://live.presstv.ir/hls/hispantv.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 151 Irán (HispanTV SD)
-https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 151 Irán (HispanTV SD)
+*****https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
@@ -273,17 +276,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (USA Today)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MeMuQeYJi5QenAMzo2WN
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (Fox News)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 225 EEUU (Fox News)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (CNN -10min)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (CNN -10min)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (Washington Post)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25ad1c59ae7472.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=qYynqbZh5AQtBxEvsAB2
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MeMuQeYJi5QenAMzo2WN
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED Talks)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8?ads.dpname=distrotv&ads.rnd=00fs&ads.env_i=08b51f73-28f7-46a4-b96b-7ffc30a071d9&ads.env_u=3c5a6458-764a-46f1-8746-f56dea40471e&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=393&ads.height=221&ads.deviceId=3c5a6458-764a-46f1-8746-f56dea40471e&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=3c5a6458-764a-46f1-8746-f56dea40471e&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=200.68.140.50&ads.geo=MX&ads.lat=19.43420&ads.long=-99.05590&ads.dma=false&ads.geoType=2&ads.contentid=23072&ads.content_duration=18000&ads.episode_id=89260&ads.show_id=3305&ads.showCategories=IAB5&ads.episodeCategories=IAB5&ads.genre=Education%2CInfotainment%2CDocumentary&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=TED&ads.episodetitle=TED&ads.keywords=TED%2CTED%20Talks%2CCulture%2CScience%2CTechnology%2CEntertainment%2CEducation&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fted%2F&ads.paln=AQzzBGQEMR1CPmwWw4vQ8hJad2OzaxFfuJl9JZFd8-vNpFn7ZD7_A9ddjF8vwJC9JSOQkDXvFW4UCVroEEJGglIXdSd13tLCcA4leEnAS4F146AVqmpxi4XtGw5BBQWGBzVwaU7vBFvslfZeB8DFf8lmKJSPPWM73azP5m6F3ZZnPoeu91TfNVVTsnozvIfs4pNAiGCJxBKY42wlhjp1ic_hlExPOyZcrF19IHC47AUt8CqsyX4Wvd3WZunhm7yvCf2ATxDRdLyU27_3Xbs5ZhjUW4BjnDw-oLo6jqsRUFdNnSYGGJf6MPTGvE4zI6MnZ2OkyV5J-0Vgrr8--_6TU9AUsV7hgd7porrwxcm-KlVh2uJ9HUaY6dggyjpNmPLAWUMP_CdMGM_BtnTYAe_kNqpVduyr15d3QTiJxS8ZbVBIxdjeBoAZR8osmiKgx1ZtxkEsJiAqL0o8RQfb1XTjwjMYRQAH7QmoLH68whZlcZG4Ho2kkCqo36Y82652H_sVzGppZFYnj5cjDY4uTGAmPKA3ShEu9eOBjeKua3TMoh5-VNZy7dPz9m6uwos_zHJS5Q64HNfqOt_nwC4d4F5ciL9D5UIhqJHXdzldNVPmGZArmjIBYx0ExRrtyuTUUnvSuvxHcNhqkoM-0cVKWBeJs7JFJCCUoZzRFN-rgr8IHZxNrYe0j2BxwJlvwVliHakUsBJKp_U2hYmNpSTAF2GmaztY_DVm16fNI15kbYW4lDvnYhmPoVLiof43gkHgNHHHDuN4M2g2OGv1Ak-ECRH1bpJi59rd4FXLcr8n4j9KgSC7-LEucAf0PrPGoMXVRlkgF4trwJhn1yYuCeAo6Mb88iyt9rzYVf4VLpnOyyAk6UhXcUowzJdMGrYKGdNzA3AW5GOmkeDPlVNjDGX64xWjHgSSD2kVAhquCl3eK5LM77Ra2mZ4QuOTamho_e16HReJxCXWo69ZN5Fv2sEMb7Jg4g98XbbS2J2_GJheQm2LaMRkdZ4CLB_LFSBd-BxXBUyU6XvMA9OkDd3OTM9ShH8THNwKAN6xEToZlC4tONtihJHbKs2nhbUiZS8rtN84sEKCOIXrc2psyxXHqa7xhI9Mkmd-KavP6Bvfly5BWicze6oUnaRJAdywkhurq9s5ioXuSi6frgprWJ0BNYFfWa_Wijsi3vkpkO89tDYYd09P1xAx313lz3TVa2R4zo9ZuKQoKVCwYgSCE3PD7kNDjHB-hZ-pXTtzUcWwaS9zyh5e1EvfbSS5vkfgnc-VwoJEVBeCpNhMyZxsSwZd7nKunLdQlvcGVwUh971Bkc6F28YuiIHTRZB-oW7WGcPDtTNxzUssOQ_sqWK657xQlCv18EoxxUShzaRB2-cCVit20uyA0zUu-xICmeJVD5ohpCoxF-SGw76IoDKlpGeVJIOEskM.&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20240520
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_Ho7hEPiJys8t_7gSr3x
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 Inglaterra (BBC)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -293,6 +299,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC Earth)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
+*****https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mtBJzncnrnNxmDLeszwS
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
@@ -552,8 +561,17 @@ https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-c
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 530 Oro TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ovU7sasakmexyP1aDjJk
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 531  Grjngo
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 531 Grjngo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=dF_s41FYTxY73Ytr5fDs
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 532 Artflix
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yRGdpgRV-1Nrskukqt-y
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 533 Butaca TV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=TxiDAYvyy_QKxxzxTyzS
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 534 Bigtime
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=z8KvZk6-WMQ6y33TPzwc
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 541 Pluto TV Cine Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -636,6 +654,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a
 #EXTINF:-1 group-title="CARICATURAS", 703 Nickelodeon Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="CARICATURAS", 704 Pitufos
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=uwqBDAxZHaq1oym-aTkp
+
+#EXTINF:-1 group-title="CARICATURAS", 705 Mr Bean
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EUzJ-gpfNe-Be6h6yXwn
+
 #EXTINF:-1 group-title="CARICATURAS", 711 Supercampeones
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -648,11 +672,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875
 #EXTINF:-1 group-title="CARICATURAS", 714 Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 801 Claro Sports 1
-https://pubads.g.doubleclick.net/ssai/event/vsRdNgc4RL-rFJL_Vel1NQ/master.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 802 Claro Sports 2
-https://pubads.g.doubleclick.net/ssai/event/8UwR2STaRKamEvzT9HfRAQ/master.m3u8
+#EXTINF:-1 group-title="DEPORTES", 801 Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
@@ -666,14 +687,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 group-title="DEPORTES", 808 Azteca Deportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 809 Red Bull TV
+#EXTINF:-1 group-title="DEPORTES", 809 La Casa del Jaripeo
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
+
+#EXTINF:-1 group-title="DEPORTES", 820 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 810 DAZN Ringside
+#EXTINF:-1 group-title="DEPORTES", 821 DAZN Ringside
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 811 FIFA +
+#EXTINF:-1 group-title="DEPORTES", 822 FIFA +
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 823 UFC
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_ctftyR_RA459hyb1gN2
+
+#EXTINF:-1 group-title="DEPORTES", 824 MLB
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=bVD6Q13wrkbyF4XwLXyg
 
 #EXTINF:-1 group-title="ADULTOS", 901 Rubias
 http://live.adultiptv.net/blonde.m3u8
