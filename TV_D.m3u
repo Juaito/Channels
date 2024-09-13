@@ -228,8 +228,8 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 129 EEUU (Estrella News)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (The Weather)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (The Weather)
+*****https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (EWTN)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
