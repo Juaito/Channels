@@ -705,8 +705,11 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a7882
 #EXTINF:-1 group-title="DEPORTES", 850 MLB
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=bVD6Q13wrkbyF4XwLXyg
 
-#EXTINF:-1 group-title="DEPORTES", 880 Red Bull TV
+#EXTINF:-1 group-title="DEPORTES", 870 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 880 La Casa del Jaripeo
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
 
 #EXTINF:-1 group-title="DEPORTES", 890 Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
