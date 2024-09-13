@@ -73,6 +73,15 @@ De 600 a 699: Telenovelas y dramas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;690 a 699 Dramas de oriente</br>
 De 700 a 799: Caricaturas</br>
 De 800 a 899: Deportes</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;800 a 819 Barra general y análisis deportivo</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;820 a 829 Futbol</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;830 a 839 Peleas</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;840 a 849 Básquetbol</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;850 a 859 Beisbol</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;860 a 869 Otros deportes de conjunto</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;870 a 879 Deportes extremos</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;880 a 889 Deportes con animales</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;890 a 899 Deportes electrónicos</br>
 Mayor al 899: Clasificación TV-MA, en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
