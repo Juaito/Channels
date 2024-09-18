@@ -195,8 +195,8 @@ https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 110 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Guinea E. (Asonga)
-https://live.homeafrika.es/live/idikpc.flv
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Guinea E. (Asonga)
+*****https://live.homeafrika.es/live/idikpc.flv
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
@@ -504,11 +504,8 @@ https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MÚSICA", 450 Bhakti Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakti-play/playlist.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 SD
-http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 group-title="MÚSICA", 461 CCTV-15 HD
-http://61.138.128.226:19901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15
+http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 470 Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
@@ -633,19 +630,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 604 Pluto TV Novelas 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 605 Novelas mexicanas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 605 Novelas Mexicanas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 606 Novelas venezolanas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 606 Novelas Venezolanas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 607 Novelas colombianas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 607 Novelas Colombianas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 620 BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 640 Novelas turcas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 640 Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 690 Dramas Coreanos
@@ -698,6 +695,9 @@ https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 #EXTINF:-1 group-title="DEPORTES", 840 MLB
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=bVD6Q13wrkbyF4XwLXyg
+
+#EXTINF:-1 group-title="DEPORTES", 850 NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 860 DAZN Ringside
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
