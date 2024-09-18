@@ -53,3 +53,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 #EXTINF:-1 group-title="DEPORTES", 801 Zona TUDN
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 819 Caliente TV
+https://cdn-calisports-pri-01.vos360.video/Content/Channel/calientetv/DASH/master.mpd
