@@ -71,7 +71,7 @@ De 600 a 699: Telenovelas y dramas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;620 a 639 Dramas en occidente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;650 a 659 Novelas de medio oriente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;690 a 699 Dramas de oriente</br>
-De 700 a 799: Dibujos animados</br>
+De 700 a 799: Dibujos animados,  repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_A.m3u">TV_A.m3u</a> y demás archivos.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;700 a 749 Caricaturas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 a 799 Anime</br>
 De 800 a 899: Deportes</br>
