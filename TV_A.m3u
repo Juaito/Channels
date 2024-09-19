@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", 703 Mr Bean
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EUzJ-gpfNe-Be6h6yXwn
+
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", 704 Pitufos
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=uwqBDAxZHaq1oym-aTkp
