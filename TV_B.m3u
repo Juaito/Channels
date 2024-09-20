@@ -705,10 +705,13 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398
 #EXTINF:-1 group-title="DEPORTES", 850 NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 860 DAZN Ringside
+#EXTINF:-1 group-title="DEPORTES", 860 Pluto TV Peleas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DEPORTES", 861 DAZN Ringside
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 861 DAZN Combat
+#EXTINF:-1 group-title="DEPORTES", 862 DAZN Combat
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="DEPORTES", 863 UFC
@@ -716,6 +719,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a7882
 
 #EXTINF:-1 group-title="DEPORTES", 864 PFL MMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6163a30ab3300083d870e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DEPORTES", 867 Lucha Libre AAA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="DEPORTES", 870 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
