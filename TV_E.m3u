@@ -54,16 +54,4 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 group-title="DEPORTES", 801 Zona TUDN
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 821 Liga Mx A
-https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsGO0/manifest.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 821 Liga Mx B
-https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsGO0/rendition.m3u8?track=video-3&ts=1726955663&psi=4515dd94cdcafe0e1adafde755f18bf9&encp=2RAhelKV3VmFf4tdbZNnoQ:PWMU4unUHuKRMJprSDzGjOSCot7W355_2UXEWu_LNYPHYfLMxk8k2t2VR9v-v1JXmQWNkzksjgLF5Wvz1D7uc_GJu5AXjYOU3sWsLWJXUV67WE5sLTDkjrV3ml9kLtnWGAr5fc_oFvYA0rOobyGI-2mxGxhGnihuj2Bnc4_szpKXXNcsQctHHMpGnl5WR7FEGcGvFTW2CUfHyJl8bhrpikLkHC-Bg2icakD17DRq0FOsJ0zkx7oy1rDM7W9GOoZGGm8ZbZxZh2dNyfGqmcZP5tORajhhDsPLVUgSsZvZpm9v3Z6SsfFsSCZzl-yapA3PsjGjh06M0Ph28Bj33cIoeoEWmJrh5hEkY_DABAqyBZ3ykcZMhXSjqngQL8sJcIK3gdz9DJ4X-wUAWcyJnL74wejG4lYJt7rYmc-Mu9pISUftlL6x_3O4tVkqWBghE9FsQcmNUBl0u-hSJ6eLTr_jCjbhBQj7hwsED2YYKUuv50wwa7zfi8I09gkVHPPOf82vbjVY8QdgV0vS2l4cpsxhVVUrqEd35q1esZKjZ0utVPldUiRFPq--bI-3DfAOOkmII1LF_AzeQWYjVa4K6zdWlNYDeS04YB7GACI40v1nxE7EW0RNW04YvLUnm9EeSqz-_mOvpRxvm184FliKyswqMu5M5g398VcrvwxaXj86CbWMr_AFLnEHaxnbGyNMUeasTPxiBIAXb_6DKQyTRPioZXt19zOwOcuyEZglhcMdKJWj6YYY7sNI0BFtFWJEWny5so8yEMvM2jx5k4beASMuwEVXYDe8HS3CqvPwBHno-hpsp76DDSeejwOW68CmLiv_hlBImYq3PqU6XZ21xhWYUvna68vdbo81apx7gAGt7wCFqF5fVkXz1y9E_zBttPmtNOVb5ZNlfsWKnSYvWeudMLtpZTqkSCfLRXLd9QrTLMtTrnESn0vmTf5dHiGfgsqkokQtoJ7ZypuUqRm9cC8TK2DwU3N_xA8kzkVs3flG3xYVtsNbYQmUjagApHgGNThaHbigISQAE9MQbW3zbIVROATOv_0cQeT-Bx4GMwWY2U-kYhY8j7f9iMI592anzYhx&pcqx=db4d7a33e106420fdde6ea4b084d6f9a&sid=6f49426c-9c97-431b-b061-a62e4e41d7e5:DLS
-
-#EXTINF:-1 group-title="DEPORTES", 821 Liga Mx C
-https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsGO0/rendition.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 819 Caliente TV
-https://cdn-calisports-pri-01.vos360.video/Content/Channel/calientetv/DASH/master.mpd
-
 
