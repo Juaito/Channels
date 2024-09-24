@@ -277,7 +277,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 211 Africa (Tid Pix)
-https://stream.ads.ottera.tv/cl/240924crpj7deo948tcdluhgu0/1280x720_1400000_1_f.m3u8?i=475_11078
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11078
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 225 EEUU (Fox News)
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
