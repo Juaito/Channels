@@ -54,6 +54,9 @@ https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 #EXTINF:-1 group-title="TV INTERNACIONAL", 111 Guinea E. (Asonga)
 https://live.homeafrika.es/live/idikpc.flv
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 225 EEUU (Fox News)
+https://v5.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=NzlCRURNa1hzSktLVU56U1E0N1JRZDdEeTJyV0dOcEdiSmp2dkFYcw==
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
