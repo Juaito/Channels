@@ -57,8 +57,11 @@ https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 628 Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 group-title="DEPORTES", 800 Zona TUDN
-https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="DEPORTES", 800 Zona TUDN mx
+http://190.61.102.67:2000/play/a08j/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 800 Zona TUDN us
+https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
