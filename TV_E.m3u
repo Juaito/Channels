@@ -45,6 +45,9 @@ https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 #EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina 720p (TVP)
 https://g4.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Guinea E. (Asonga)
+https://live.homeafrika.es/live/idikpc.flv
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
