@@ -54,4 +54,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 group-title="DEPORTES", 801 Zona TUDN
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+
 
