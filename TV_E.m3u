@@ -72,6 +72,9 @@ https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 830 NBA TV
+https://v7.thetvapp.to/hls/NBATV/index.m3u8?token=NzlCRURNa1hzSktLVU56U1E0N1JRZDdEeTJyV0dOcEdiSmp2dkFYcw==
+
 #EXTINF:-1 group-title="DEPORTES", 891 GT Sports 1
 https://usher.ttvnw.net/api/channel/hls/gt_sports_tv1.m3u8
 
