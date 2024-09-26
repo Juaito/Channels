@@ -75,6 +75,9 @@ https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 828 Liga Premier
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 group-title="DEPORTES", 830 NBA TV
 https://v7.thetvapp.to/hls/NBATV/index.m3u8?token=NzlCRURNa1hzSktLVU56U1E0N1JRZDdEeTJyV0dOcEdiSmp2dkFYcw==
 
