@@ -501,14 +501,17 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 group-title="MÚSICA", 425 Stingray Cmusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 426 Stingray Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", 429 Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 430 Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 433 A2i Music
-https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA", 431 Bblack! Africa
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 440 TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
