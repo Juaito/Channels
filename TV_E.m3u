@@ -60,6 +60,9 @@ https://v5.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=NzlCRURNa1hzSktLVU56U
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 441 Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 628 Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
