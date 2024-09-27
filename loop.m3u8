@@ -1,0 +1,17 @@
+file="https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4"
+duration="1000.337"
+
+make_playlist() {
+echo "#EXTM3U"
+echo "#EXT-X-MEDIA-SEQUENCE:${1}"
+echo "#EXT-X-DISCONTINUITY-SEQUENCE:${1}"
+echo "#EXT-X-DISCONTINUITY"
+echo "#EXTINF:${duration},"
+echo "https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4"
+echo
+}
+
+for ((x=0;;x++)); do
+make_playlist "${x}" > "${file}"
+sleep "${duration}"
+done
