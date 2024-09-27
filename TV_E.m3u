@@ -6,6 +6,9 @@ https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps
 #EXTINF:-1 group-title="ERROR", SMPTE Color bars
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
+#EXTINF:-1 group-title="ERROR",  Prueba
+https://raw.githubusercontent.com/Juaito/Channels/refs/heads/main/loop.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 02.4 N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 
