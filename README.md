@@ -64,7 +64,7 @@ De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;440 a 449: Música de medio oriente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;450 a 459: Música de la India</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;460 a 469: Música de oriente</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;470 a 479: Naturescape</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;470 a 479: Relajante y ambiental</br>
 De 500 a 599: Cine y entretenimiento</br>
 De 600 a 699: Telenovelas y dramas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;601 a 619 Novelas de Latinoamérica</br>
