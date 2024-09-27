@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV LOCAL", 00.0 Static Noise
+#EXTINF:-1 group-title="ERROR", Static Noise
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
-#EXTINF:-1 group-title="TV LOCAL", 00.1 SMPTE Color bars
+#EXTINF:-1 group-title="ERROR", SMPTE Color bars
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
 #EXTINF:-1 group-title="TV LOCAL", 02.4 N+ Media
