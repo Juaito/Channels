@@ -1,5 +1,5 @@
-file="https://raw.githubusercontent.com/Juaito/Channels/refs/heads/main/loop.m3u8"
-duration="1000.337"
+file="/path/to/file.m3u8"
+duration="1.337"
 
 make_playlist() {
 echo "#EXTM3U"
