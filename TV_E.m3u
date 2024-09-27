@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV LOCAL", 00.0 Static Noise
-https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/Static_with_white_noise.webm/Static_with_white_noise.webm.480p.vp9.webm
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="TV LOCAL", 00.1 SMPTE Color bars ia
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
