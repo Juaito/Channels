@@ -756,13 +756,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 900 Sin Evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 904 Sin Evento
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
+
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 908 Sin Evento
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
+
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 910 Sin Evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 920 Sin Evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 925 Sin Evento 
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
+
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 930 Sin Evento 
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
+
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 935 Sin Evento 
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 940 Sin Evento 
