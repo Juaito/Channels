@@ -25,8 +25,8 @@ Los nombres de los archivos de TV están basados en la clasificación mexicana d
 <a href="https://dgrtc.segob.gob.mx/es/DGRTC/CINEMATOGRAFIA">Clasificación mexicana</a></br>
 
 Menor al 100: Canales de TV en México.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 11: Mayoría de medios NO gubernamentales</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mayor al 10: Mayoría de medios gubernamentales</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 11: NO gubernamentales (mayoría)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mayor al 10: Gubernamentales (mayoría)</br>
 De 100 a 199: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 109: Latinoamericanos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;110 A 119: África Subsahariana</br>
