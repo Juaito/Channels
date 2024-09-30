@@ -753,8 +753,8 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 #EXTINF:-1 group-title="DEPORTES", 890 Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 900 Alebrijes vg Leones 
-https://caliente.production.geniuslive.geniussports.com/hls/live/312000/0grz93h5/ExpansionMexico_11248811/playlist.m3u8?hdnts=st=1727652166~exp=1727655766~acl=/hls/live/312000/0grz93h5/ExpansionMexico_11248811/*~id=16db27f7-5aaa-45c7-9880-efc6d3e1f280~data=reg:MX|dev:*~hmac=125ee8a568154580e29da8466b808e3d1d03031bbb8b1250246ab54bf19fe468
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 900 Liga Mexicana
+https://v12.thetvapp.to/hls/UnivisionEast/index.m3u8?token=dlVqRGxleVRRMXc2b0oyaDBoSDNXVm90RlVaaHk1dXRGbTA2VUFDTQ==
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 910 Flamengo vg Paranaense
 https://caliente.production.geniuslive.geniussports.com/hls/live/310000/oq7tnwv6/INFRONT_11407456/playlist.m3u8?hdnts=st=1727652731~exp=1727656331~acl=/hls/live/310000/oq7tnwv6/INFRONT_11407456/*~id=a10a94f2-e2b3-4b88-bc44-d81dca548b88~data=reg:MX|dev:*~hmac=1f60e46d3eeda3d2f114938ffa07560f63bbb5ef438ac10349318858b1ff6fbe
