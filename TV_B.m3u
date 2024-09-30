@@ -759,8 +759,8 @@ https://v12.thetvapp.to/hls/UnivisionEast/index.m3u8?token=dlVqRGxleVRRMXc2b0oya
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 910 Evento en Brasil
 https://caliente.production.geniuslive.geniussports.com/hls/live/310000/oq7tnwv6/INFRONT_11407456/playlist.m3u8?hdnts=st=1727652731~exp=1727656331~acl=/hls/live/310000/oq7tnwv6/INFRONT_11407456/*~id=a10a94f2-e2b3-4b88-bc44-d81dca548b88~data=reg:MX|dev:*~hmac=1f60e46d3eeda3d2f114938ffa07560f63bbb5ef438ac10349318858b1ff6fbe
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 920 Evento en Argentina 
-https://caliente.production.geniuslive.geniussports.com/hls/live/310000/bq7lb03p/AFA_10954204/playlist.m3u8?hdnts=st=1727653277~exp=1727656877~acl=/hls/live/310000/bq7lb03p/AFA_10954204/*~id=42eb7cf3-415f-4005-bb7e-7253907c5b16~data=reg:MX|dev:*~hmac=08146d7684898c42e5b4a9edd73eccb75913be052abc5230adef5c321ac2ee45
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 920 Sin Evento
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 930 Sin Evento 
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
