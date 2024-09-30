@@ -84,8 +84,8 @@ De 800 a 899: Deportes</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;870 a 879 Deportes extremos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;880 a 889 Deportes con animales</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;890 a 899 Deportes electrónicos</br>
-De 900 a 999: Eventos especiales</br>
-Mayor al 999: Clasificación TV-MA, en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
+De 900 a 999: Eventos en vivo, repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a> y <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a>.</br>
+Mayor al 999: Clasificación TV-MA, solo en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
   alt="Civiliaciones del mundo actual"
