@@ -234,8 +234,8 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (EWTN)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 132 Vaticano (VM)
-https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 132 Vaticano (VM)
+*****https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 133 Francia (Euronews)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
