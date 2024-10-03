@@ -756,8 +756,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 900 Sin evento (LATAM)
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 904 Sin evento (LATAM)
-https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 904 EN VIVO (LATAM)
+https://caliente.production.geniuslive.geniussports.com/hls/live/312000/rtjlaund/ExpansionMexico_11470766/playlist.m3u8?hdnts=st=1727921413~exp=1727925013~acl=/hls/live/312000/rtjlaund/ExpansionMexico_11470766/*~id=6696c5f5-2e7e-44dc-9d03-e7fe63a2aec4~data=reg:MX|dev:*~hmac=fda2671ba01dade2bc3be156c4b47cd416afd6c61c13f7e4d0062ed88dbd0b4f
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 908 Sin evento (LATAM)
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
