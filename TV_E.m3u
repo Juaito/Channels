@@ -81,6 +81,21 @@ https://lnc-bein-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", 820 FIFA +
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8.
 
+#EXTINF:-1 group-title="DEPORTES", 824 LaLiga Inside 1
+https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=222ca207-1071-4189-9ea8-1578356ed1da&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 group-title="DEPORTES", 824 LaLiga Inside 2
+https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 824 LaLiga Inside 3
+https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 825 Top Barca 1
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e0a9c273-bffe-42c6-ba9f-b847696fc1d6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 group-title="DEPORTES", 825 Top Barca 2
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 828 Liga Premier
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
