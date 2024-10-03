@@ -717,8 +717,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d16
 #EXTINF:-1 group-title="DEPORTES", 820 FIFA +
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c/variant.m3u8?url=417dbe8cf34d931835c77858ee893614-d6cfefc115d62390c9fb0260bf5073e170a2f63238dead7f0c316ae8836d001700676ec65852ab3166cdccb922f1c56f090d6b60dc45fd00df94dd98ba9a378a40df246a7e3c5b4c7e43695df8ecfe21cb92f44e1577b243d713656bc161db8ad431547bce0f155776b218db59d0f2e73b97ed9c08145cf72d391a9918987f133aa1696c7943d9ad27fb10faf853b4ab38b736ab8f61c2f5f679269bda2546d0&x-plex-token=JxY6KhSEsp9x89RyQknb&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1727408463
 
-#EXTINF:-1 group-title="DEPORTES", 821 Real Madrid TV
+#EXTINF:-1 group-title="DEPORTES", 822 Real Madrid TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DEPORTES", 823 Top Barcelona
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 840 MLB
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=bVD6Q13wrkbyF4XwLXyg
