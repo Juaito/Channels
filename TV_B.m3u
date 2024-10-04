@@ -765,11 +765,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 900 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
+*****#EXTINF:-1 group-title="EVENTOS EN VIVO", 925 EN VIVO
+*****https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
+
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 933 EN VIVO
 https://customer-3sxmjm03kuqunnum.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjNiZTljY2RlYmE0MjJiODNlNmM2OWY4Yzc4NWMwZWViIn0.eyJzdWIiOiJhZGQ3YTcxZTQ4YTNkODM0MTI4MTg5M2E3ZjQ3MWQ5NyIsImtpZCI6IjNiZTljY2RlYmE0MjJiODNlNmM2OWY4Yzc4NWMwZWViIiwiZG93bmxvYWRhYmxlIjpmYWxzZSwiZXhwIjoxNzI4MDM0MjM3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImFueSIsImFjdGlvbiI6ImFsbG93In1dfQ.IKmGxRsXaSb1FT7dIaUFdSrHSK6sfRSBcJrR8Xb9aQBkSJWUy1jMR7UrV6EPF8TyS8YP3-1JCU0l4FxPLjfXU96upRNTroBMq89Q4ryWOk82nV0lkz_FW4A6h-hfjZXS5fZnJBD2xw2Qe4NqSGl1aHf8wu79v_jdg-Fb3SiWw52HmKgi1U2xb6sLjV3VfQ6cz1buqIvLwghj6x0fC7mfZDRYMlza32Pzf6fFSKo95So9BLMv9g-Co6IilQM8r_Cdd3lntT4K96lIslpHV7y_KAZUORupOVuiWV-5yj27DEEnmdKOYKWC-sfLzCmBX5vBpoxhYuVasOCaiDsSfg1a1g/manifest/video.m3u8
 
+*****#EXTINF:-1 group-title="EVENTOS EN VIVO", 950 EN VIVO
+*****https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
+
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 966 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
+
+*****#EXTINF:-1 group-title="EVENTOS EN VIVO", 975 EN VIVO
+*****https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 999 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
