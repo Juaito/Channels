@@ -58,7 +58,7 @@ https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://live.homeafrika.es/live/idikpc.flv
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 225 EEUU (Fox News)
-https://v5.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=NzlCRURNa1hzSktLVU56U1E0N1JRZDdEeTJyV0dOcEdiSmp2dkFYcw==
+https://v5.thetvapp.to/hls/FoxNewsChannel/index.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
@@ -115,7 +115,7 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsGO0/manifest.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 830 NBA TV
-https://v7.thetvapp.to/hls/NBATV/index.m3u8?token=NzlCRURNa1hzSktLVU56U1E0N1JRZDdEeTJyV0dOcEdiSmp2dkFYcw==
+https://v7.thetvapp.to/hls/NBATV/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 880 La Casa del Jaripeo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
