@@ -63,6 +63,12 @@ https://v5.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=NzlCRURNa1hzSktLVU56U
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 261 India (Bollywood Classic)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 262 India (Bollywood HD)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", 441 Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
