@@ -102,6 +102,9 @@ https://daiconnect.com/live/hls/tvup/rk-ligainside/master.m3u8
 #EXTINF:-1 group-title="DEPORTES", 821 LaLiga Inside 7
 https://daiconnect.com/live/hls/tvup/tvfy-ligainside/master.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 821 LaLiga Inside 8
+https://daiconnect.com:443/live/hls/tvup/rk-ligainside/89c45e775e46dffc8b63de5e43e74aed/index.m3u8?requestuid=7e149124-adf0-4d1e-b426-74abebf554d0
+
 #EXTINF:-1 group-title="DEPORTES", 823 Top Barca 1
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e0a9c273-bffe-42c6-ba9f-b847696fc1d6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
