@@ -97,10 +97,10 @@ https://daiconnect.com/live/hls/tvup/rk-ligainside/playlist.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-ligainside/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 821 LaLiga Inside 6
-https://daiconnect.com/live/hls/tvup/rk-ligainside/master.m3u8
+https://daiconnect.com/live/hls/tvup/rk-ligainside/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 821 LaLiga Inside 7
-https://daiconnect.com/live/hls/tvup/tvfy-ligainside/master.m3u8
+https://daiconnect.com/live/hls/tvup/tvfy-ligainside/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 821 LaLiga Inside 8
 https://daiconnect.com:443/live/hls/tvup/rk-ligainside/89c45e775e46dffc8b63de5e43e74aed/index.m3u8?requestuid=7e149124-adf0-4d1e-b426-74abebf554d0
