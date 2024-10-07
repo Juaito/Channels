@@ -213,37 +213,40 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="TV INTERNACIONAL", 124 España (El País)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 125 EEUU (T al día)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 125 España (Andalucía Turismo)
+https://stream-us-east-1.getpublica.com/cl/241007cs1q6h478rtcpf2fsbt0/1280x720_1500000_0_f.m3u8?i=1187_12685
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 128 EEUU (T al día)
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036&declaredCC1Language=es&ads.caid=telemundoaldia_linear&ads.csid=samsungtvplus_us_telemundoaldia_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137391198&ads.sfid=16772609&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=&ads._fw_h_x_country=US&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=telemundoaldia&ads.xumo_providerId=2561&ads.xumo_providerName=telemundoaldia&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=telemundoaldia&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 126 EEUU (T Noticias)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 129 EEUU (T Noticias)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 127 EEUU (U 24|7)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (U 24|7)
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 128 EEUU (CÑÑ -10min)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (CÑÑ -10min)
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 129 EEUU (Estrella News)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 132 EEUU (Estrella News)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (The Weather)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 133 EEUU (The Weather)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (EWTN)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 134 EEUU (EWTN)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 132 Vaticano (VM)
+*****#EXTINF:-1 group-title="TV INTERNACIONAL", 134 Vaticano (VM)
 *****https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 133 Francia (Euronews)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 136 Francia (Euronews)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 134 Francia (France 24)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 137 Francia (France 24)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 136 Alemania (DW -30min)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 138 Alemania (DW -30min)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 140 Rusia (RT)
@@ -320,7 +323,6 @@ https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 R. Saharaui (RASD TV)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12830&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
-
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 260 India (India Today)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
