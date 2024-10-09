@@ -49,13 +49,31 @@ https://pub0202.101.ru:8000/stream/pro/aac/64/47
 #EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 242 Día de la victoria
 https://pub0202.101.ru:8000/stream/pro/aac/64/178
 
-#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 320 Synthwave City FM
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 320 Synthwave City
 https://synthwave-rex.radioca.st/stream
 
-#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 321 Synthwave radio
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 321 Nightride
+https://stream.nightride.fm/nightride.mp3
+
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 322 Chillsynth
+https://stream.nightride.fm/chillsynth.mp3
+
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 323 Datawave
+https://stream.nightride.fm/datawave.mp3
+
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 324 Darksynth
+https://stream.nightride.fm/darksynth.mp3
+
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 325 Horrorsynth
+https://stream.nightride.fm/horrorsynth.mp3
+
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 325 EBSM
+https://stream.nightride.fm/ebsm.mp3
+
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 326 Synthwave radio
 https://stream.synthwaveradio.eu/listen/synthwaveradio.eu/radio.mp3
 
-#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 322 Darksynth Radio
+#EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 327 Darksynth Radio
 https://darksynthradio.stream.laut.fm/darksynthradio
 
 #EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 340 Sovietwave
