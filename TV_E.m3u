@@ -39,19 +39,10 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 group-title="TV INTERNACIONAL", 101 Cuba (CIV 2)
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b596000.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TVP)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TVP) A
 https://g2.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina 480p (TVP)
-https://g2.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina 2 (TVP)
-https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina 720p (TVP)
-https://g4.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TVP) b
+#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TVP) B
 https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 111 Guinea E. (Asonga)
@@ -65,9 +56,6 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN) B
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 225 EEUU (Fox News)
-https://v5.thetvapp.to/hls/FoxNewsChannel/index.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
@@ -95,9 +83,6 @@ https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 825 Liga MX
 https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsGO0/manifest.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 830 NBA TV
-https://v7.thetvapp.to/hls/NBATV/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 880 La Casa del Jaripeo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
