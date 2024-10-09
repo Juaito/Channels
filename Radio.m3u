@@ -50,7 +50,7 @@ https://pub0202.101.ru:8000/stream/pro/aac/64/47
 https://pub0202.101.ru:8000/stream/pro/aac/64/178
 
 #EXTINF:-1 group-title="ONLINE SYNTHWAVE RADIO", 301 Darksynth
-https://stream.nightride.fm:8443/darksynth/aac_midfi.m3u8
+https://stream.nightride.fm:8443/darksynth/aac_lofi.m3u8
 
 #EXTINF:-1 group-title="RADIO AM",  730 KHz W Deportes
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AM_SC
