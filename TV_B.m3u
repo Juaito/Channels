@@ -213,10 +213,13 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="TV INTERNACIONAL", 124 España (El País)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 125 España (Andalucía)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 125 España (EsTuTele)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12680&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 126 España (Andalucía)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12685&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 126 España (TeleToledo)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 127 España (TeleToledo)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12688&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 128 EEUU (T al día)
