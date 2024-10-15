@@ -63,6 +63,9 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 253 Líbano (Al Mayadeen)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
