@@ -162,15 +162,6 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso
 http://181.78.105.146:2000/play/a046/index.m3u8
 
-*****#EXTINF:-1 group-title="TV LOCAL", 45.2 Senadores
-*****https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-
-*****#EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados
-*****https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
-*****https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 101 Venezuela (TeleSur)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
@@ -189,14 +180,8 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 107 Bolivia (BTV)
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Argentina (TVP)
-*****https://g2.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 110 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
-
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Guinea E. (Asonga)
-*****https://live.homeafrika.es/live/idikpc.flv
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
@@ -243,9 +228,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 #EXTINF:-1 group-title="TV INTERNACIONAL", 134 EEUU (EWTN)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 134 Vaticano (VM)
-*****https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 136 Francia (Euronews)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 
@@ -263,9 +245,6 @@ https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
 https://live.presstv.ir/hls/hispantv.m3u8
-
-*****#EXTINF:-1 group-title="TV INTERNACIONAL", 151 Irán (HispanTV SD)
-*****https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
@@ -312,16 +291,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC Earth)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-*****#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
-*****https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mtBJzncnrnNxmDLeszwS
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 240 Rusia (RT Documentary)
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Qatar (AlJazeera)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Qatar (Al Jazeera)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Turquía (TRT)
@@ -597,12 +573,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 526 Todo Cine
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
-*****#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 527 Flou Cine
-*****https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/cb543d167c6c648b9cd43e60d1ef45a6f99553fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505e6cdb1bdd7c03cfbc0bae51486c6531c3c4e664bde27308acda0d2b2bb27e0051fe0f1ec062153b99c80a188938827c0738e11d210361daf35aab664abef86ef603359bf1843a6c6d2d0acc0602fcb038f6bda2041a8673a5af1c58e67707b8df17d6d51ebf9ed44598408071ef159f91e0f68c42dbdac473ca06e4351b516d28cad737c09f1ff283cf3c61c4237c115304b1f391b31f6d83410e04a8ad99f236a9419ddc24833035ef55c115f75ae66cae19b5de4dafa3a8da4c554bc7ae3a307dd78fd08bff267dba62ebb0d6de7c728af31a6c35aa07b973716cfa8cca10978d1486a61c96a0660f3dff845797efcde992b8995e8c369088bb8f2a550060050c8351a3d479cd66d97dbec710244f172bc7f254c095975934725df4e334b54341d2b1ef84db1e29b803713bb83ab731626dc8272265ea2f8bf9560dd97c70ef453cff4b7b8447eab12ff098ccec022fbdaca1289b3ebded5a88a768c46c384a4ca0fb385a7a5c7cd7eb144d5a07cb51f0c3d9a4240845bef188acc6442f10771453028eeee63e8f98857b1b4cbc394c617003599101d86dda123b6f44a410dcb8366795032224e0ae3a59003ffca5b0859498ce41a376d0cac2302b491b09fd355c756cd0b7d95ca93913782859d65c3640ee055e12ee9698e09ad0689bcf34f049087e62c1e359481a6d7f621ee9f302b60eb8e377d09ace4f82ec820255844ec06b71ce8aa7068bec85d4010b95bc5e1a62a8df26cb7438c610d159ecb812dda30f7e7652414cd1c041ec60a9cd93d12a9935df29691abb61b592b9f1bc0857e382043223196a156a5c722009caaabf0a0374e1f224e753e3e754e74d4027653db4f3015a95a673198a3c7d659aa8ce82aac21762af0497229b3059d23d673bf2f328f88aa4f2f99e1d326abde7b242b5fbf3eba1d7ce35301865249efe51547add549ae66fe2ac1379e3889ff3e888f61f935d4417254f9e5e8df3fe68839585f7f87865263035d2e087379046de70289574c9592558bd87e1e66cf8dbc668107c8973e475069d3f7249c0a7f70b8a5fd06ca5be86f50a7afa5548a9c3f02714dd2dab21781a9ba8d33b6b99935dd425c9e4df3fd0f41b79bd6727b3e27239e69750cfabcd320d54ff02048d38a9c7d7485c60bc977f1ffd6c66d668fc4f4625e8326bea4ffcb4a2f94429801492547f9e77abd058aea64cbfa09fb3fcb66837ffc52d40a223a729ac2ac2ddc0cc1395022ff83ac04b33f2918cae99b787a0d9965e7b0886489e3ecd74b1cfbdde20555d348d597b0203d429ee27451398cd5ecfe76a6985d5f24a83305157111d3fc156ead24508662b9be97098923b303d2260a69555e144fa1459d7175ab218661e1a476140a496df12917c8f20ffa70f7288efd08328e3be30d798f484eb1a72a258441a1081d69635632dd10b1bbc6313a2cd3dc667ea/48/848x480_1686360/index.m3u8
-
-*****#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 528 Cinema
-*****https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 530 Oro TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ovU7sasakmexyP1aDjJk
 
@@ -780,26 +750,14 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 #EXTINF:-1 group-title="DEPORTES", 890 Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-*****#EXTINF:-1 group-title="EVENTOS EN VIVO", 900 Sin evento
-*****https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
-
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 925 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
-
-*****#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 Sin evento
-*****https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 950 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
-*****#EXTINF:-1 group-title="EVENTOS EN VIVO", 966 Sin evento
-*****https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
-
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 975 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
-
-*****#EXTINF:-1 group-title="EVENTOS EN VIVO", 999 Sin evento
-*****https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="ADULTOS", 1001 Rubias
 http://live.adultiptv.net/blonde.m3u8
