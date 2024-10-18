@@ -763,8 +763,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 900 Sin evento
 https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 Sin evento
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 EN VIVO
+https://v14.thetvapp.to/hls/TNTEast/index.m3u8?token=YWNPeFdyaXpQU3NDZ3V4aVFqODVITDI2Y1VBWldQemt3VlpaV3hheg==
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 966 EN VIVO
 https://v15.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=YWNPeFdyaXpQU3NDZ3V4aVFqODVITDI2Y1VBWldQemt3VlpaV3hheg==
