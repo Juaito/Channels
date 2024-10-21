@@ -87,9 +87,6 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 #EXTINF:-1 group-title="TV LOCAL", 10.5 TeleFórmula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
-#EXTINF:-1 group-title="TV LOCAL", 10.6 MegaNoticias
-https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 11.1 Once IPN
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
@@ -712,7 +709,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="DEPORTES", 820 FIFA +
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c/variant.m3u8?url=417dbe8cf34d931835c77858ee893614-d6cfefc115d62390c9fb0260bf5073e170a2f63238dead7f0c316ae8836d001700676ec65852ab3166cdccb922f1c56f090d6b60dc45fd00df94dd98ba9a378a40df246a7e3c5b4c7e43695df8ecfe21cb92f44e1577b243d713656bc161db8ad431547bce0f155776b218db59d0f2e73b97ed9c08145cf72d391a9918987f133aa1696c7943d9ad27fb10faf853b4ab38b736ab8f61c2f5f679269bda2546d0&x-plex-token=JxY6KhSEsp9x89RyQknb&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1727408463
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=oYVGUW-BazXDL2oVeihF
 
 #EXTINF:-1 group-title="DEPORTES", 822 Real Madrid TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -732,7 +729,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447
 #EXTINF:-1 group-title="DEPORTES", 861 UFC
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_ctftyR_RA459hyb1gN2
 
-#EXTINF:-1 group-title="DEPORTES", 862 PFL MMA
+#EXTINF:-1 group-title="DEPORTES", 862 PFL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6163a30ab3300083d870e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="DEPORTES", 864 Boxing TV
@@ -747,6 +744,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a4
 #EXTINF:-1 group-title="DEPORTES", 867 Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="DEPORTES", 868 CombaTV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
+
 #EXTINF:-1 group-title="DEPORTES", 870 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -757,13 +757,13 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 925 Sin evento
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 950 Sin evento
 https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 975 Sin evento
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
 #EXTINF:-1 group-title="ADULTOS", 1001 Rubias
 http://live.adultiptv.net/blonde.m3u8
