@@ -501,9 +501,6 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 #EXTINF:-1 group-title="MÚSICA", 430 Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 431 Bblack! Africa
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-
 #EXTINF:-1 group-title="MÚSICA", 440 TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
