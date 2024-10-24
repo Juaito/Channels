@@ -81,6 +81,9 @@ https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 #EXTINF:-1 group-title="MÚSICA", 423 Vivaldi TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 431 Bblack! Africa
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", 441 Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
