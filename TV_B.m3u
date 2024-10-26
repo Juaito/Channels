@@ -258,6 +258,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 202 Brasil (JP News)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-distrotv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 207 Filipinas (ANC)
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 
