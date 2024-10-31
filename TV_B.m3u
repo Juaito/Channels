@@ -756,8 +756,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 900 EN VIVO
 https://customer-3sxmjm03kuqunnum.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjNiZTljY2RlYmE0MjJiODNlNmM2OWY4Yzc4NWMwZWViIn0.eyJzdWIiOiI1YzI2ZGNkMGU5MDlkZDRjYTc2NjQxZDczMjBlOGFjYSIsImtpZCI6IjNiZTljY2RlYmE0MjJiODNlNmM2OWY4Yzc4NWMwZWViIiwiZG93bmxvYWRhYmxlIjpmYWxzZSwiZXhwIjoxNzMwNDM5ODc0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImFueSIsImFjdGlvbiI6ImFsbG93In1dfQ.fwWmujUIAPWGp0nGEA3Q2xHMycqUNWcaK82Ocb3c3-86eDo_wN7WtM33aLjD-XD9lsLnROoScu8S0jiELZFlhFm24iL3hYOoNi3oDu2EomSGnUULBsOMAayROj7BCkMGMLJUWYfg_4GfGL1BlDqEUg0csZ5luBFpuDOPxdp6d-k5kJSv9m62OFMZoT5j_kfuV25kmQjWLqIcOvd8WWpQpbuNVSG05RbjP00hUiMpB8lBWfgqs1BYAXUfQfz8KrZPBoY0DabP6YknOI8P-y-B32uSmFsY2Xwh0lD0JmIUoLDb7BhVilzCq8EwNN3B5zDcDoWYgsHBUWxkaGDIeCHqeQ/manifest/video.m3u8
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 Sin evento
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 EN VIVO
+https://v8.thetvapp.to/hls/NBATV/index.m3u8?token=SFBGUWM1bHdYenJ2TWJrMUxpb2ZjY2s3U1pSbE90R1NVOEpRYUlCcQ==
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 966 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
