@@ -756,11 +756,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 900 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 EN VIVO
-https://v9.thetvapp.to/hls/NBATV/index.m3u8?token=SFBGUWM1bHdYenJ2TWJrMUxpb2ZjY2s3U1pSbE90R1NVOEpRYUlCcQ==
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 Sin evento
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 966 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 999 Sin evento
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
