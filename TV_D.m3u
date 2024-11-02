@@ -99,9 +99,6 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 12.1 Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-*****#EXTINF:-1 group-title="TV LOCAL", 13.1 Enlace 13
-*****https://ythls.armelin.one/channel/UCnF-7iyudFEyig475MIVa6w.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 14.1 Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
@@ -257,6 +254,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 202 Brasil (JP News)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 207 Filipinas (ANC)
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
@@ -500,9 +500,6 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 
 #EXTINF:-1 group-title="MÚSICA", 430 Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 431 Bblack! Africa
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 440 TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
