@@ -274,7 +274,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25ad1c59ae7472.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=qYynqbZh5AQtBxEvsAB2
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MeMuQeYJi5QenAMzo2WN
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=SLyVLTwANBMywqhb9vJU
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED Talks)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_Ho7hEPiJys8t_7gSr3x
@@ -358,7 +358,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 330 Plex TV Naturaleza
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=dUQypU1syL5QCECxjKjA
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=TH_kktZsuyzHQN6tTaHV
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 331 Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -574,10 +574,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 530 Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ovU7sasakmexyP1aDjJk
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=CKHnrZr4ss2us1HopxWX
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 531 Grjngo
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=dF_s41FYTxY73Ytr5fDs
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=FLeP4jqypR91s2r4YEk4
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 532 Artflix
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yRGdpgRV-1Nrskukqt-y
