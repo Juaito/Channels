@@ -37,7 +37,11 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV) a
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8%7CReferer=https://teveo.cu/
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV) b
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8?http-referrer=https://teveo.cu/
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 110 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
