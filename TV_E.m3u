@@ -27,6 +27,9 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 13.1 Enlace 13
 https://ythls.armelin.one/channel/UCnF-7iyudFEyig475MIVa6w.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso a
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/media_w739126827_b3003000_17645.ts
+
 #EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 
