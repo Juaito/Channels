@@ -116,6 +116,3 @@ https://usher.ttvnw.net/api/channel/hls/gt_sports_tv1.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 892 GT Sports 2
 https://usher.ttvnw.net/api/channel/hls/gt_sports_tv2.m3u8
-
-#EXTINF:-1 group-title="EN VIVO", 900 Sin evento
-https://raw.githubusercontent.com/Juaito/Channels/refs/heads/main/vivo/900.m3u8
