@@ -72,6 +72,9 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 401 Ritmos Inolvidables
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+
 #EXTINF:-1 group-title="MÚSICA", 423 Vivaldi TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 
