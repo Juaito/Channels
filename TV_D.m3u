@@ -226,7 +226,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 137 Francia (France 24)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
+https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 138 Alemania (DW -30min)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
@@ -276,22 +276,25 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=SLyVLTwANBMywqhb9vJU
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED Talks)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_Ho7hEPiJys8t_7gSr3x
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 Inglaterra (BBC)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (Popular Science)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yQQa7sbrEwK7Fsx1E7Ja
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 Inglaterra (BBC)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 Inglaterra (BBC Home)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC Home)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC Earth)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (BBC Earth)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 234 Inglaterra (Reuters)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 234 Inglaterra (The Guardian)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 235 Inglaterra (The Guardian)
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
@@ -318,7 +321,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 262 India (Bollywood HD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 270 Tailandia (GBN)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 270 Tailandia (NBT)
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 271 Tailandia (GBN)
 https://us.gbnus.com/live/dhamma_low/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 280 Singapur (CNA)
@@ -349,7 +355,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6051201a0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 311 Plex TV Buen viaje
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=RcsX_5DdyzQxNXZLjk4g
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=zQUddpeBFSfG-T6h87hW
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 315 Pluto TV Historia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -357,29 +363,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1
 #EXTINF:-1 group-title="TV TEMÁTICA", 320 Misterios Médicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 330 Plex TV Naturaleza
+#EXTINF:-1 group-title="TV TEMÁTICA", 330 Naturaleza Salvaje
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccb35278822c7edc4b6e01.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yQQa7sbrEwK7Fsx1E7Ja
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 331 Plex TV Naturaleza
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=TH_kktZsuyzHQN6tTaHV
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 331 Pluto TV Naturaleza
+#EXTINF:-1 group-title="TV TEMÁTICA", 332 Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 332 Pluto TV Animales
+#EXTINF:-1 group-title="TV TEMÁTICA", 333 Pluto TV Animales
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 333 Vivir con Gatos
+#EXTINF:-1 group-title="TV TEMÁTICA", 334 Vivir con Gatos
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 334 Vivir con Perros
+#EXTINF:-1 group-title="TV TEMÁTICA", 335 Vivir con Perros
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 335 Encantador de Perros
+#EXTINF:-1 group-title="TV TEMÁTICA", 336 Encantador de Perros
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 340 Pluto TV Diseño
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64db2e0835425100080f2f5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 349 Plex TV Mi casa
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=g1zCrgHS3qyGWjyshnc8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=JQ9UdywnWCxsykBrYB7s
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 350 Pluto TV Recetas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -436,10 +445,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 398 Plex TV Todo Crimen
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=C1W6-dRqDxW7TZ6mskFL
-
-#EXTINF:-1 group-title="MÚSICA", 401 Ritmos Inolvidables
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=WS_Kd8KHXoD_WsJijJdx
 
 #EXTINF:-1 group-title="MÚSICA", 402 Puro Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
@@ -728,6 +734,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a7882
 
 #EXTINF:-1 group-title="DEPORTES", 862 PFL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6163a30ab3300083d870e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DEPORTES", 863 Glory Kickboxing
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mJ5aMxicXhtNSUBsm4Hr
 
 #EXTINF:-1 group-title="DEPORTES", 864 Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
