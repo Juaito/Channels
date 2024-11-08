@@ -48,6 +48,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 #EXTINF:-1 group-title="TV INTERNACIONAL", 134 Vaticano (VM)
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 137 Francia (France 24)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 151 Irán (HispanTV SD)
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
