@@ -721,7 +721,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 840 MLB
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=bVD6Q13wrkbyF4XwLXyg
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d/variant.m3u8?x-plex-token=ud-psU3BcRAjyhjqjjnG&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1731217362&url=3f6b0e6fe8f8bceff0954ac2952eb874-9a1fd8ac431cd2890caf84781f91000125b0a14b33fe2186fe4c8d7da128f6495e7a99c4eac7d1db1f5ffc287c0bb1e2b05ab71375e044bd0467528260961c8296638614f4e3d4d04e318cd923d92b4156551036bb2004efe3f4b87d258bfcfbd7c308f4580d7fb0c9db2e4531ca5fb80cbac6393646dc6ee483df96cc3c10bc98d34599a5d02edf9ecd587cb62ac576b8e85d67e29634dc56ebccb53654535f7c3e772f2e56faf9d024fff82772e34c2ac5fb7e33d14cfeaceac90946592d632e38ae170beb35b0b8016e9cc9c2d99b
 
 #EXTINF:-1 group-title="DEPORTES", 850 NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
