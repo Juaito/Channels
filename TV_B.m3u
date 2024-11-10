@@ -580,7 +580,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 530 Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=CKHnrZr4ss2us1HopxWX
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa/variant.m3u8?x-plex-token=sETxVM-_vANFSY9xXwBB&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1731225472&url=24936c53349bac8c79daf8081ae0ba79-f3decd444ece5e0e03327c67e37efdfbe0db0a2f733936ccf8eedda768e002e4204aee0feb492647efc4d18d6c6630b721a7acded7d600ad0c9a1117d14eb361f635876ef195e4091f4296f00a0b3cb085ac4fb8ad93dff0bea4ea3a0e06ccb667fd555c8ffcb064966946ce2eeb4712aa565a4da3929e9774be610e33b81fcb9b9f721f43a2aa684342a86fed071134f4362e7d613c9cd7a1d7a2e3ca4277bf266597b0207dea0067163859f868515116e64e6dbfe6b5679ab3c3bce5f0cf6422852d29b2389208a8f39d27d46f2e57
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 531 Grjngo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=FLeP4jqypR91s2r4YEk4
