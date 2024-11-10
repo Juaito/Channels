@@ -445,7 +445,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 398 Plex TV Todo Crimen
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=WS_Kd8KHXoD_WsJijJdx
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17/variant.m3u8?x-plex-token=yWGcuw24y2QDnYA6w5Jj&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1731225329&url=ed001bdba325890d5e9294e581bb7838-6e37154b8d61d29297d54505b025cec6730487b21ee6326fecc7bd581dcd5ccec0b60f75db66994f6e5b486d5e4ec1fae3860e7fc45411644be1f82b682e1a623400c42b0af00dd353fa7f8a020e0662cb36c2696fc43f7e26fe217c7cf384f2ef3206ec207651542a67506bb25802d8a2ab4a8a04403b069f844ba31af5b830c2b7c29859404db652fea4d541d2e73d54e002b3214c0f833cccbd0865395ef8
 
 #EXTINF:-1 group-title="MÚSICA", 402 Puro Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
