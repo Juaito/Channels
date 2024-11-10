@@ -277,7 +277,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=SLyVLTwANBMywqhb9vJU
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_Ho7hEPiJys8t_7gSr3x
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487/variant.m3u8?x-plex-token=AmypsQyZwnniYbSRsnx8&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1731218394&url=7079eaccfeec6af5587826fa2d44b165-1dd158af64339d63542197f6dbfe67c09aa305a4af5e865ca89d41e28934cc82424e1a453a780dc3401843587709b5c521e0f7ef713a067c66050719f2437b8a73199caeccad1d6eb7fb87a1ef2ad4cc45c19fcaa33814b294d6795707ea1151ca4ee5d21c452b8959da1492a3f3d210d3c3d09865f9bd5125cb734a80ed1a24df0e23ebb85849c1bd842e1c446e11892c19ac435eb8193fe9657ca37499aa95518799b4196b8c91536dfc4146e7a5ff0339f3a892348bce5b74fa9eaa812773
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (Popular Science)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yQQa7sbrEwK7Fsx1E7Ja
