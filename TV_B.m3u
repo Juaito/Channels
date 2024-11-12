@@ -333,16 +333,19 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 271 Tailandia (GBN)
 https://us.gbnus.com/live/dhamma_low/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 280 Singapur (CNA)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 280 China (CGTN)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 281 China (CGTN Documentary)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 282 Surcorea (KBS World)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 Singapur (CNA)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 Surcorea (KBS World)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 Norcorea (KCTV)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 285 Norcorea (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 301 Saber más
