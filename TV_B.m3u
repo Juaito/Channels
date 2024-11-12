@@ -276,25 +276,28 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=SLyVLTwANBMywqhb9vJU
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (NTD)
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (TED)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h7-b4smBevzmsrKLnRLP
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (Popular Science)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 EEUU (Popular Science)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yQQa7sbrEwK7Fsx1E7Ja
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 Inglaterra (BBC)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC Home)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (BBC Home)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (BBC Earth)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 234 Inglaterra (BBC Earth)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 234 Inglaterra (Reuters)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 235 Inglaterra (Reuters)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 235 Inglaterra (The Guardian)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 236 Inglaterra (The Guardian)
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
