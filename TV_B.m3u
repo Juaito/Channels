@@ -774,8 +774,8 @@ https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20B
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 925 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 EN VIVO
-https://caliente.production.geniuslive.geniussports.com/hls/live/310000/m03jsasz/INFRONT_11598582/playlist.m3u8?hdnts=st=1731717312~exp=1731720912~acl=/hls/live/310000/m03jsasz/INFRONT_11598582/*~id=cdc5f5ac-ce36-471b-ada4-5e3366ebb4c4~data=reg:MX|dev:*~hmac=500f9bdbb1499c74f589c7571302f45e777f03cecb455ac861602533d4f3a9a7
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 Sin evento
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 950 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
@@ -786,5 +786,5 @@ https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20B
 #EXTINF:-1 group-title="EVENTOS EN VIVO", 975 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 999 Sin eventos
-https://elverruca174.s3.eu-west-1.amazonaws.com/hls/0/stream.m3u8
+#EXTINF:-1 group-title="EVENTOS EN VIVO", 999 Sin evento
+https://v4.thetvapp.to/hls/PPV01/index.m3u8?token=V2tqSU1ZeUE5VmJqSG1ibndWTWxiS1luSFVvZlJraHlRbGtrYk8zMQ==
