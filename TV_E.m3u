@@ -18,6 +18,9 @@ http://45.228.234.167:8000/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 09.1 El Nu9ve
 https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
+EXTINF:-1 group-title="TV LOCAL", 09.1 Nueve TV (San Luis)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 09.2 N+ Coahuila
 https://ythls.armelin.one/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
 
