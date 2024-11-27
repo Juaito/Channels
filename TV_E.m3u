@@ -66,6 +66,9 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN) B
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (Washington Post)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25ad1c59ae7472.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZKndwxExhAcLpzNxa6yx
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mtBJzncnrnNxmDLeszwS
 
