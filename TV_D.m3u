@@ -37,7 +37,7 @@ https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3567.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 06.1 Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -68,6 +68,9 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 08.3 NRT Sureste
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE
+http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 09.2 N+ Coahuila
 https://ythls.armelin.one/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
@@ -267,9 +270,6 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (CNN -10min)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (Washington Post)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25ad1c59ae7472.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZKndwxExhAcLpzNxa6yx
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=SLyVLTwANBMywqhb9vJU
 
@@ -301,7 +301,7 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 240 Rusia (RT)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -418,7 +418,7 @@ https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlis
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 380 Bob Ross
-https://amg01201-cinedigmenterta-bobrossspanish-lgus-nm4nz.amagi.tv/playlist/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6swsxiVvWfs7JZpch2M_
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 390 True Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
@@ -445,7 +445,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="MÚSICA", 401 Ritmos Inolvidables
-https://amg00658-amg00658c37-canelatv-international-5219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-ritmosinolvidablesta-canelatvinternational/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 
 #EXTINF:-1 group-title="MÚSICA", 402 Puro Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
@@ -713,6 +713,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 group-title="DEPORTES", 808 Azteca Deportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DEPORTES", 809 Caliente TV
+http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/4385.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 820 FIFA +
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
