@@ -27,6 +27,9 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 09.2 N+ Coahuila
 https://ythls.armelin.one/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 10.1 TeleSaltillo
+https://servilive.com:3879/live/telesaltillolive.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 10.6 MegaNoticias 
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
