@@ -37,7 +37,7 @@ https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5
-http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3567.m3u8
+http://181.78.105.146:2000/play/a038/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 06.1 Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
