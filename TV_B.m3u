@@ -735,6 +735,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34
 #EXTINF:-1 group-title="DEPORTES", 823 Top Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 824 Inter TV
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 840 MLB
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9JQuzLCx-YxC7FS2Nom8
 
