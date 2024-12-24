@@ -777,23 +777,23 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 #EXTINF:-1 group-title="DEPORTES", 890 Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 900 Sin evento
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 900 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 925 Sin evento
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 925 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 933 Sin evento
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 933 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 950 Sin evento
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 950 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 966 Sin evento
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 966 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 975 Luces Navideñas
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 975 Luces Navideñas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a0e7a9ab0370008b177f2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="EVENTOS EN VIVO", 999 Chimenea Navideña
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 999 Chimenea Navideña
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a0f421418bd0007e14548/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
