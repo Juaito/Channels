@@ -525,9 +525,6 @@ https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MÚSICA", 450 Divya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15
-http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
-
 #EXTINF:-1 group-title="MÚSICA", 470 Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
