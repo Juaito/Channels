@@ -519,6 +519,9 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="MÚSICA", 441 Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 442 M+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", 443 Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8
 
