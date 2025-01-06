@@ -159,7 +159,7 @@ http://181.78.105.146:2000/play/a046/index.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 101 Venezuela (TeleSur)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 102 Venezuela (Novelas)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 102 Venezuela (Pluto Novelas)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 103 Colombia (RTVC)
@@ -168,7 +168,7 @@ https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (Institucional)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (Novelas)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (Pluto Novelas)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 107 Perú (TVPE noticias)
@@ -246,10 +246,10 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 152 Turquía (Novelas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 153 Turquía (Corazón)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 153 Turquía (Corazón Turco)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 154 Turquía (Kanal D)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 154 Turquía (Kanal D Drama)
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 162 India (Zeemundo)
