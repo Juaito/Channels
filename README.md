@@ -65,27 +65,22 @@ De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;450 a 459: Música de la India</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;460 a 469: Música de oriente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;470 a 479: Relajante y ambiental</br>
-De 500 a 599: Cine y entretenimiento</br>
-De 600 a 699: Telenovelas y dramas</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;601 a 619 Novelas de Latinoamérica</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;620 a 639 Dramas en occidente</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;650 a 659 Novelas de medio oriente</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;690 a 699 Dramas de oriente</br>
-De 700 a 799: Dibujos animados,  repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_A.m3u">TV_A.m3u</a> y demás archivos.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;700 a 749 Caricaturas</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 a 799 Anime</br>
-De 800 a 899: Deportes</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;800 a 819 Barra general y análisis deportivo</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;820 a 829 Futbol</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;830 a 839 Básquetbol</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;840 a 849 Beisbol</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;850 a 859 Otros deportes de conjunto</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;860 a 869 Peleas</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;870 a 879 Deportes extremos</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;880 a 889 Deportes con animales</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;890 a 899 Deportes electrónicos</br>
-De 900 a 999: Eventos en vivo, repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a> y <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a>.</br>
-Mayor al 999: Clasificación TV-MA, solo en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
+De 500 a 599: Cine, series y novelas</br>
+De 600 a 699: Dibujos animados,  repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_A.m3u">TV_A.m3u</a> y demás archivos.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;600 a 649 Caricaturas</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;650 a 699 Anime</br>
+De 700 a 799: Deportes</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;700 a 719 Barra general y análisis deportivo</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;720 a 729 Futbol</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;730 a 739 Básquetbol</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;740 a 749 Beisbol</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 a 759 Otros deportes de conjunto</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;760 a 769 Peleas</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;770 a 779 Deportes extremos</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;780 a 789 Deportes con animales</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;790 a 799 Deportes electrónicos</br>
+De 800 a 899: Eventos en vivo, repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a> y <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a>.</br>
+Mayor al 899: Clasificación TV-MA, solo en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
   alt="Civiliaciones del mundo actual"
