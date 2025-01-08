@@ -28,8 +28,8 @@ Menor al 100: Canales de TV en México.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menor al 11: NO gubernamentales generalmente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mayor al 10: Gubernamentales generalmente</br>
 De 100 a 199: Canales de TV internacionales en español ordenados por las civilizaciones actuales:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 109: Latinoamericanos</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;110 A 119: África Subsahariana</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 a 114: Latinoamericanos</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;115 A 119: África Subsahariana</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120 a 139: Occidentales</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140 a 149: Europa oriental</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 a 159: Mundo islámico</br>
