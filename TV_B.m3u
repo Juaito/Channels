@@ -75,9 +75,6 @@ http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 09.3 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net:443/nuevetv/videonuevetv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 10.1 TeleSaltillo
-https://servilive.com:3879/live/telesaltillolive.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 10.2 Canal 10 (Chiapas)
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
@@ -287,9 +284,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 207 Filipinas (ANC)
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
-https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 211 Kenia (TidPix)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11078
