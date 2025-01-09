@@ -57,7 +57,7 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 #EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 110 Guinea E. (TVGE)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 116 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 126 España (Andalucía)
@@ -132,26 +132,26 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 528 Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra
+#EXTINF:-1 group-title="DEPORTES", 705 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 820 FIFA +
+#EXTINF:-1 group-title="DEPORTES", 720 FIFA +
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 820 FIFA + B
+#EXTINF:-1 group-title="DEPORTES", 720 FIFA + B
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c/variant.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 821 LaLiga Inside RK
+#EXTINF:-1 group-title="DEPORTES", 721 LaLiga Inside RK
 https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 821 LaLiga Inside TVF
+#EXTINF:-1 group-title="DEPORTES", 721 LaLiga Inside TVF
 https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 880 La Casa del Jaripeo
+#EXTINF:-1 group-title="DEPORTES", 780 La Casa del Jaripeo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
 
-#EXTINF:-1 group-title="DEPORTES", 891 GT Sports 1
+#EXTINF:-1 group-title="DEPORTES", 791 GT Sports 1
 https://usher.ttvnw.net/api/channel/hls/gt_sports_tv1.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 892 GT Sports 2
+#EXTINF:-1 group-title="DEPORTES", 792 GT Sports 2
 https://usher.ttvnw.net/api/channel/hls/gt_sports_tv2.m3u8
