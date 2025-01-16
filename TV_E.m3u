@@ -45,6 +45,9 @@ https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 18.2 Lobo+ (Puebla)
 https://tvenvivo.buap.mx/livestream2/stream.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX)
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 
