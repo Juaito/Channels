@@ -622,7 +622,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=L-VM2axpmBMzA4u_ih--
 
 #EXTINF:-1 group-title="CINE", 532 Artflix
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EejW_53ox2sVzLs3wZMV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ThySs2BRiEQbgdVcGNpz
 
 #EXTINF:-1 group-title="CINE", 540 Pluto TV a la Mexicana
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
