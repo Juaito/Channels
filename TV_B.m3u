@@ -249,6 +249,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 group-title="TV INTERNACIONAL", 140 Rusia (RT)
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 141 Rusia (TV BRICS)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
 https://live.presstv.ir/hls/hispantv.m3u8
 
