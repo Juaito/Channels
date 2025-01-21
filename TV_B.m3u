@@ -48,14 +48,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 group-title="TV LOCAL", 06.3 Multimedios Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 06.4 TeleDiario
+#EXTINF:-1 group-title="TV LOCAL", 06.4 PopCorn Central
+https://freetv.stream.olympusatmedia.com/index.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 06.5 MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 06.6 TeleDiario
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 group-title="TV LOCAL", 06.5 C4 en Alerta
+#EXTINF:-1 group-title="TV LOCAL", 06.7 C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
-
-#EXTINF:-1 group-title="TV LOCAL", 06.6 MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -488,6 +491,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
 #EXTINF:-1 group-title="MÚSICA", 404 Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+
+#EXTINF:-1 group-title="MÚSICA", 405 Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 409 MTV Flow Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
