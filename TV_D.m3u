@@ -48,14 +48,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 group-title="TV LOCAL", 06.3 Multimedios Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 06.4 TeleDiario
+#EXTINF:-1 group-title="TV LOCAL", 06.4 PopCorn Central
+https://freetv.stream.olympusatmedia.com/index.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 06.5 MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 06.6 TeleDiario
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 group-title="TV LOCAL", 06.5 C4 en Alerta
+#EXTINF:-1 group-title="TV LOCAL", 06.7 C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
-
-#EXTINF:-1 group-title="TV LOCAL", 06.6 MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -96,8 +99,8 @@ http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 11.3 Once IPN Digital
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 12.1 Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="TV LOCAL", 12.1 Super Channel
+https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 14.1 Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
@@ -130,7 +133,7 @@ https://tvenvivo.buap.mx/livestream2/stream.m3u8
 https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX)
-https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
+https://video.cdmx.gob.mx/redes/stream.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 22.1 Canal 22 (Conaculta)
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -252,6 +255,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 group-title="TV INTERNACIONAL", 140 Rusia (RT)
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 141 Rusia (TV BRICS)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
 https://live.presstv.ir/hls/hispantv.m3u8
 
@@ -288,9 +294,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 207 Filipinas (ANC)
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 210 Nigeria (Channels)
-https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 211 Kenia (TidPix)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11078
 
@@ -307,10 +310,10 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e185411
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (TED)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h7-b4smBevzmsrKLnRLP
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=FPnf25LEe_NYRwsxudxJ
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 EEUU (Popular Science)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yQQa7sbrEwK7Fsx1E7Ja
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=hzorra2fgXyYgi8nb7Qr
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 EEUU (Military Times)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
@@ -357,7 +360,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 262 India (Bollywood HD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 270 Tailandia (NBT)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 270 Tailandia (NBT World)
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 271 Tailandia (GBN)
@@ -400,7 +403,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 331 Plex TV Naturaleza
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kfurWyX7w8SBWN3zYxPp
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tz46sgogDjX5HiGJV8an
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 332 Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -489,6 +492,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 group-title="MÚSICA", 404 Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
+#EXTINF:-1 group-title="MÚSICA", 405 Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", 409 MTV Flow Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -546,17 +552,26 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="MÚSICA", 440 TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 441 Arabica TV
+#EXTINF:-1 group-title="MÚSICA", 441 Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 group-title="MÚSICA", 442 Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 442 M+
+#EXTINF:-1 group-title="MÚSICA", 443 M+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 443 Persiana Sonnati
+#EXTINF:-1 group-title="MÚSICA", 444 Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="MÚSICA", 445 Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 450 Divya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
+
+#EXTINF:-1 group-title="MÚSICA", 462 GugakTV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 470 Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
@@ -613,19 +628,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 #EXTINF:-1 group-title="CINE", 530 Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jk8g2FLkBAVX1JfGJcBd
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jBfHeT4zsz5J34QZ7sxP
 
 #EXTINF:-1 group-title="CINE", 531 Grjngo
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=L-VM2axpmBMzA4u_ih--
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=T6yWdPAUUXRAkVsaDH_S
 
 #EXTINF:-1 group-title="CINE", 532 Artflix
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EejW_53ox2sVzLs3wZMV
-
-#EXTINF:-1 group-title="CINE", 533 Butaca TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Pr9Azzm1ouREoxoBesHx
-
-#EXTINF:-1 group-title="CINE", 534 Bigtime
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MBksUoyMrx_U_H-xstT1
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ThySs2BRiEQbgdVcGNpz
 
 #EXTINF:-1 group-title="CINE", 540 Pluto TV a la Mexicana
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -750,35 +759,36 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34
 #EXTINF:-1 group-title="DEPORTES", 723 Top Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 740 MLB
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9JQuzLCx-YxC7FS2Nom8
+#EXTINF:-1 group-title="DEPORTES", 724 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 740 MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 750 NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 760 Pluto TV Peleas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="DEPORTES", 755 NHL Network
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 761 UFC
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=AYZ5qotkBb14ELPzyQb9
+#EXTINF:-1 group-title="DEPORTES", 760 UFC
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h5ym7Tb2Qyv8EQyrjUE3
 
-#EXTINF:-1 group-title="DEPORTES", 762 PFL
+#EXTINF:-1 group-title="DEPORTES", 761 PFL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6163a30ab3300083d870e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 763 XFC
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-621670feab2095ca85353ad4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=gYx8gLC2Nxjk6yji3y9m
 
-#EXTINF:-1 group-title="DEPORTES", 764 Glory Kickboxing
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mJ5aMxicXhtNSUBsm4Hr
-
-#EXTINF:-1 group-title="DEPORTES", 765 Boxing TV
+#EXTINF:-1 group-title="DEPORTES", 764 Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 766 DAZN Ringside
+#EXTINF:-1 group-title="DEPORTES", 765 DAZN Ringside
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 767 DAZN Combat
+#EXTINF:-1 group-title="DEPORTES", 766 DAZN Combat
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DEPORTES", 767 Pluto TV Peleas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="DEPORTES", 768 Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -795,20 +805,26 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 #EXTINF:-1 group-title="DEPORTES", 790 Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 794 Robot wars
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=gYx8gLC2Nxjk6yji3y9m
-
-#EXTINF:-1 group-title="DEPORTES", 795 Monster Jam
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=gYx8gLC2Nxjk6yji3y9m
-
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 840 Sin evento
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
-
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 860 Sin evento
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 800 Sin evento
 https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 880 Sin evento
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 825 Sin evento
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
+
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Sin evento
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
+
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 850 Sin evento
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
+
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 866 Sin evento
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
+
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 875 Sin evento
+https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
+
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 899 Sin evento
+https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
 
 #EXTINF:-1 group-title="ADULTOS", 901 Rubias
 http://live.adultiptv.net/blonde.m3u8
