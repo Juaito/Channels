@@ -72,6 +72,12 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 #EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 103 Colombia (RTVC)
+https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (Institucional)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 115 Guinea E. (Asonga)
 https://live.homeafrika.es/live/idikpc.flv
 
