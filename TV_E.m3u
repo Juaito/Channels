@@ -30,8 +30,11 @@ http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3567.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 08.3 Heraldo 
 https://cdndirector.dailymotion.com/cdn/live/video/x88epch.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 09.1 El Nu9ve
+#EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE a
 https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE b
+http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
 
 EXTINF:-1 group-title="TV LOCAL", 09.1 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
