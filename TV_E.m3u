@@ -135,6 +135,9 @@ https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 #EXTINF:-1 group-title="TV TEMÁTICA", 380 Bob Ross
 https://amg01201-cinedigmenterta-bobrossspanish-lgus-nm4nz.amagi.tv/playlist/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 390 True Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+
 #EXTINF:-1 group-title="MÚSICA", 401 Ritmos Inolvidables
 https://amg00658-amg00658c37-canelatv-international-5219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-ritmosinolvidablesta-canelatvinternational/playlist.m3u8
 
