@@ -255,9 +255,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 141 Rusia (TV BRICS)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
-https://live.presstv.ir/hls/hispantv.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 152 Turquía (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -266,6 +263,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d5
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 154 Turquía (Kanal D Drama)
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 155 Irán (HispanTV)
+https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 162 India (Zeemundo)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=pmGdpBVpsu1i9Q1o4sL7
@@ -342,11 +342,11 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 241 Rusia (RT Documentary)
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Qatar (Al Jazeera)
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Turquía (TRT)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Turquía (TRT)
 https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Qatar (Al Jazeera)
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 R. Saharaui (RASD TV)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12830&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
