@@ -123,6 +123,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mtBJzncnrnNxmDLeszwS
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 237 Inglaterra (The Guardian)
+https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
