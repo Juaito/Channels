@@ -255,9 +255,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 141 Rusia (TV BRICS)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 150 Irán (HispanTV)
-https://live.presstv.ir/hls/hispantv.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 152 Turquía (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -267,11 +264,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d5
 #EXTINF:-1 group-title="TV INTERNACIONAL", 154 Turquía (Kanal D Drama)
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 155 Irán (HispanTV)
+https://live.presstv.ir/hls/hispantv.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 162 India (Zeemundo)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=pmGdpBVpsu1i9Q1o4sL7
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (Hi Vida)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida-roku/master.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 182 Surcorea (Pluto Dramas)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -287,9 +290,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 202 Brasil (JP News)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 207 Filipinas (ANC)
-https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 211 Kenia (TidPix)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11078
@@ -330,9 +330,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 236 Inglaterra (Reuters)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 237 Inglaterra (The Guardian)
-https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 
@@ -342,14 +339,17 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 241 Rusia (RT Documentary)
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Qatar (Al Jazeera)
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Turquía (TRT)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Turquía (TRT)
 https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Qatar (Al Jazeera)
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 R. Saharaui (RASD TV)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12830&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 253 Líbano (Al Mayadeen)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 260 India (India Today)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
@@ -395,6 +395,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6051201a0
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 310 Mundo viajero
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 311 Distro TV Viajar
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 315 Pluto TV Historia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -450,11 +453,8 @@ https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlis
 #EXTINF:-1 group-title="TV TEMÁTICA", 371 Mi Coche Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 380 Bob Ross
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6swsxiVvWfs7JZpch2M_
-
-#EXTINF:-1 group-title="TV TEMÁTICA", 390 True Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+#EXTINF:-1 group-title="TV TEMÁTICA", 390 Plex TV Crimen
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=cCcTGXdKdcet4WWiCZg8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 391 Sangre fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
@@ -477,26 +477,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 #EXTINF:-1 group-title="TV TEMÁTICA", 397 Misterios sin Resolver
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 398 Plex TV Crimen
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=cCcTGXdKdcet4WWiCZg8
+#EXTINF:-1 group-title="MÚSICA", 400 MTV Flow Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="MÚSICA", 401 Ritmos Inolvidables
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
-
-#EXTINF:-1 group-title="MÚSICA", 402 Puro Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-
-#EXTINF:-1 group-title="MÚSICA", 403 Tu Pop Favorito
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+#EXTINF:-1 group-title="MÚSICA", 402 Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 404 Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
-#EXTINF:-1 group-title="MÚSICA", 405 Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="MÚSICA", 405 Tu Pop Favorito
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
-#EXTINF:-1 group-title="MÚSICA", 409 MTV Flow Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MÚSICA", 406 Puro Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+#EXTINF:-1 group-title="MÚSICA", 407 Ritmos Inolvidables
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+
+#EXTINF:-1 group-title="MÚSICA", 408 Hits Mexicanos
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 group-title="MÚSICA", 409 Rockola Television
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 410 MTV Classic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -534,7 +537,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623a1b518
 #EXTINF:-1 group-title="MÚSICA", 421 XITE Classic Country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="MÚSICA", 422 Volksmusik TV
+#EXTINF:-1 group-title="MÚSICA", 423 Volksmusik TV
 https://muc.iptv-playoutcenter.de/volksmusik/volksmusik.stream_1/playlist.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 424 Stingray Classica
@@ -747,8 +750,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 group-title="DEPORTES", 708 Azteca Deportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 709 Caliente TV
-http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/4385.m3u8
+#EXTINF:-1 group-title="DEPORTES", 710 Canela Deportes
+https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 720 FIFA +
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -761,6 +764,9 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1 group-title="DEPORTES", 724 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 725 DFB Play TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6720e2bddaad7f000872f274/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="DEPORTES", 740 MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
