@@ -141,7 +141,16 @@ https://amg01201-cinedigmenterta-bobrossspanish-lgus-nm4nz.amagi.tv/playlist/amg
 #EXTINF:-1 group-title="TV TEMÁTICA", 390 True Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
-#EXTINF:-1 group-title="MÚSICA", 401 Ritmos Inolvidables
+#EXTINF:-1 group-title="MÚSICA", 405 Tu Pop Favorito
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+
+#EXTINF:-1 group-title="MÚSICA", 406 Puro Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+#EXTINF:-1 group-title="MÚSICA", 407 Ritmos Inolvidables A
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+
+#EXTINF:-1 group-title="MÚSICA", 407 Ritmos Inolvidables B
 https://amg00658-amg00658c37-canelatv-international-5219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-ritmosinolvidablesta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 423 Vivaldi TV
