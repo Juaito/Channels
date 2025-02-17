@@ -90,7 +90,7 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 #EXTINF:-1 group-title="TV LOCAL", 10.5 TeleFórmula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
-#EXTINF:-1 group-title="TV LOCAL", 10.6 TVOAI News
+#EXTINF:-1 group-title="TV LOCAL", 10.6 TVOAI Channel
 https://rdf-tvoai.otteravision.com/rdf/tvoai/tvoai.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 11.1 Once IPN
