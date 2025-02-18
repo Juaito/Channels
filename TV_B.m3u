@@ -66,7 +66,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 07.2 A más +
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 07.3 Azteca Noreste
+#EXTINF:-1 group-title="TV LOCAL", 07.3 Azteca Noreste (No 24|7)
 https://cdn3.wowza.com/1/b2daMk5pSi84dTVa/L29tdGk2/hls/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 08.1 RCG Media
