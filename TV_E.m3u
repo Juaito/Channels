@@ -114,6 +114,18 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN) B
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK Back)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist-back.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK vtt)
+https://bmcc.nhkworld.jp/vtt/es/webvtt.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK vtt-b)
+https://b-bmcc.nhkworld.jp/vtt/es/webvtt.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN) C
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 
