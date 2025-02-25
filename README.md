@@ -78,7 +78,7 @@ De 700 a 799: Deportes</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;760 a 769 Peleas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;770 a 779 Deportes extremos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;780 a 789 Deportes con animales</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;790 a 799 Deportes electrónicos</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;790 a 799 Deportes electrónicos y automotor</br>
 De 800 a 899: Eventos en vivo, repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a> y <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a>.</br>
 Mayor al 899: Clasificación TV-MA, solo en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
 
