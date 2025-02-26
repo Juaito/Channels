@@ -150,6 +150,9 @@ https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 253 Líbano (Al Mayadeen)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 Surcorea (KBS World)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
