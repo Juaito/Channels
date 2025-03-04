@@ -579,6 +579,9 @@ https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u
 #EXTINF:-1 group-title="MÚSICA", 472 Stingray Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 473 Nomand Slow TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8?
+
 #EXTINF:-1 group-title="MÚSICA", 475 Hoguera
 https://d2qul7l572aj41.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dushfkf75dpdk/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 
