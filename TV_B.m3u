@@ -588,7 +588,10 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,
 #EXTINF:-1 group-title="MÚSICA", 475 Hoguera
 https://d2qul7l572aj41.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dushfkf75dpdk/index.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 476 Primavera
+#EXTINF:-1 group-title="MÚSICA", 476 Lluvia
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+
+#EXTINF:-1 group-title="MÚSICA", 479 Primavera
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8
 
 #EXTINF:-1 group-title="CINE", 501 Runtime TV
