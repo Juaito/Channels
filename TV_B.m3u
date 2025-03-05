@@ -640,9 +640,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 group-title="CINE", 523 Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 
-#EXTINF:-1 group-title="CINE", 524 Canela Horror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-
 #EXTINF:-1 group-title="CINE", 525 Canela Clásicos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
