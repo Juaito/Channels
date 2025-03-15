@@ -60,8 +60,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 #EXTINF:-1 group-title="TV LOCAL", 06.7 C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 
-#EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 07.2 A más +
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
