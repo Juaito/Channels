@@ -27,6 +27,9 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 b
 http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3567.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 07.3 INFO7 MTY (No 24|7)
 https://cdn3.wowza.com/1/b2daMk5pSi84dTVa/L29tdGk2/hls/live/playlist.m3u8
 
