@@ -72,6 +72,9 @@ https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 18.2 Lobo+ (Puebla)
 https://tvenvivo.buap.mx/livestream2/stream.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 18.2 Lobo+ (Puebla)
+https://tvenvivo.buap.mx/livestream2/stream.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX) A
 https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 
