@@ -123,6 +123,12 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 17.1 Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 18.1 BUAP (Puebla)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 18.2 Lobo+ (Puebla)
+https://tvenvivo.buap.mx/livestream2/stream/index.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 20.1 TV UNAM
 https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 
