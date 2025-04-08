@@ -93,6 +93,9 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834
 #EXTINF:-1 group-title="TV LOCAL", 45.2 Senadores
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 45.2 Senadores B
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.2_kd5oiNTTWO0gEOFc423456787er_adaptive.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
