@@ -84,20 +84,23 @@ https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX) B
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso
+#EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso A
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 45.2 Senadores A
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados A
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso B
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834_adaptive.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 45.2 Senadores
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 45.2 Senadores B
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.2_kd5oiNTTWO0gEOFc423456787er_adaptive.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados B
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf52_adaptive.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
