@@ -852,8 +852,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="DEPORTES", 795 Monster Jam
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65c69b683ba51e00084534a3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 800 Sin evento
-https://ia803408.us.archive.org/25/items/SMPTECOLORBARS_201801/SMPTE%20COLOR%20BARS.mp4
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 800 EN VIVO
+https://customer-3sxmjm03kuqunnum.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjM4ZGE5NzEzZWJjZDhmN2JkNjM0NmQyMTkxZGMyYzFmIn0.eyJzdWIiOiI0NDUzM2ExZjhlYmJhZmM5ZmYxOTQ4MTQ5MmNlODA1ZiIsImtpZCI6IjM4ZGE5NzEzZWJjZDhmN2JkNjM0NmQyMTkxZGMyYzFmIiwiZXhwIjoxNzQ0MzU4NTQyLCJkb3dubG9hZGFibGUiOmZhbHNlLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImFueSIsImFjdGlvbiI6ImFsbG93In1dfQ.QmMpPt4708NgqOkX_NnLdTtUgiyavnW6ZeTW2KAlYaWtfw-TOM2UBqxMpZDCnW7LgF_1H3oUvo-q7H6IW00u-_-x38lOMDI2hVKfPwYzurExBsXhysFjT1GPrakXbazogHHXb1592Q1Hz4q3hSbZpm_lLG9kX26eVqK_ZRc904IFMpEZmpVQxzvNo--zMkC_r4KeBHX3BWYjvBNXlJ11aXm623LMw68SV3gySSW99UUWHJEsK0oXfmiHzwlA7XKa57RGjvyO0cGSmxYYrgbgEUK-fpk1oAOiECQcdrc6OqEje5GksuzZdnxhRzdrHfGlzNP3U_ugNta47KDgnZA1Aw/manifest/video.m3u8
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Sin evento
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
