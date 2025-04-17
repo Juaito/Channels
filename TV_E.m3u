@@ -33,6 +33,12 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 d
 http://streamsy.online:2999/happy2024/newyear/1457
 
+#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 e
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310636
+
+#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 f
+http://goldfull.pro:8880/56957514063f/EG4MhhF3YGws/135430
+
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -47,6 +53,9 @@ https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE b
 http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE c
+http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310612
 
 EXTINF:-1 group-title="TV LOCAL", 09.1 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
