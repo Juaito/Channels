@@ -576,6 +576,9 @@ https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MÚSICA", 450 Divya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 461 Today's K-POP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
+
 #EXTINF:-1 group-title="MÚSICA", 462 GugakTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
