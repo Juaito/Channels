@@ -153,6 +153,12 @@ https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (Uno)
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (Dos)
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 126 España (Andalucía)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12685&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
