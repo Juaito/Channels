@@ -297,8 +297,14 @@ https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
 #EXTINF:-1 group-title="DEPORTES", 721 LaLiga Inside TVF
 https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 740 MLB Network
+#EXTINF:-1 group-title="DEPORTES", 750 MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 750 MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 751 NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 780 La Casa del Jaripeo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
