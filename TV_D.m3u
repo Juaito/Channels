@@ -171,20 +171,26 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf5
 #EXTINF:-1 group-title="TV LOCAL", 45.4 JusticiaTV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 100 El Salvador (ES24)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 100 El Salvador-EEUU (ES24)
 https://amg00658-amg00658c98-canelatv-international-6698.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-es24ta-canelatvinternational/cb7e3e167b746f8f9ac26a6cd1f74aa28952378b5135d33f3afe5cc47fc01d0c87b6f3c4bf4dcdfb6de24094385631004262d519ce647d9e803fe05a240d4920d8c7eb2fc9981102a2da0c2a28bb186f57fe7205a2600a7edda62e23b46cfb2b5742b9583a1862ddec52bd3114dc907bcb3f75deca883342241e409a5e5afba358b3e79a2521a510bda14011ce7a5590d711928b05abe68119dd1ad928ee108392e0f88b52dddbc47ca854b17a59167424cdd337c29b0cf6f7956b30907468751f53e7b19ab11b6fd109100ababb9ae93daa109d8821cc6664ea01d51ed5358c26f35ca4e503f7ffbe8e161538f2c15a637efa8bcae8f23641d50c9d8bc8ff2231ceac7e1224cd63cc504852f1ad9159eea0119fb251c3de2d193b96954199c5b3cebee68c49d171c8c5a6d564171d6149018508fbc33f8971dc7daccf495e362751bea545d68fcf5f337b3df7ea31da0617b5e49e90e01e29c3761a59f13aa331757ec5336468f612f19530688c34358c314f9d32518551aeec769ecdb8e90b2fc7baad20d14eb5d960b7f50db97d3d2b61d9937c05322612d4eb7004337cfc49e5ddcdf4760e059e93a79cc5406277537f5b0a8addf3698b8bb24d7774ef727c191e7a168614e96bca0e4d0c2bbb75b9c50a758b032d2ca8b329072f06fbc9a191b8c5de4ba77aecdaef355d5f3301931237c00fb9c7e5a66eab2a041870b84d026eb81f5341e5e7b18ffbae4fbe51e0375a18794dcae2034949737e6618929369ad318a05c92afab834ffee81064c8930ac4364f65a40f8999fe2e4602eeac27416669fc62ec97267a07db179dd82218ee2126e684d68785ef647980699a6488925594d8576a3349b59b699f1bad56719ca9e4427361b47126668a14d667bbbf86b1a72e0b026a908a8bb15e16e5d3d2a5f85c2215082fa781598752f33fee099d8fd985b22eb38a459894216af5b0961d5e709bbcde0a1abd63e004e89e6fa17fbb69ec88cf7da36720e5b3599ea5641388d75a7c254b7ed5557c7bda6c9962e9b7ce930fba3b32def33e98b8a0bbc8394f1f53843100a17dfc9e5f519def35b16e8358b037b41c8d9aaa537aa9a91087ae351e5c5346fa83f6c5486fea8538678ee94544080a6675dc77b3bc5929d774fb244ad42662f11ac6dcfaf12a59e7086d8e9d9f28650b8f91a7f0d9c5f/42/1920x1080_5288800/index.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 101 Venezuela (TeleSur)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 102 Venezuela (Pluto Novelas)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 102 Venezuela-EEUU (VPI)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 103 Venezuela (Pluto Novelas)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (Pluto Novelas)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (RCN Noticias)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9UnevkjT8CN4R_T9xFuQ
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 106 Colombia (RCN Más)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (RCN Más)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 106 Colombia (Pluto Novelas)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 107 Perú (TVPE noticias)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
