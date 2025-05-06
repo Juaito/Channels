@@ -115,7 +115,7 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 16.1 SICOM (Puebla)
-https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/chunklist_w1321846703.m3u8
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 16.2 SMRTV (Michoacan)
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
