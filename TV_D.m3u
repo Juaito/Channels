@@ -115,7 +115,7 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 16.1 SICOM (Puebla)
-https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/chunklist_w1321846703.m3u8
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 16.2 SMRTV (Michoacan)
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
@@ -262,7 +262,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 152 Turquía (Novelas turcas)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 153 Turquía (Corazón Turco)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -643,16 +643,16 @@ https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/p
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 #EXTINF:-1 group-title="CINE", 521 Cine Romántico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 522 Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+https://amg00658-amg00658c23-canelatv-international-5053.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvltapp-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 523 Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
+https://amg00658-amg00658c15-canelatv-international-5009.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelacinemalatam-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 525 Canela Clásicos 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+https://amg00658-amg00658c26-canelatv-international-5056.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicos-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 530 Oro TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Diuvxr1zsCDujxz6pbJc
@@ -798,12 +798,6 @@ https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/in
 #EXTINF:-1 group-title="DEPORTES", 729 Concacaf 3 (No 24|7)
 https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 740 MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 750 NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", 755 NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
@@ -914,3 +908,12 @@ https://xc.adultiptv.net/live/adultiptv/adultiptv/21.m3u8
 
 #EXTINF:-1 group-title="ADULTOS", 922 Asiáticas
 https://xc.adultiptv.net/live/adultiptv/adultiptv/22.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", 923 Rusas
+https://xc.adultiptv.net/live/adultiptv/adultiptv/23.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", 924 Amor rudo
+https://xc.adultiptv.net/live/adultiptv/adultiptv/24.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", 925 Traseros
+https://xc.adultiptv.net/live/adultiptv/adultiptv/25.m3u8
