@@ -318,6 +318,9 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", 751 NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 764 Boxing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 780 La Casa del Jaripeo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
 
