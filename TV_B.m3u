@@ -768,7 +768,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d16
 #EXTINF:-1 group-title="DEPORTES", 710 Canela Deportes
 https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 726 Fox Tubi 2
+#EXTINF:-1 group-title="DEPORTES", 711 Fox Tubi 1 https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 712 Fox Tubi 2
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 720 FIFA +
