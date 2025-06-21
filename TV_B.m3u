@@ -792,7 +792,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6720e2bdd
 #EXTINF:-1 group-title="DEPORTES", 727 Concacaf GO 1
 https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 728 Concacaf GO  2
+#EXTINF:-1 group-title="DEPORTES", 728 Concacaf GO 2
 https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 729 Concacaf GO 3
