@@ -70,7 +70,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 08.3 NRT Sureste
-https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6/playlist.m3u8
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6nrt/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE
 http://fastream.xyz:8080/Jorge_Patrick/t4wBUmH4Dkyv/59498
@@ -129,14 +129,11 @@ https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 18.2 Lobo+ (Puebla)
 https://tvenvivo.buap.mx/livestream2/stream/index.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 19.1 CORTV (Oaxaca)
-https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 20.1 TV UNAM
 https://5fe2654d6127d.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX)
-https://video.cdmx.gob.mx/redes/stream.m3u8
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 22.1 Canal 22 (Conaculta)
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -208,13 +205,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12111&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 121 España (TVE)
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 122 España (TVE Star)
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 123 España (El País)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
@@ -285,13 +276,13 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 162 India (Zeemundo)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8ssL2srijez5Tsx5jP3g
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (CGTN)
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (hi Vida!)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 182 China (hi Vida!)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida-roku/master.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 182 Surcorea (Pluto Dramas)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 183 Surcorea (Pluto Dramas)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 200 Brasil (CanalGov)
@@ -319,13 +310,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (USA Today)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_sns73NUSP9v_DA7nS8r
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (TED)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_sns73NUSP9v_DA7nS8r
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 EEUU (Popular Science)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_sns73NUSP9v_DA7nS8r
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC News)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -357,14 +348,17 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 241 Rusia (RT Documentary)
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 Turquía (TRT)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 250 R. Saharaui (RASD TV)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12830&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Turquía (TRT)
 https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 251 Qatar (Al Jazeera)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 Qatar (Al Jazeera)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 R. Saharaui (RASD TV)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12830&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 255 Iran (PressTV)
+https://rumble.com/live-hls/6s62fv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 260 India (India Today)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
@@ -381,23 +375,23 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playl
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 271 Tailandia (GBN)
 https://us.gbnus.com/live/dhamma_low/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 280 China (CGTN)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 281 China (CGTN Documentary)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 282 China (CCTV-4)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 Singapur (CNA)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 280 Singapur (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 Surcorea (KBS World)
-http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 281 China (CGTN)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 285 Norcorea (KCTV)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 282 China (CGTN Documentary)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 China (CCTV-4)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 Norcorea (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 285 Surcorea (KBS World)
+http://mytv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 290 Japón (NHK)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
@@ -427,7 +421,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 331 Plex TV Naturaleza
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=5P7pq4RK3MoC-_pf458K
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 332 Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -446,9 +440,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099f2b4
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 340 Pluto TV Diseño
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64db2e0835425100080f2f5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="TV TEMÁTICA", 350 Pluto TV Recetas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 351 Tastemade
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -661,10 +652,10 @@ https://amg00658-amg00658c15-canelatv-international-5009.playouts.now.amagi.tv/p
 https://amg00658-amg00658c26-canelatv-international-5056.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicos-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 530 Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Diuvxr1zsCDujxz6pbJc
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
 
 #EXTINF:-1 group-title="CINE", 531 Grjngo
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ArTKf__Ky4WBdgkV-3Yg
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
 
 #EXTINF:-1 group-title="CINE", 540 Pluto TV a la Mexicana
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -780,6 +771,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d16
 #EXTINF:-1 group-title="DEPORTES", 710 Canela Deportes
 https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 712 Fox Tubi 2
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 720 FIFA +
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -795,26 +789,23 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 group-title="DEPORTES", 725 DFB Play TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6720e2bddaad7f000872f274/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 727 Concacaf 1 (No 24|7)
+#EXTINF:-1 group-title="DEPORTES", 727 Concacaf GO 1
 https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 728 Concacaf 2 (No 24|7)
+#EXTINF:-1 group-title="DEPORTES", 728 Concacaf GO 2
 https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 729 Concacaf 3 (No 24|7)
+#EXTINF:-1 group-title="DEPORTES", 729 Concacaf GO 3
 https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 755 NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 760 UFC
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_sns73NUSP9v_DA7nS8r
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
 
 #EXTINF:-1 group-title="DEPORTES", 761 PFL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6163a30ab3300083d870e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="DEPORTES", 764 Boxing TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 765 DAZN Ringside
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
