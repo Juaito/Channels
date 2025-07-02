@@ -355,7 +355,7 @@ https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 255 Iran (PressTV)
-https://rumble.com/live-hls/6s62fv/playlist.m3u8
+https://live.presstv.ir/hls/presstv.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 260 India (India Today)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
