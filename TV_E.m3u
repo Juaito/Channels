@@ -148,7 +148,7 @@ https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/playlist.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 114 Argentina (TVP)
-https://g4.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 118 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
