@@ -135,6 +135,9 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf5
 #EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV) 2
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 101 Venezuela (TeleSur)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
