@@ -147,11 +147,11 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTINF:-1 group-title="TV INTERNACIONAL", 114 Argentina (TVP)
 https://g4.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 115 Guinea E. (Asonga)
-https://live.homeafrika.es/live/idikpc.flv
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 116 Guinea E. (TVGE)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 118 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 119 Guinea E. (Asonga)
+https://live.homeafrika.es/live/idikpc.flv
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
