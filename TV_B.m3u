@@ -186,7 +186,10 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de
 #EXTINF:-1 group-title="TV INTERNACIONAL", 107 Colombia (RCN Más)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 108 Colombia (Pluto Novelas)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 108 Colombia (Caracol Mix)
+https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 109 Colombia (Pluto Novelas)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 110 Perú (TVPE noticias)
