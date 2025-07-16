@@ -156,6 +156,9 @@ https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (Institucional)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Perú (TVPE Internacional)
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 114 Argentina (TVP)
 https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
