@@ -192,6 +192,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f
 #EXTINF:-1 group-title="TV INTERNACIONAL", 110 Perú (TVPE noticias)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Perú (TVPE Internacional)
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 112 Bolivia (BTV)
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
