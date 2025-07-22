@@ -231,34 +231,31 @@ https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 group-title="TV INTERNACIONAL", 129 EEUU (T Noticias)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (U East).
-https://tvpass.org/live/UnivisionEast/sd
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (U 24|7)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (U 24|7)
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 132 EEUU (CÑÑ -10min)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (CÑÑ -10min)
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 133 EEUU (Estrella News)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 132 EEUU (Estrella News)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 134 EEUU (Estrella TV)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 133 EEUU (Estrella TV)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 135 EEUU (Canela TV)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 134 EEUU (Canela TV)
 https://amg00658-amg00658c23-canelatv-international-5053.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvltapp-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 136 Inglaterra (BBC Drama)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 135 Inglaterra (BBC Drama)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 137 Francia (Euronews)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 136 Francia (Euronews)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 138 Francia (France 24)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 137 Francia (France 24)
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 139 Alemania (DW -30min)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 138 Alemania (DW -30min)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 140 Rusia (RT)
