@@ -178,7 +178,7 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 106 Colombia (RCN Noticias)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 107 Colombia (RCN Más)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -274,7 +274,7 @@ https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01
 https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 162 India (Zeemundo)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (CGTN)
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
@@ -310,13 +310,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (USA Today)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (TED)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 EEUU (Popular Science)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC News)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -415,7 +415,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 331 Plex TV Naturaleza
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 332 Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -649,10 +649,10 @@ https://amg00658-amg00658c15-canelatv-international-5009.playouts.now.amagi.tv/p
 https://amg00658-amg00658c26-canelatv-international-5056.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicos-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 530 Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="CINE", 531 Grjngo
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="CINE", 540 Pluto TV a la Mexicana
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -793,7 +793,7 @@ https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/in
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 760 UFC
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fgvzkg2ej51jrckfeaks
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
 #EXTINF:-1 group-title="DEPORTES", 761 PFL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6163a30ab3300083d870e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
