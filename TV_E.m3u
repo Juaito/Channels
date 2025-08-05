@@ -21,12 +21,6 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 03.2 Imagen -1hr
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 a
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/129037
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 a
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/3719
-
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -50,9 +44,6 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 11.2 Once niños 
 http://181.78.105.146:2000/play/a04f/index.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 13.1 Enlace 13
-https://ythls.armelin.one/channel/UCnF-7iyudFEyig475MIVa6w.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 18.1 BUAP (Puebla)
 https://tvenvivo.buap.mx/livestream/stream.m3u8
@@ -114,9 +105,6 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTINF:-1 group-title="TV INTERNACIONAL", 111 Perú (TVPE Internacional)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 114 Argentina (TVP)
-https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 118 Guinea E. (TVGE)
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m3u8
 
@@ -171,18 +159,6 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN) B
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK Back)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist-back.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK vtt)
-https://bmcc.nhkworld.jp/vtt/es/webvtt.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 190 Japón (NHK vtt-b)
-https://b-bmcc.nhkworld.jp/vtt/es/webvtt.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN) C
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 
@@ -191,15 +167,6 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (Washington Post)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25ad1c59ae7472.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZKndwxExhAcLpzNxa6yx
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 233 Inglaterra (Reuters)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mtBJzncnrnNxmDLeszwS
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 237 Inglaterra (The Guardian)
-https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 252 República Saharaui (RASD)
-https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 253 Líbano (Al Mayadeen)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
@@ -225,28 +192,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 group-title="MÚSICA", 404 Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
-#EXTINF:-1 group-title="MÚSICA", 405 Tu Pop Favorito
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-
-#EXTINF:-1 group-title="MÚSICA", 406 Puro Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-
-#EXTINF:-1 group-title="MÚSICA", 407 Ritmos Inolvidables A
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
-
-#EXTINF:-1 group-title="MÚSICA", 407 Ritmos Inolvidables B
-https://amg00658-amg00658c37-canelatv-international-5219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-ritmosinolvidablesta-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 group-title="MÚSICA", 423 Vivaldi TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 431 Bblack! Africa
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 446 Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 a
+#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 
 #EXTINF:-1 group-title="CINE", 524 Canela Horror
