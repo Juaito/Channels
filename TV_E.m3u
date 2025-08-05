@@ -18,44 +18,14 @@ https://www.shutterstock.com/shutterstock/videos/1029054932/preview/stock-footag
 #EXTINF:-1 group-title="TV LOCAL", 02.4 N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 03.1 Imagen TV+
+#EXTINF:-1 group-title="TV LOCAL", 03.2 Imagen -1hr
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 03.4 Excelsior TV 
-https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 a
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/129037
 
 #EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 a
-http://181.78.105.146:2000/play/a038/index.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 b
-http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3567.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 c
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 d
-http://streamsy.online:2999/happy2024/newyear/1457
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 e
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310636
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 f
-http://goldfull.pro:8880/56957514063f/EG4MhhF3YGws/135430
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 g
-https://veotv.site:8443/play/4fnH5CanGhlfgNYb8UXyKhACMMfbdLVz-beSscsQWEg/ts
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 h
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/5d01c94d-5dad-46c6-b532-e29da7c7cb3a.m3u
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 i
-http://home-playtv.com:8080/RoltyFndz/GBQGK/186607
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 j
-http://home-playtv.com:80/RoltyFndz/GBQGK/241991
-
-#EXTINF:-1 group-title="TV LOCAL", 05.1 Canal 5 k
-http://45.68.35.218:4001/play/a009/index.m3u8
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/3719
 
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -63,26 +33,11 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 07.3 INFO7 MTY (No 24|7)
 https://cdn3.wowza.com/1/b2daMk5pSi84dTVa/L29tdGk2/hls/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 08.3 Heraldo 
-https://cdndirector.dailymotion.com/cdn/live/video/x88epch.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE a
 https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE b
-http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE c
-http://mylatinotvmoon.com:8080/diegohdz/59AKHBmTJ9/1310612
-
-#EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE d
-http://fastream.xyz:8080/Jorge_Patrick/t4wBUmH4Dkyv/59498
-
 EXTINF:-1 group-title="TV LOCAL", 09.1 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 09.2 N+ Coahuila
-https://ythls.armelin.one/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 09.3 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net:443/nuevetv/videonuevetv/playlist.m3u8
@@ -170,12 +125,6 @@ https://live.homeafrika.es/live/idikpc.flv
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (Uno)
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (Dos)
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
@@ -298,19 +247,7 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 https://noshls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 a
-http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 b
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 c
-http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566
-
-#EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 d
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 461 CCTV Storm music
-http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
 
 #EXTINF:-1 group-title="CINE", 524 Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
@@ -327,20 +264,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9
 #EXTINF:-1 group-title="DEPORTES", 705 beIN Sports Xtra
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 715 TDP
-https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", 720 FIFA +
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 720 FIFA + B
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c/variant.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 721 LaLiga Inside RK
-https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 721 LaLiga Inside TVF
-https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 724 MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -359,12 +287,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="DEPORTES", 780 La Casa del Jaripeo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
-
-#EXTINF:-1 group-title="DEPORTES", 791 GT Sports 1
-https://usher.ttvnw.net/api/channel/hls/gt_sports_tv1.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 792 GT Sports 2
-https://usher.ttvnw.net/api/channel/hls/gt_sports_tv2.m3u8
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 899 Concacaf Go
 https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/index.m3u8
