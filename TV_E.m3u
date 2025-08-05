@@ -30,7 +30,7 @@ https://cdn3.wowza.com/1/b2daMk5pSi84dTVa/L29tdGk2/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE a
 https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-EXTINF:-1 group-title="TV LOCAL", 09.1 Nueve TV (San Luis)
+#EXTINF:-1 group-title="TV LOCAL", 09.1 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 09.3 Nueve TV (San Luis)
