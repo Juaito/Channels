@@ -201,6 +201,9 @@ https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MÚSICA", 460 CCTV-15 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 475 Hoguera
+https://d2qul7l572aj41.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dushfkf75dpdk/index.m3u8
+
 #EXTINF:-1 group-title="CINE", 524 Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
