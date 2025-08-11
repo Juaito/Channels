@@ -240,6 +240,9 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", 764 Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/bxntv.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 771 Adventure Sports TV
+https://doglo1w7hkjkt.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-AdventureSportsTV/438.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 780 La Casa del Jaripeo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=PCQQ1VVVP7oUA4xkhffi
 
