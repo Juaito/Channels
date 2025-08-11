@@ -441,8 +441,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterr
 #EXTINF:-1 group-title="TV TEMÁTICA", 359 Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
-https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda.
+https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 361 Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
