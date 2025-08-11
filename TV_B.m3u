@@ -441,11 +441,14 @@ https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterr
 #EXTINF:-1 group-title="TV TEMÁTICA", 359 Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda.
+#EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 361 Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 362 Craftsy TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 370 Power Nation
 https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
