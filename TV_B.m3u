@@ -444,6 +444,9 @@ https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterr
 #EXTINF:-1 group-title="TV TEMÁTICA", 359 Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
+https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=18&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 361 Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
 
