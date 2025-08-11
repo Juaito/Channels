@@ -828,9 +828,6 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 #EXTINF:-1 group-title="DEPORTES", 770 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 771 Adventure Sports TV
-https://doglo1w7hkjkt.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-AdventureSportsTV/438.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", 772 Outside TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
 
