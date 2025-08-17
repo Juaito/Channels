@@ -768,6 +768,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64666345f
 #EXTINF:-1 group-title="DEPORTES", 701 Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 705 beIN Sports Xtra Ñ
+https://csm-e-cetubiausw2live-000bb9405738e92a7.csm.tubi.video/csm/extlive/tubiprd01,beIN-Espanol.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 706 ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
