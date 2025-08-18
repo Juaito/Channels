@@ -312,14 +312,14 @@ https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (Cosmos)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (TED)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (TED)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 EEUU (Popular Science)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (Popular Science)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 231 EEUU (Cosmos)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 232 Inglaterra (BBC News)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
