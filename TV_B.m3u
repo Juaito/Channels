@@ -306,11 +306,14 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (CNN -10min)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (NTD)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (NTD)
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (USA Today)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 229 EEUU (Cosmos)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 230 EEUU (TED)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=aSjv9BqQowBHpzeKjmAU
