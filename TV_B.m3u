@@ -366,9 +366,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 262 India (Bollywood HD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 270 Tailandia (NBT World)
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 271 Tailandia (GBN)
 https://us.gbnus.com/live/dhamma_low/playlist.m3u8
 
