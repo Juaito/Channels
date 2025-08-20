@@ -123,6 +123,9 @@ https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 18.2 Lobo+ (Puebla)
 https://tvenvivo.buap.mx/livestream2/stream/index.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 19.1 CORTV (Oaxaca)
+https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 20.1 TV UNAM
 https://5fe2654d6127d.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
