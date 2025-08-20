@@ -711,6 +711,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="CINE", 574 Cindie TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 
+#EXTINF:-1 group-title="CINE", 575 Box Cinema
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
+
 #EXTINF:-1 group-title="CINE", 580 Cine Estrella
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cine-Estrella.m3u8
 
