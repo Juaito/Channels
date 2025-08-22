@@ -65,15 +65,14 @@ De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;450 a 459: Música de la India</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;460 a 469: Música de oriente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;470 a 479: Relajante y ambiental</br>
-De 500 a 599: Cine, series y novelas</br>
+De 500 a 599: Cine y series</br>
 De 600 a 699: Dibujos animados,  repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_A.m3u">TV_A.m3u</a> y demás archivos.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;600 a 649 Caricaturas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;650 a 699 Anime</br>
 De 700 a 799: Deportes</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;700 a 719 Barra general y análisis deportivo</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;720 a 729 Entrenamiento y Fitness</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;730 a 739 Futbol</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;740 a 749 Básquetbol</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;730 a 749 Futbol</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 a 759 Otros deportes de conjunto</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;760 a 769 Peleas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;770 a 779 Deportes extremos</br>
