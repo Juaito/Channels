@@ -204,46 +204,44 @@ https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w238149688_b1500000.m
 #EXTINF:-1 group-title="TV INTERNACIONAL", 120 España (24h)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 121 España (El País)
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 122 España (El Confidencial)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 121 España (El Confidencial)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 123 España (Negocios TV)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 122 España (Negocios TV)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 124 España (Andalucía)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 123 España (Andalucía)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12685&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 125 Vaticano-EEUU (EWTN)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 124 Vaticano-EEUU (EWTN)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 126 EEUU (T acción)
-https://d3fmqi91qduj7.cloudfront.net/11401/88814578/hls/master.m3u8?ads.xumo_channelId=88814578&ads.xumo_streamId=88814578
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 127 EEUU (T al día)
-https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 128 EEUU (T noticias)
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 129 EEUU (U East)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 125 EEUU (U East)
 https://tvpass.org/live/UnivisionEast/hd
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (U 24|7)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 126 EEUU (U 24|7)
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (CÑÑ -10min)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 127 EEUU (T East)
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 128 EEUU (T al día)
+https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 129 EEUU (T noticias)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
+
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 130 EEUU (CÑÑ -10min)
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 132 EEUU (Estrella News)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 131 EEUU (Estrella News)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 133 EEUU (Estrella TV)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 132 EEUU (Estrella TV)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 134 EEUU (Canela TV)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 133 EEUU (Canela TV)
 https://amg00658-amg00658c23-canelatv-international-5053.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvltapp-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 135 Inglaterra (BBC Drama)
