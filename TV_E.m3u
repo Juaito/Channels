@@ -21,14 +21,14 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 03.2 Imagen -1hr
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 05.1 A
-http://play.tecnomolly.com:8080/sburgueno/52ZNSjqpQRSN/32669
+#EXTINF:-1 group-title="TV LOCAL", O5.I A
+http:-/-/-play.tecnomolly.com:8080-/-sburgueno-/-52ZNSj-qpQRSN-/-32669
 
-#EXTINF:-1 group-title="TV LOCAL", 05.1 B
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315082
+#EXTINF:-1 group-title="TV LOCAL", O5.I B
+http:-/-/-classic.wolddress.com:8080-/-7374-74n-dbfvvd-/-7373-7bdbrbf73-/-315082
 
-#EXTINF:-1 group-title="TV LOCAL", 05.1 C
-http://user.tvcluboficial.com/live/m/m/14.m3u8
+#EXTINF:-1 group-title="TV LOCAL", O5.I C
+http:-/-/-user.tvclu-bofi-cial.com-/-live-/-m-/-m-/-14.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
