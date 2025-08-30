@@ -192,8 +192,11 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 270 Tailandia (NBT World)
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 Surcorea (KBS World)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 Norcorea (KCTV)
+https://tv.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 285 Surcorea (KBS World)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8 
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 305 Mundo geek
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
