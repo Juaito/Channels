@@ -36,6 +36,9 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 07.3 INFO7 MTY (No 24|7)
 https://cdn3.wowza.com/1/b2daMk5pSi84dTVa/L29tdGk2/hls/live/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 08.3 NRT Sureste
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6nrt/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 09.1 NU9VE a
 https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
