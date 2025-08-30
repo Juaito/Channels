@@ -393,9 +393,6 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 China (CCTV-4)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 Norcorea (KCTV)
-https://tv.nknews.org/tvdash/stream.mpd
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 285 Surcorea (KBS World)
 http://mytv.dothome.co.kr/ch/catv/7.php
 
