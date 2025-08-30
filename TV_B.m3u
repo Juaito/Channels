@@ -403,7 +403,7 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 301 Saber más
-https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=sabermas&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853826&id=2606&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=2lJaFyiADSfR2zs4oCF3Zf2iZ%2Fa2qfPV6YjR5iw1jTI%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=sabermas&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
+https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 302 Pluto TV Ciencia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -699,7 +699,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624af40c0
 #EXTINF:-1 group-title="CINE", 550 Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE", 560 FreeTV Estelar
+#EXTINF:-1 group-title="CINE", 560 Free TV Estelar
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 561 Free TV Drama
