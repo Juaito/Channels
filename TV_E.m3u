@@ -276,6 +276,12 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", 751 NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 751 NFL Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 755 NHL Network
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 764 Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/bxntv.m3u8
 
