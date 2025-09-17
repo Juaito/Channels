@@ -114,10 +114,13 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/ch
 #EXTINF:-1 group-title="TV INTERNACIONAL", 101 Venezuela (TeleSur)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 103 Colombia (RTVC)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 104 Venezuela (VPI)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 106 Colombia (RTVC)
 https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (Institucional)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 107 Colombia (Institucional)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 111 Perú (TVPE Internacional)
