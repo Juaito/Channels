@@ -180,12 +180,6 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 108 Colombia (Caracol Mix)
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 110 Perú (TVPE noticias)
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-
-#EXTINF:-1 group-title="TV INTERNACIONAL", 111 Perú (TVPE Internacional)
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 117 Brasil (Pasión brasileña)
 https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/playlist.m3u8
 
