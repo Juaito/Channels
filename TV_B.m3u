@@ -828,6 +828,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65c69b683
 #EXTINF:-1 group-title="DEPORTES", 791 MotorRacing
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 792 PowerTube
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powertube-tv/master.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 795 Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
