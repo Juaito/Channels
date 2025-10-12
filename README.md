@@ -55,8 +55,8 @@ De 300 a 399: TV temática</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 359: Hogar y cocina</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;360 a 369: Utilidades, recursos y DIY</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;370 a 379: Coches</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;380 a 389: Paranormal</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;390 a 399: Crimen e investigación</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;380 a 389: Crimen e investigación</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;390 a 399: Paranormal</br>
 De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;400 a 409: Música en español</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;410 a 429: Música de occidente</br>
