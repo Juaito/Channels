@@ -50,7 +50,7 @@ De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
 De 300 a 399: TV temática</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300 a 309: Documental general</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 a 319: Historia, culturas y viajes</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 329: Salud, mente y cuerpo humano</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 329: Mente, cuerpo y salud</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;330 a 339: Animales y naturaleza</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 359: Hogar y cocina</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;360 a 369: Utilidades, recursos y DIY</br>
