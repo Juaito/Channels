@@ -489,14 +489,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d
 #EXTINF:-1 group-title="TV TEMÁTICA", 395 Archivos extraterrestres
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="MÚSICA", 400 MTV Flow Latino
+#EXTINF:-1 group-title="MÚSICA", 400 TikTok Radio
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac1b78795f300086d5ca6livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MÚSICA", 401 MTV Flow Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="MÚSICA", 402 Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 404 TikTok Radio
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac1b78795f300086d5ca6livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="MÚSICA", 406 Canela Music Hits
 https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8
