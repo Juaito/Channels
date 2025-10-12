@@ -49,7 +49,7 @@ De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;290 a 299: Japón</br>
 De 300 a 399: TV temática</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300 a 309: Documental general</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 a 319: Historia y arte</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 a 319: Historia, arte y cultura</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 329: Mente, cuerpo y salud</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;330 a 339: Animales y naturaleza</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 359: Hogar y cocina</br>
