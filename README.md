@@ -75,7 +75,7 @@ De 700 a 799: Deportes</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;730 a 749 Futbol</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 a 759 Otros deportes de conjunto</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;760 a 769 Peleas</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;770 a 779 Deportes extremos</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;770 a 779 Deportes de exterior</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;780 a 789 Deportes con animales</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;790 a 799 Automotor y Esports</br>
 De 800 a 899: Eventos en vivo, repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a> y <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a>.</br>
