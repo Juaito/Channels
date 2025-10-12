@@ -456,6 +456,9 @@ https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlis
 #EXTINF:-1 group-title="TV TEMÁTICA", 371 Mi Coche Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 380 Zona Investigación
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/680bdaf54d7cf165c705f91e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 381 Sangre fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
 
@@ -476,9 +479,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 387 Misterios sin Resolver
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="TV TEMÁTICA", 388 Zona Investigación
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/680bdaf54d7cf165c705f91e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 390 Pluto TV Misterios
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
