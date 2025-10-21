@@ -109,7 +109,7 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(cPQDIFdQ1QXhwddb0RwGlDnEB4EKK8UtOE2r
 https://stream.aprende.gob.mx/live/hls/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 14.3 TV Migrante
-https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(5uRtHm7dOiZCvc7E8ha0nfuu9R05u4tSVWt_MPthQVeFDVdzHqILA-FkdDC7bVgQ7gWNvf0SwGW_l-Da3kfK6L0TkEy_kMkxA9nGV1KzgUUyBSJNRoOJ69wUzQW0y_Wz)/cloud/3/x9s6oyu/s/live-720.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 15.1 Telemax (Sonora)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
