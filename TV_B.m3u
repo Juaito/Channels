@@ -99,6 +99,9 @@ https://s5.mexside.net:1936/stream/stream/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 11.3 Once IPN Digital
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 11.4 Once IPN Internacional
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 12.1 Super Channel
 https://servilive.com:3263/live/channel12live.m3u8
 
