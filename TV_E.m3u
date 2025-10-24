@@ -30,6 +30,9 @@ http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315082
 #EXTINF:-1 group-title="TV LOCAL", OS.I C
 http://user.tvcluboficial.com/live/m/m/14.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 06.8 Canal 6 -2hrs
+https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
