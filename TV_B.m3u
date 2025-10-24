@@ -297,9 +297,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11078
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 220 Francia (Africanews)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 225 EEUU (Fox News)
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 226 EEUU (CNN -10min)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
