@@ -207,6 +207,9 @@ https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 207 Filipinas (ANC)
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 225 EEUU (Muted Fox News)
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 227 EEUU (Washington Post)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64bf5ed5fa25ad1c59ae7472.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZKndwxExhAcLpzNxa6yx
 
