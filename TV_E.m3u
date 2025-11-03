@@ -51,6 +51,9 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 09.3 Nueve TV (San Luis)
 https://5ca9af4645e15.streamlock.net:443/nuevetv/videonuevetv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 09.5 TeleFórmula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+
 #EXTINF:-1 group-title="TV LOCAL", 10.1 TeleSaltillo
 https://servilive.com:3879/live/telesaltillolive.m3u8
 
