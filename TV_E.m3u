@@ -243,6 +243,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6051201a0
 #EXTINF:-1 group-title="TV TEMÁTICA", 310 Mundo viajero
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 334 Vivir con Gatos a
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 334 Vivir con Gatos b
+https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 335 Vivir con Perros a
+https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
+
+#EXTINF:-1 group-title="TV TEMÁTICA", 335 Vivir con Perros b
+https://daiconnect.com/live/hls/tvup/rk-vivirconperros/.m3u8
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
