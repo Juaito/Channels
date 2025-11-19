@@ -57,6 +57,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 group-title="TV LOCAL", 10.1 TeleSaltillo
 https://servilive.com:3879/live/telesaltillolive.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 10.3 Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 10.6 MegaNoticias 
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
