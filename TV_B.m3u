@@ -109,7 +109,7 @@ https://mdstrm.com/live-stream-playlist/6916911ad733a06253d1b771.m3u8
 https://stream.aprende.gob.mx/live/hls/index.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 14.3 TV Migrante
-https://mdstrm.com/live-stream-playlist/690eaf05b8fb9ae6fbd0bba2.m3u8
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 15.1 Telemax (Sonora)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
