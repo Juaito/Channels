@@ -270,6 +270,9 @@ https://daiconnect.com/live/hls/tvup/rk-vivirconperros/.m3u8
 #EXTINF:-1 group-title="TV TEMÁTICA", 335 Vivir con Perros c
 https://daiconnect.com/live/hls/tvup/rk-vivirconperros/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=0&ads_content_genre=animals&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5597&ads_rtv_content_language=spa&ads_streaming_id=20f335a4-a9f7-432f-93f0-4ed559ac3f5c&ads_tcs_channel_id=921&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 353 Cocina Mediterranea
+https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterranea.m3u8
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
