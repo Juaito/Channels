@@ -423,9 +423,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc
 #EXTINF:-1 group-title="TV TEMÁTICA", 352 Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 353 Cocina Mediterranea
-https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterranea.m3u8
-
 #EXTINF:-1 group-title="TV TEMÁTICA", 359 Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
 
