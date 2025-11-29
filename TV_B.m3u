@@ -12,6 +12,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 #EXTINF:-1 group-title="TV LOCAL", 01.4 Azteca Uno -1hr
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
+#EXTINF:-1 group-title="TV LOCAL", 01.5 La Granja VIP
+https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 02.1 Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
