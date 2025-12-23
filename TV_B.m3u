@@ -180,9 +180,6 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 108 Colombia (Caracol Mix)
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 110 Argentina (CN24TV)
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 117 Brasil (Pasión brasileña)
 https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasbrasileras-canelatvinternational/playlist.m3u8
 
