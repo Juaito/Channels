@@ -249,13 +249,13 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 162 India (Zeemundo)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Xvjx7ywZ2NhHXjgs3b2q
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (CGTN)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 182 China (hi Vida!)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (hi Vida!)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/distro-cgtn-hivida.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 183 China-Otros (Free TV Asia)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 182 China-Otros (Free TV Asia)
 https://amg01024-amg01024c30-freetv-us-6969.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-olyfreetvasia-freetvus/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 184 Surcorea (Pluto Dramas)
