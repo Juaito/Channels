@@ -354,6 +354,9 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 282 China (CGTN Disovering)
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 China (CGTN Global Biz)
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 285 China (CCTV-4)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
