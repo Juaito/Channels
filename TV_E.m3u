@@ -120,6 +120,9 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.2_kd5oiNTTWO0gEOFc423456787
 #EXTINF:-1 group-title="TV LOCAL", 45.3 Diputados B
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf52_adaptive.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 62 Zmundo
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Xvjx7ywZ2NhHXjgs3b2q
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 100 Cuba (CIV)
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
