@@ -351,6 +351,9 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 285 China (CCTV-4)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 286 China (C-Drama history)
+https://amg01923-amg01923c5-ondemandkorea-amesia-4868.playouts.now.amagi.tv/playlist/amg01923-odkmedia-chinesechannel1-ondemandkoreaamesia/playlist.m3u8
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 287 Singapur (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
