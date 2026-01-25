@@ -558,6 +558,9 @@ https://2f63ef134ad044c8bc3b4ab0131658e9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MÚSICA", 462 GugakTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 463 K-Stage
+https://amg01923-amg01923c3-ondemandkorea-amesia-4692.playouts.now.amagi.tv/playlist/amg01923-odkmedia-musikal-ondemandkoreaamesia/playlist.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", 470 Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
