@@ -354,7 +354,10 @@ https://amg01923-amg01923c5-ondemandkorea-amesia-4868.playouts.now.amagi.tv/play
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 287 Singapur (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 288 Surcorea (K-movies)
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 288 Vietnam (VT)
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 289 Surcorea (K-movies)
 https://amg01923-amg01923c4-ondemandkorea-amesia-4712.playouts.now.amagi.tv/playlist/amg01923-odkmedia-themoviechannel-ondemandkoreaamesia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 290 Japón (NHK)
