@@ -297,9 +297,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6319ee0cf
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 238 Inglaterra (Britain at War)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625e8cb585ef320007806caf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 239 Israel (i24)
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 240 Rusia (RT)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
