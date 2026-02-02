@@ -243,9 +243,6 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (hi Vida!)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/distro-cgtn-hivida.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 182 China-Otros (Free TV Asia)
 https://amg01024-amg01024c30-freetv-us-6969.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-olyfreetvasia-freetvus/playlist.m3u8
 
@@ -573,29 +570,8 @@ https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u
 #EXTINF:-1 group-title="MÚSICA", 472 Stingray Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 473 Drone TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/b6d06c5b-6857-497b-ab65-60fd756a549d/4.m3u8
-
 #EXTINF:-1 group-title="MÚSICA", 474 Slow TV
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 477 Lluvia
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/67ddec60-3221-4c94-854f-c72f2b04ce16/2.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 478 Otoño
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/0e8eefb1-6aaa-4689-ae94-952fa59af5d2/2.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 479 Invierno
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/e2cc87be-fea7-4bb7-a9d3-70aaeed76394/2.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 480 Primavera
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/e3818b36-f6a1-4b97-b090-fa7ccfe511f5/2.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 481 Islas
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/64b4fe6b-4b59-4e2e-9d5d-a20b85d8a069/2.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 482 Peces
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/50aac4ee-6abf-4e1e-8a29-e3722d1ede21/2.m3u8
 
 #EXTINF:-1 group-title="CINE", 501 Runtime TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
