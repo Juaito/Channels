@@ -244,7 +244,7 @@ https://live.presstv.ir/hls/hispantv.m3u8
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 181 China (hi Vida!)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/d1545dc0-70b7-4211-a80a-59a41e530134/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida/distro-cgtn-hivida.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 182 China-Otros (Free TV Asia)
 https://amg01024-amg01024c30-freetv-us-6969.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-olyfreetvasia-freetvus/playlist.m3u8
