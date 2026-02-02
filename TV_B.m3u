@@ -315,12 +315,6 @@ https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 260 India (India Today)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 261 India (Bollywood Classic)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/342dabd1-715c-4068-b80a-cc3f91c06c61/1.m3u8
-
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 262 India (Bollywood HD)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4c581b83-2dbb-4e8b-bc27-eb17d6f8de5a/1.m3u8
-
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 271 Tailandia (GBN)
 https://us.gbnus.com/live/dhamma_low/playlist.m3u8
 
