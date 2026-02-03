@@ -558,6 +558,9 @@ https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u
 #EXTINF:-1 group-title="MÚSICA", 472 Stingray Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 group-title="MÚSICA", 473 Drone TV
+https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
+
 #EXTINF:-1 group-title="MÚSICA", 474 Slow TV
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
 
