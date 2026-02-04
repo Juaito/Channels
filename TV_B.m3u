@@ -735,7 +735,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6720e2bdd
 #EXTINF:-1 group-title="DEPORTES", 750 Homerun TV
 https://amg00585-amg00585c11-sportstribal-emea-5520.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-homeruntv-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 751 Kbaseball
+#EXTINF:-1 group-title="DEPORTES", 751 K-baseball TV
 https://amg02040-amg02040c10-freelivesports-emea-7496.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 760 UFC
