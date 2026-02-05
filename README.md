@@ -73,7 +73,7 @@ De 700 a 799: Deportes</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;700 a 719 Barra general y análisis deportivo</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;720 a 729 Entrenamiento y Fitness</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;730 a 749 Futbol</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 a 759 Otros deportes de conjunto</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 a 759 Otros deportes de pelota</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;760 a 769 Peleas</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;770 a 779 Deportes de exterior</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;780 a 789 Deportes con animales</br>
