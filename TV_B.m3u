@@ -130,7 +130,7 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
 https://hls.streamblue.mx/live/4n4o4ec9z2kpv1f17bakem/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 22.1 Canal 22 (Conaculta)
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+https://s5.mexside.net:1936/stream/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
