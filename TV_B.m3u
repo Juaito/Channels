@@ -498,6 +498,9 @@ https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 group-title="CINE", 572 Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 701 Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 706 ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
