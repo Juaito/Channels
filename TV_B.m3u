@@ -327,6 +327,9 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="TV TEMÁTICA", 301 Free TV Saber más
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 313 Tastemade Viajes
+https://amg27441-amg27441c2-canelatv-international-10410.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeviajes-canelatvinternational/playlist.m3u8
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 331 Plex TV Naturaleza
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=WxdFyJNBsQhLhaGCPyMb
 
