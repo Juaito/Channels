@@ -165,10 +165,13 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (Institucional)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (RCN Más)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (RCN Noticias)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=m4nz393xwgsa_7N88y2B
+
+#EXTINF:-1 group-title="TV INTERNACIONAL", 106 Colombia (RCN Más)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 106 Colombia (Caracol Mix)
+#EXTINF:-1 group-title="TV INTERNACIONAL", 107 Colombia (Caracol Mix)
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 117 Brasil (Pasión brasileña)
