@@ -59,7 +59,8 @@ De 300 a 399: TV temática</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;390 a 399: Paranormal</br>
 De 400 a 499: TV musical</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;400 a 409: Música en español</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;410 a 429: Música de occidente</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;410 a 419: Música pop & rock</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;410 a 419: Música folk, clásica & jazz</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;430 a 439: Música africana</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;440 a 449: Música de medio oriente</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;450 a 459: Música de la India</br>
