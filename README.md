@@ -52,7 +52,7 @@ De 300 a 399: TV temática</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 a 319: Historia, arte y cultura</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 a 329: Mente, cuerpo y salud</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;330 a 339: Animales y naturaleza</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 359: Viajes, hogar y cocina</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;340 a 359: Bienestar y cocina</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;360 a 369: Utilidades, recursos y DIY</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;370 a 379: Coches</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;380 a 389: Crimen e investigación</br>
