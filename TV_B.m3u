@@ -36,6 +36,9 @@ https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 04.4 N+ Monterrey
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 04.5 N+ Guadalajara
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index.m3u8&redirect=true
+
 #EXTINF:-1 group-title="TV LOCAL", 05.3 TeleFórmula
 https://amg00658-amg00658c68-canelatv-international-5556.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-teleformulaltappta-canelatvinternational/playlist.m3u8
 
