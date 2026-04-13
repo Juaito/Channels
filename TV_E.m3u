@@ -75,6 +75,9 @@ http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 14.1 Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LOCAL", 14.2 @prende+
+https://stream.aprende.gob.mx/live/hls/index.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 14.3 TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 
@@ -98,6 +101,9 @@ https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 21.1 Capital 21 (CDMX) B
 https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 22.1 Canal 22 (Conaculta)
+https://s5.mexside.net:1936/stream/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 45.1 Canal del congreso
 http://181.78.105.146:2000/play/a046/index.m3u8
