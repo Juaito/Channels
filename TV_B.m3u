@@ -163,7 +163,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (RCN Noticias)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=m4nz393xwgsa_7N88y2B
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 106 Colombia (RCN Más)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -199,7 +199,7 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 137 Francia (Euronews)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EBQaWFH9Ftzp4R7Ext3z
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="TV INTERNACIONAL", 138 Francia (France 24)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
@@ -244,7 +244,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 228 EEUU (USA Today)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=WxdFyJNBsQhLhaGCPyMb
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 236 Inglaterra (Reuters)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
@@ -310,7 +310,7 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 307 TED Talks
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=WxdFyJNBsQhLhaGCPyMb
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="TV TEMÁTICA", 308 Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
@@ -487,10 +487,10 @@ https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/pl
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE", 530 Oro TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=WxdFyJNBsQhLhaGCPyMb
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="CINE", 531 Grjngo
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=WxdFyJNBsQhLhaGCPyMb
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="CINE", 560 Free TV Estelar
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
@@ -523,7 +523,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 730 FIFA+
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=C8a1shMRuHYYqJ72-tdX
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="DEPORTES", 733 Top Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
@@ -544,7 +544,7 @@ https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/playlis
 https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 760 UFC
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccac69fdf9cd3a568ef135.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ym_zVmvikQu8JcH18Boy
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66ccac69fdf9cd3a568ef135.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="DEPORTES", 761 PFL
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8
@@ -568,7 +568,7 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 790 Monster Jam
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ffV_3B5W_cMxvEJzpRPg
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
 #EXTINF:-1 group-title="DEPORTES", 791 Racer International
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
