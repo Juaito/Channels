@@ -574,7 +574,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eab
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 801 Canal 1
-https://24zw44432ac8.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8
+https://n8.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=JxsNvzRQONhmlf1U-aeMQA&expires=1777185177
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Canal 2
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
