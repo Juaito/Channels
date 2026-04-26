@@ -573,14 +573,14 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eab
 #EXTINF:-1 group-title="DEPORTES", 791 Racer International
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 801 Canal 1
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 801 Canal A
 https://tyg2mnl9.fubohd.com/tudn/mono.m3u8?token=e5741fa1cbbcc3e04c604ad29dd9ff304123ef17-8c-1777195257-1777177257
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Canal 2
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Canal B
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 866 Canal 3
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 866 Canal C
 https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 899 Canal 4
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 899 Canal D
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
