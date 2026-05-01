@@ -370,6 +370,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 528 Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
+#EXTINF:-1 group-title="CINE", 560 Free TV Estelar
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE", 561 Free TV Drama
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE", 562 Free TV Live
+https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE", 563 Free TV Acción
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE", 564 Free TV Terror
+https://amg01024-olympusat-horrorfy-ono-ad-ky.amagi.tv/playlist/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS", 600 Pluto TV Retro Cartoons
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
