@@ -35,8 +35,8 @@ De 100 a 199: Canales de TV internacionales en español ordenados por las civili
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 a 159: Mundo islámico</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;160 a 169: India</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;170 a 179: Mundo budista</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;180 a 189: Mundo sínico</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;190 a 199: Japón</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;180 a 194: Mundo sínico</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;195 a 199: Japón</br>
 De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;200 a 209: Latinoamericanos</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;210 A 219: África Subsahariana</br>
@@ -45,8 +45,8 @@ De 200 a 299: Canales de TV internacionales en otros idiomas:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;250 a 259: Mundo islámico</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;260 a 269: India</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;270 a 279: Mundo budista</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;280 a 289: Mundo sínico</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;290 a 299: Japón</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;280 a 294: Mundo sínico</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;295 a 299: Japón</br>
 De 300 a 399: TV temática</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300 a 309: Documental general</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310 a 319: Historia, arte y cultura</br>
