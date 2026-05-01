@@ -424,14 +424,11 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", 751 NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 751 NFL Channel
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+#EXTINF:-1 group-title="DEPORTES", 751 K-baseball TV
+https://amg02040-amg02040c10-freelivesports-emea-7496.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 755 NHL Network
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 764 Boxing TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/bxntv.m3u8
+#EXTINF:-1 group-title="DEPORTES", 771 Horizon Sports
+https://amg00585-amg00585c16-freelivesports-emea-6711.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horizonsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 771 Adventure Sports TV
 https://doglo1w7hkjkt.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-AdventureSportsTV/438.m3u8
