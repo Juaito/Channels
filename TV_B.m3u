@@ -492,6 +492,27 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc
 #EXTINF:-1 group-title="CINE", 531 Grjngo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
+#EXTINF:-1 group-title="CINE", 560 Free TV Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
+
+#EXTINF:-1 group-title="CINE", 561 Free TV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
+
+#EXTINF:-1 group-title="CINE", 562 Free TV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1619
+
+#EXTINF:-1 group-title="CINE", 563 Free TV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
+
+#EXTINF:-1 group-title="CINE", 564 Free TV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200
+
+#EXTINF:-1 group-title="CINE", 565 Free TV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
+
+#EXTINF:-1 group-title="CINE", 566 Free TV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
+
 #EXTINF:-1 group-title="CINE", 571 Cindie TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 
