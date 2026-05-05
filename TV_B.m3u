@@ -309,6 +309,9 @@ https://amg01923-amg01923c12-ondemandkorea-amesia-4875.playouts.now.amagi.tv/pla
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 295 Japón (NHK)
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 301 Free TV Saber más
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 307 TED Talks
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxZz5BA-hA7CQfFd-WEZ
 
@@ -374,6 +377,9 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 group-title="MÚSICA", 403 Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="MÚSICA", 404 FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
 
 #EXTINF:-1 group-title="MÚSICA", 406 Canela Music Hits
 https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8
