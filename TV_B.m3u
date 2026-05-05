@@ -225,6 +225,9 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 180 China (CGTN)
 https://mdstrm.com/live-stream-playlist/66a96ae9cc39c5d22b24dc65.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 182 China-Otros (FreeTV Asia)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16464
+
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 200 Brasil (CanalGov)
 https://canalgov-stream.ebc.com.br/index.m3u8
 
