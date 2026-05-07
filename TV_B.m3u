@@ -585,7 +585,7 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 #EXTINF:-1 group-title="DEPORTES", 770 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 771 Go Pro
+#EXTINF:-1 group-title="DEPORTES", 771 GoPro TV
 https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 781 Cowboy Channel
