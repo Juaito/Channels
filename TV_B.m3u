@@ -601,9 +601,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eab
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 801 Canal A
-https://bg622.streamingtv339.com/global/universo/index.m3u8?token=8770d20a31e39f585169a04b973b52aa60e6d0b1-f6-1778421448-1778367448&ip=1.1.1.1
+https://20x2ntg7cvvz.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Sin evento
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Canal B
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 866 Sin evento
