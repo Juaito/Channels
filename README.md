@@ -78,8 +78,8 @@ De 700 a 799: Deportes</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;770 a 779 Deportes de exterior</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;780 a 789 Deportes con animales</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;790 a 799 Automotor y Esports</br>
-De 800 a 899: Eventos en vivo, repartidos entre <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a> y <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a>.</br>
-Mayor al 899: Clasificación TV-MA, solo en el archivo de nombre <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
+De 800 a 899: Eventos temporales o en vivo, solo en el archivo <a href="https://github.com/Juaito/Channels/blob/main/TV_B.m3u">TV_B.m3u</a>.</br>
+Mayor al 899: Clasificación TV-MA, solo en los archivos <a href="https://github.com/Juaito/Channels/blob/main/TV_C.m3u">TV_C.m3u</a> y <a href="https://github.com/Juaito/Channels/blob/main/TV_D.m3u">TV_D.m3u</a></br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Clash_of_Civilizations_world_map_final.png"
   alt="Civiliaciones del mundo actual"
@@ -87,5 +87,7 @@ Mayor al 899: Clasificación TV-MA, solo en el archivo de nombre <a href="https:
   height="122" 
 /></br>
 Imagen de las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">9 civilizaciones actuales</a>
+
+El archivo <a href="https://github.com/Juaito/Channels/blob/main/TV_C.m3u">TV_C.m3u</a> (versión más estable) contiene un conjunto de enlaces de todo tipo de contenido, incluso TV-MA, pero que se caracteriza por ser transmisiones que han mostrado más estabilidad durante los últimos 6 meses y sin la presencia de eventos temporales.  A diferencia de TV_B, serán menos frecuentes las actualizaciones de este archivo, salvo que se trate para la edición de contenido que empiece a mostrar cambios de estabilidad en uno u otro sentido.</br>
 
 El archivo [TV_E.m3u](https://github.com/Juaito/Channels/blob/main/TV_E.m3u) contiene canales con enlaces inestables o rotos.  La letra E suele corresponder a [errores 404](https://es.wikipedia.org/wiki/HTTP_404), [410](https://es.wikipedia.org/wiki/HTTP_410) o [301](https://es.wikipedia.org/wiki/HTTP_301).</br>
