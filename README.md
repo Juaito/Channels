@@ -16,8 +16,7 @@ La mayoría de direcciones de los canales de televisión fueron recopiladas de l
 
 Los nombres de los archivos de TV están basados en la clasificación mexicana de contenidos audiovisuales:</br>
 
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg/782px-Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg.png"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg/250px-Sistema_Mexicano_de_Equivalencias_de_Clasificaci%C3%B3n_de_Contenidos_de_Videojuegos.svg.png"
   alt=""
   width="175"
   height="175" 
