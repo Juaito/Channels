@@ -15,6 +15,9 @@ https://www.shutterstock.com/shutterstock/videos/32549959/preview/stock-footage-
 #EXTINF:-1 group-title="ERROR", No signal (shutterstock)
 https://www.shutterstock.com/shutterstock/videos/1029054932/preview/stock-footage-tv-static-no-signal.webm
 
+#EXTINF:-1 group-title="TV LOCAL", 01.1 Azteca Uno 
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 02.4 N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 
@@ -33,7 +36,10 @@ http://user.tvcluboficial.com/live/m/m/14.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 06.8 Canal 6 -2hrs
 https://mdstrm.com/live-stream-playlist/67b0cd1d72d61c6acc069916.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 
+#EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 A
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL", 07.1 Azteca 7 B
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 07.3 INFO7 MTY (No 24|7)
