@@ -12,12 +12,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 group-title="TV LOCAL", 02.1 Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 02.2 N+ Foro
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-
-#EXTINF:-1 group-title="TV LOCAL", 02.3 N+ 
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true
-
 #EXTINF:-1 group-title="TV LOCAL", 03.2 Imagen TV -1hr
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -29,12 +23,6 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 04.3 TV4 Deportes
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 04.4 N+ Monterrey
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-
-#EXTINF:-1 group-title="TV LOCAL", 04.5 N+ Guadalajara
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 group-title="TV LOCAL", 05.3 TeleFórmula
 https://amg00658-amg00658c68-canelatv-international-5556.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-teleformulaltappta-canelatvinternational/playlist.m3u8
