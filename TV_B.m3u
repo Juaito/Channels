@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV LOCAL", 01.2 ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 01.3 Azteca Uno -1hr
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
