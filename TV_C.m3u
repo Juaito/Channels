@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV LOCAL", 01.2 ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 01.3 Azteca Uno -1hr
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
@@ -50,9 +47,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 group-title="TV LOCAL", 06.7 C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
-
-#EXTINF:-1 group-title="TV LOCAL", 07.2 A más +
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 group-title="TV LOCAL", 08.1 RCG Media
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
