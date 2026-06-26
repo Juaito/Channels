@@ -147,9 +147,6 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 103 Venezuela (TeleSur)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV INTERNACIONAL", 104 Colombia (Institucional)
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="TV INTERNACIONAL", 105 Colombia (RCN Noticias)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaGhzPTugCF1vZEvrjTp
 
