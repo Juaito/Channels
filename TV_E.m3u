@@ -360,6 +360,9 @@ https://daiconnect.com/live/hls/tvup/rk-vivirconperros/.m3u8?ads_amznbrmid=&ads_
 #EXTINF:-1 group-title="TV TEMÁTICA", 353 Cocina Mediterranea
 https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterranea.m3u8
 
+#EXTINF:-1 group-title="TV TEMÁTICA", 359 Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
+
 #EXTINF:-1 group-title="TV TEMÁTICA", 360 Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
 
