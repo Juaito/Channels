@@ -213,6 +213,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 group-title="TV INTERNACIONAL", 122 España (TVE Star)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
+#EXTINF:-1 group-title="TV INTERNACIONAL", 122 España (Negocios TV)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
 #EXTINF:-1 group-title="TV INTERNACIONAL", 125 España (Negocios TV)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
