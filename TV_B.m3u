@@ -576,8 +576,8 @@ https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sport
 #EXTINF:-1 group-title="DEPORTES", 790 Monster Jam
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaGhzPTugCF1vZEvrjTp
 
-#EXTINF:-1 group-title="EVENTOS ESPECIALES", 801 Canal A
-https://enchantedstudios.co.uk/wp-content/uploads/2023/11/HD_SMPTE_Color_Bars_and_Tone.mp4
+#EXTINF:-1 group-title="EVENTOS ESPECIALES", 801 Canal A Live
+https://cdn3.zohanayaan.com:1686/hls/capodsports.m3u8?md5=XI1uIaov3IrpxbThHuuDzw&expires=1783114454
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Canal B
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
