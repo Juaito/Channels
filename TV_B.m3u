@@ -507,6 +507,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
 #EXTINF:-1 group-title="CINE", 571 Cindie TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", 660 Supercampeones
+https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channela-canelatvinternational/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 701 Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
