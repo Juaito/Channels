@@ -459,6 +459,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129
 #EXTINF:-1 group-title="CINE", 505 Runtime Cinespanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126
 
+#EXTINF:-1 group-title="CINE", 506 Cine de horror
+https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE", 507 Cine en español
+https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/playlist.m3u8
+
 #EXTINF:-1 group-title="CINE", 520 Todo Cine
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 
