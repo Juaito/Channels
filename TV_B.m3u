@@ -586,7 +586,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eab
 https://p1.domain761.sbs/global/mls2/index.m3u8?token=558e74d934e12b86ac95d7cbebef8aa208e620c9-0f-1785932385-1785878385&ip=1.1.1.1
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 825 Canal B
-https://p2.domain761.sbs/global/mls1/index.m3u8?token=10fd71c4c13d24ffb1dc50f769e5c9d8804320e1-eb-1785932706-1785878706&ip=1.1.1.1
+https://p2.domain761.sbs/global/tudnus/index.m3u8?token=c335870a7f103fce22d5b540d1ef537ba67fe652-ca-1785940229-1785886229&ip=1.1.1.1
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 833 Canal C
 https://p1.domain761.sbs/global/mls3/index.m3u8?token=7194bd7b2d4f597960a52910eab3f842f960e6e7-28-1785934306-1785880306&ip=1.1.1.1
