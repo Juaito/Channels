@@ -583,7 +583,7 @@ https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sport
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaGhzPTugCF1vZEvrjTp
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 801 Canal A
-https://p2.domain761.sbs/global/mls2/index.m3u8?token=4427ded8d1fe96e2dca98afac0c06954c1fc5161-42-1786276122-1786222122&ip=1.1.1.1
+https://p1.domain761.sbs/global/tudnus/index.m3u8?token=113dc9a7f1c09c4f7a46e8a827aa79655260ccb4-2b-1786282442-1786228442&ip=1.1.1.1
 
 #EXTINF:-1 group-title="EVENTOS ESPECIALES", 825 Canal B
 https://p2.domain761.sbs/global/mls3/index.m3u8?token=8b8edb6fbd82edfe159382fd82d8d6b35f85a260-d6-1786277966-1786223966&ip=1.1.1.1
