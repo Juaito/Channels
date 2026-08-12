@@ -135,9 +135,6 @@ https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 26.1 VA+ (Aguascalientes)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 28.1 RTV (Nuevo León)
-https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL", 34.1 Mexiquense (EdoMex)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
