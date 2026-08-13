@@ -312,12 +312,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="MÚSICA", 405 FreeTV Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
 
-#EXTINF:-1 group-title="MÚSICA", 406 Canela Music Hits
-https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8
-
-#EXTINF:-1 group-title="MÚSICA", 407 Ritmos inolvidables
-https://amg00658-amg00658c44-canelatv-international-7299.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channelc-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 group-title="MÚSICA", 408 Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
@@ -420,9 +414,6 @@ https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/
 #EXTINF:-1 group-title="CINE", 521 Cine Romántico
 https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE", 523 Canela Cinema
-https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 group-title="CINE", 525 Canela Clásicos 
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/playlist.m3u8
 
@@ -461,9 +452,6 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 707 AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-
-#EXTINF:-1 group-title="DEPORTES", 710 Canela Deportes
-https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 733 Top Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
