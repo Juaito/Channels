@@ -513,9 +513,6 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="DEPORTES", 707 AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
-#EXTINF:-1 group-title="DEPORTES", 710 Canela Deportes
-https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", 730 FIFA+
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaGhzPTugCF1vZEvrjTp
 
