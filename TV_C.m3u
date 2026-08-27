@@ -9,7 +9,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 #EXTINF:-1 group-title="TV LOCAL", 02.1 Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title="TV LOCAL", 03.2 Imagen TV -1hr
+#EXTINF:-1 group-title="TV LOCAL", 03.1 Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 group-title="TV LOCAL", 04.1 TV4 Uno (GTO)
