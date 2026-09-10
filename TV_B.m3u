@@ -18,6 +18,9 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 group-title="TV LOCAL", 02.3 N+ 
 https://nomvauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971-b/event01/index.m3u8&redirect=true
 
+#EXTINF:-1 group-title="TV LOCAL", 02.4 El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 03.1 Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
