@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 107 Folklore Córdoba
+https://player.xcast.com.br/proxy/7296/stream/1/
+
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 110 Brisa de Samba
+https://stream-158.zeno.fm/m7214h88azzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtNzIxNGg4OGF6enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJEQ0ozdkxNVE5hTmR4bEMyMjJScmciLCJpYXQiOjE3MjM1MjQzNjIsImV4cCI6MTcyMzUyNDQyMn0.pJzgftYVj2VcudA-1je_Wjf9OOApLls4-2cKdBx33pw
+
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 140 Rusian Folk
+https://pub0202.101.ru:8000/stream/pro/aac/64/40
+
+#EXTINF:-1 group-title="ONLINE FOLK RADIO", 190 Tradicional japonesa
+https://pub0202.101.ru:8000/stream/pro/aac/64/393
+
+#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 240 Unión sovíetica 30s-50s
+https://pub0202.101.ru:8000/stream/pro/aac/64/46
+
+#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 241 Unión sovíetica 50s-70s
+https://pub0202.101.ru:8000/stream/pro/aac/64/47
+
+#EXTINF:-1 group-title="ONLINE VINTAGE RADIO", 242 Día de la victoria
+https://pub0202.101.ru:8000/stream/pro/aac/64/178
+
 #EXTINF:-1 group-title="ERROR", Static Noise (Archive.org)
 https://archive.org/download/tv-static-1080hd-60fps/tv%20static%201080hd%2060fps.mp4
 
