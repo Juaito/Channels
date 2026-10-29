@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV LOCAL", 01.3 Azteca Uno -1hr
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-
 #EXTINF:-1 group-title="TV LOCAL", 01.4 Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
