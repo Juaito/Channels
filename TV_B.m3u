@@ -447,6 +447,9 @@ https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/p
 #EXTINF:-1 group-title="CINE", 531 Grjngo
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QoZz1UMbsJ74wehy5Bn_
 
+#EXTINF:-1 group-title="CINE", 532 Artflix
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="CINE", 560 FreeTV Clásico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
 
