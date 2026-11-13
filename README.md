@@ -99,9 +99,13 @@ Muchas veces la suspensión de una emisión se puede deber simplemente a un perd
 
 En tiempo de gracia (Sin emisión <7 días): </br> </br>
 
-
-</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>
 
 Cuarentena reciente (Sin emisión <40 días): </br> </br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.1 Telesaltillo</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.1 Superchanel</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;155 HispanTV</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255 Irib</br>
 
 
