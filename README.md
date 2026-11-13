@@ -97,11 +97,11 @@ Estas listas de reproducción se mantienen de la manera más estable posible por
 
 Muchas veces la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 5 a 14 días antes de eliminarse de Radio, TV_A, TV_B, TV_C y TV_D.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a las lista TV_E o Radio_E para dejar en un período de cuarentena antes del borrado definitivo de todas las listas. </br> </br>
 
-En tiempo de gracia (Sin emisión <7 días): </br> </br>
+En tiempo de gracia (Sin emisión <7 días): </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>
 
-Cuarentena reciente (Sin emisión <40 días): </br> </br>
+Cuarentena reciente (Sin emisión <40 días): </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.1 Telesaltillo</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.1 Superchanel</br>
