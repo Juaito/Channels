@@ -93,7 +93,6 @@ El archivo <a href="https://github.com/Juaito/Channels/blob/main/TV_C.m3u">TV_C.
 El archivo [TV_E.m3u](https://github.com/Juaito/Channels/blob/main/TV_E.m3u) contiene canales con enlaces inestables o rotos.  La letra E suele corresponder a [errores 404](https://es.wikipedia.org/wiki/HTTP_404), [410](https://es.wikipedia.org/wiki/HTTP_410) o [301](https://es.wikipedia.org/wiki/HTTP_301).</br>
 
 <h3>Cambios en listas</h3>
-Estas listas de reproducción se mantienen de la manera más estable posible por parte de quien recopila, sin embargo, la transmisión de cada uno de los canales está sujeta a cambios por parte del emisor original que pueden ir desde el mero capricho, a cambios de politicas, cambios de derechos de transmisión o, a veces, ccambios de dirección web de cada emisión aún no detectada. </br>
-
+Estas listas de reproducción se mantienen de la manera más estable posible por parte de quien recopila, sin embargo, la transmisión de cada uno de los canales está sujeta a cambios por parte del emisor original que pueden ir desde el mero capricho, a cambios de politicas, cambios de derechos de transmisión o, a veces, ccambios de dirección web de cada emisión aún no detectada. </br> </br>
 
 Muchas veces la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 5 a 14 días antes de eliminarse de TV_A, TV_B y TV_C.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a la lista TV_E en periodo de cuarentena. 
