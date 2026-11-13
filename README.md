@@ -91,3 +91,8 @@ Imagen de las <a href="https://es.wikipedia.org/wiki/Choque_de_civilizaciones">9
 El archivo <a href="https://github.com/Juaito/Channels/blob/main/TV_C.m3u">TV_C.m3u</a> (versión más estable) contiene un conjunto de enlaces de todo tipo de contenido, incluso TV-MA, pero que se caracteriza por ser transmisiones que han mostrado más estabilidad durante los últimos 3 meses y sin la presencia de canales de eventos temporales.  A diferencia de TV_B, serán menos frecuentes las actualizaciones de este archivo, salvo que se trate para la edición de contenido que empiece a mostrar cambios de estabilidad en uno u otro sentido.</br>
 
 El archivo [TV_E.m3u](https://github.com/Juaito/Channels/blob/main/TV_E.m3u) contiene canales con enlaces inestables o rotos.  La letra E suele corresponder a [errores 404](https://es.wikipedia.org/wiki/HTTP_404), [410](https://es.wikipedia.org/wiki/HTTP_410) o [301](https://es.wikipedia.org/wiki/HTTP_301).</br>
+
+<h3>Cambios en listas</h3>
+Estas listas de reproducción se mantienen de la manera más estable posible por parte de quien recopila, sin embargo, la transmisión de cada uno de los canales está sujeta a cambios por parte del emisor original que pueden ir desde el mero capricho, a cambios de politicas, cambios de derechos de transmisión o, a veces, ccambios de dirección web de cada emisión aún no detectada. </br>
+
+Muchas veces la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 5 a 14 días antes de eliminarse de TV_A, TV_B y TV_C.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a la lista TV_E en periodo de cuarentena. 
