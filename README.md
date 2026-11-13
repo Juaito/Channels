@@ -108,4 +108,6 @@ Cuarentena reciente (Sin emisión <40 días): </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;155 HispanTV</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255 Irib</br>
 
+Última revisión: 13-11-26
+
 
