@@ -99,7 +99,7 @@ Muchas veces la suspensión de una emisión se puede deber simplemente a un perd
 
 En tiempo de gracia (Sin emisión <7 días): </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 701 ClaroSports 09-11-26</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>
 
 Cuarentena reciente (Sin emisión <47 días): </br>
 
@@ -107,6 +107,7 @@ Cuarentena reciente (Sin emisión <47 días): </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.1 Superchanel 31-10-26</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;155 HispanTV 05-11-26</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255 PressTV 05-11-26</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 701 ClaroSports 05-11-26</br>
 
 Última revisión: 13-11-26
 
