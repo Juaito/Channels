@@ -103,10 +103,10 @@ En tiempo de gracia (Sin emisión <7 días): </br>
 
 Cuarentena reciente (Sin emisión <40 días): </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.1 Telesaltillo</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.1 Superchanel</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;155 HispanTV</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255 Irib</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.1 Telesaltillo 11-11-26</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.1 Superchanel 11-11-26</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;155 HispanTV 11-11-26</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255 Irib 11-11-26</br>
 
 Última revisión: 13-11-26
 
