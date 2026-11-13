@@ -92,7 +92,7 @@ El archivo <a href="https://github.com/Juaito/Channels/blob/main/TV_C.m3u">TV_C.
 
 El archivo [TV_E.m3u](https://github.com/Juaito/Channels/blob/main/TV_E.m3u) contiene canales con enlaces inestables o rotos.  La letra E suele corresponder a [errores 404](https://es.wikipedia.org/wiki/HTTP_404), [410](https://es.wikipedia.org/wiki/HTTP_410) o [301](https://es.wikipedia.org/wiki/HTTP_301).</br>
 
-<h3>Canales inestables y cambios</h3>
+<h3>Canales rotos y cambios</h3>
 Estas listas de reproducción se mantienen de la manera más estable posible por parte de quien recopila, sin embargo, la transmisión de cada uno de los canales está sujeta a cambios por parte del emisor original que pueden ir desde el mero capricho, por cambios de politicas, cambios de derechos de transmisión o, a veces, cambios de dirección web de cada emisión aún no detectada por quien recopila. </br> </br>
 
 
