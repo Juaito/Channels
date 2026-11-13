@@ -96,9 +96,9 @@ El archivo [TV_E.m3u](https://github.com/Juaito/Channels/blob/main/TV_E.m3u) con
 Estas listas de reproducción se mantienen de la manera más estable posible por parte de quien recopila, sin embargo, la transmisión de cada uno de los canales está sujeta a cambios por parte del emisor original que pueden ir desde el mero capricho, por cambios de politicas, cambios de derechos de transmisión o, a veces, cambios de dirección web de cada emisión aún no detectada por quien recopila. </br> </br>
 
 
-En otras ocasiones la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 7 días antes de eliminarse de Radio, TV_A, TV_B, TV_C y TV_D.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a las lista TV_E o Radio_E para dejar en un período de cuarentena antes del borrado definitivo de un canal de todas las listas. </br>
+En otras ocasiones la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 7 días antes de eliminarse de Radio, TV_A, TV_B, TV_C y TV_D.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a las listas TV_E o Radio_E para dejar en un período de cuarentena para ser borrado definitivamente o dejarse como enlace de recuerdo, según convenga. </br>
 
-En los casos donde este clara una suspensión de caracter irreversible de un canal se colocará directamente en la lista TV_E1 Radio_E o borrado directo de todas las listas sin ningún tiempo de gracia.</br>
+En los casos donde este clara una suspensión de caracter irreversible de un canal se colocará directamente en la lista TV_E, Radio_E como archivo de recuerdo o someterse a borrado directo de todas las listas sin ningún tiempo de gracia.</br>
 
 En tiempo de gracia (Sin emisión <7 días): </br>
 
