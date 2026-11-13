@@ -98,7 +98,9 @@ Estas listas de reproducción se mantienen de la manera más estable posible por
 
 En otras ocasiones la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 7 días antes de eliminarse de Radio, TV_A, TV_B, TV_C y TV_D.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a las listas TV_E o Radio_E para dejar en un período de cuarentena para ser borrado definitivamente o dejarse como enlace de recuerdo, según convenga. </br>
 
-En los casos donde este clara una suspensión de caracter irreversible de un canal se colocará directamente en la lista TV_E, Radio_E como archivo de recuerdo o someterse a borrado directo de todas las listas sin ningún tiempo de gracia.</br>
+En los casos donde este clara una suspensión de caracter irreversible de un canal se colocará directamente, sin ningún tiempo de gracia, en la lista TV_E, Radio_E como archivo de recuerdo o someterse a borrado directo de todas las listas.</br>
+
+Por último, algunos canales pueden tener un bloqueo restringido y pueden aparecer como emisiones rotas en varias regiones del mundo.
 
 En tiempo de gracia (Sin emisión <7 días): </br>
 
