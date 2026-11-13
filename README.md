@@ -95,4 +95,13 @@ El archivo [TV_E.m3u](https://github.com/Juaito/Channels/blob/main/TV_E.m3u) con
 <h3>Cambios en listas</h3>
 Estas listas de reproducción se mantienen de la manera más estable posible por parte de quien recopila, sin embargo, la transmisión de cada uno de los canales está sujeta a cambios por parte del emisor original que pueden ir desde el mero capricho, a cambios de politicas, cambios de derechos de transmisión o, a veces, cambios de dirección web de cada emisión aún no detectada por quien recopila. </br> </br>
 
-Muchas veces la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 5 a 14 días antes de eliminarse de Radio, TV_A, TV_B, TV_C y TV_D.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a las lista TV_E o Radio_E para dejar en un período de cuarentena antes del borrado definitivo de todas las listas. 
+Muchas veces la suspensión de una emisión se puede deber simplemente a un perdida temporal y, por lo tanto, por política cada suspensión se dará un tiempo de gracia de alrededor de 5 a 14 días antes de eliminarse de Radio, TV_A, TV_B, TV_C y TV_D.  Una vez superado este período cada enlace roto a una emisión suspendida se transferirá a las lista TV_E o Radio_E para dejar en un período de cuarentena antes del borrado definitivo de todas las listas. </br> </br>
+
+En tiempo de gracia (Sin emisión <7 días): </br> </br>
+
+
+</br>
+
+Cuarentena reciente (Sin emisión <40 días): </br> </br>
+
+
