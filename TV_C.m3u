@@ -196,16 +196,16 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 282 China (CGTN Disovering)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://amg01314-amg01314c8-ondemandkorea-amesia-10247.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-ondemandkoreaamesia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 283 China (CGTN Travel)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+https://amg01314-amg01314c7-ondemandkorea-amesia-10246.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-ondemandkoreaamesia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 284 China (CGTN Global Biz)
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+https://amg01314-amg01314c6-ondemandkorea-amesia-10245.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-ondemandkoreaamesia/playlist.m3u8
 
-#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 286 China (C-Drama history)
-https://amg01923-amg01923c5-ondemandkorea-amesia-4868.playouts.now.amagi.tv/playlist/amg01923-odkmedia-chinesechannel1-ondemandkoreaamesia/playlist.m3u8
+#EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 286 China (C-Drama)
+https://ssai-us.vimai.io/v1/ssai_session.m3u8
 
 #EXTINF:-1 group-title="TV EN OTROS IDIOMAS", 287 China (C-Movies)
 https://amg01923-amg01923c6-ondemandkorea-amesia-4869.playouts.now.amagi.tv/playlist/amg01923-odkmedia-chinesechannel2-ondemandkoreaamesia/playlist.m3u8
