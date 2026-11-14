@@ -94,17 +94,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC
 #EXTINF:-1 group-title="RADIO FM", 89.7 MHz Radio Coahuila
 https://cryt-stream.mx:8443/cryt-xhsoc
 
-#EXTINF:-1 group-title="RADIO FM", 93.1 MHz Radio Hits 
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFM_SC
-
-#EXTINF:-1 group-title="RADIO FM", 93.5 MHz Stereo Saltillo
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFM_SC
-
 #EXTINF:-1 group-title="RADIO FM", 94.5 MHz Radio Zócalo Piedras
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC
-
-#EXTINF:-1 group-title="RADIO FM", 94.7 MHz Radio Imagen
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
 
 #EXTINF:-1 group-title="RADIO FM", 96.1 MHz Radio UNAM 
 https://tv.radiohosting.online:9484/stream
