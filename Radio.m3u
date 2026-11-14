@@ -109,15 +109,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
 #EXTINF:-1 group-title="RADIO FM", 96.1 MHz Radio UNAM 
 https://tv.radiohosting.online:9484/stream
 
-#EXTINF:-1 group-title="RADIO FM", 97.7 MHz Radio Concierto
-https://5c001c2729b09.streamlock.net:4443/live/_definst_/Radioconcierto.stream/chunklist_w1973637573.m3u8
-
-#EXTINF:-1 group-title="RADIO FM", 98.5 MHz Heraldo Radio
-https://n11.radiojar.com/g33sp4yqd6quv?rj-ttl=5&rj-tok=AAABkUqcdDkAgOWLGbg-G1m44Q
-
-#EXTINF:-1 group-title="RADIO FM", 98.9 MHz D99 MTY
-https://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
-
 #EXTINF:-1 group-title="RADIO FM", 102.5 MHz Noticias MVS
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
 
