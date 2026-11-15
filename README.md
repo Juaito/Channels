@@ -104,6 +104,9 @@ Por último, algunos canales pueden tener un bloqueo restringido y pueden aparec
 
 En tiempo de gracia (Sin emisión <7 días): </br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.1 UNAM</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21.1 Capital 21 </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24.1 Sizart </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>
 
 Cuarentena reciente (Sin emisión <47 días): </br>
