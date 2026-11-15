@@ -107,7 +107,6 @@ En tiempo de gracia (Sin emisión <7 días): </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.1 UNAM 15-11-26</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21.1 Capital 21 15-11-26 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24.1 SIZART 15-11-26</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>
 
 Cuarentena reciente (Sin emisión <47 días): </br>
 
@@ -116,6 +115,7 @@ Cuarentena reciente (Sin emisión <47 días): </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;155 HispanTV 05-11-26</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255 PressTV 05-11-26</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;701 ClaroSports 05-11-26</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>
 
 Última revisión: 15-11-26
 
