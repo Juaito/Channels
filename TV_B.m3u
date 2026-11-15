@@ -459,11 +459,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
 #EXTINF:-1 group-title="CINE", 566 FreeTV Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
 
-#EXTINF:-1 group-title="DEPORTES", 706 ITV Deportes
+#EXTINF:-1 group-title="DEPORTES", 705 AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
+#EXTINF:-1 group-title="DEPORTES", 706 AYM Sports 3
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 707 AYM Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="DEPORTES", 707 AYM Sports 5
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
 #EXTINF:-1 group-title="DEPORTES", 730 FIFA+
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xTv5scMmyL2hmvsHW5c8
@@ -503,9 +506,6 @@ https://sgai-us.vimai.io/v1/media/ba5a1716-4aa2-4448-adc0-19c069dcdd93/out_1.m3u
 
 #EXTINF:-1 group-title="DEPORTES", 768 Lucha Plus
 https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 769 CombaTV
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
 #EXTINF:-1 group-title="DEPORTES", 770 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
