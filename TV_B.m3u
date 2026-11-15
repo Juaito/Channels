@@ -468,6 +468,9 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="DEPORTES", 707 AYM Sports 5
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
+#EXTINF:-1 group-title="DEPORTES", 708 Unanimo Deportes
+https://amg26268-amg26268c37-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c37-amgplt0201/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", 730 FIFA+
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xTv5scMmyL2hmvsHW5c8
 
