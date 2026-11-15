@@ -6,6 +6,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="TV LOCAL", 01.3 Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
+#EXTINF:-1 group-title="TV LOCAL", 01.4 Azteca Uno -1hr
+https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8
+
 #EXTINF:-1 group-title="TV LOCAL", 02.1 Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
