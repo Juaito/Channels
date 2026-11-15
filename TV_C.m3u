@@ -396,11 +396,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
 #EXTINF:-1 group-title="CINE", 566 FreeTV Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
 
-#EXTINF:-1 group-title="DEPORTES", 706 ITV Deportes
+#EXTINF:-1 group-title="DEPORTES", 705 AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
+#EXTINF:-1 group-title="DEPORTES", 706 AYM Sports 3
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 707 AYM Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="DEPORTES", 707 AYM Sports 5
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
 #EXTINF:-1 group-title="DEPORTES", 733 Top Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
@@ -425,9 +428,6 @@ https://bbb-pbtv-freelivesports.otteravision.com/bbb/pbtv/pbtv.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", 768 Lucha Plus
 https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 769 CombaTV
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
 #EXTINF:-1 group-title="DEPORTES", 770 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
