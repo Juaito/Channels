@@ -384,9 +384,6 @@ http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="MÚSICA", 462 GugakTV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MÚSICA", 463 Hit Songs
-https://amg01923-amg01923c153-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c153-amgplt0187/playlist.m3u8
-
 #EXTINF:-1 group-title="MÚSICA", 470 Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
