@@ -105,11 +105,6 @@ Por último, algunos canales pueden tener un bloqueo restringido y pueden aparec
 En tiempo de gracia (Sin emisión <7 días): </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.3 Tlaxcala TV 16-11-26</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21.1 Capital 21 15-11-26 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24.1 SIZART 15-11-26</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140 RT 18-11-26</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;240 RT 18-11-26</br>
-
 
 Cuarentena reciente (Sin emisión <47 días): </br>
 
